@@ -9,6 +9,3 @@ Please click [here](https://go.gov.sg/ndd2022students) to visit NDD 2022 Stude
 Or scan the QRCode below:
 
 ![](/images/ndd2022students.png)
-
-
-
