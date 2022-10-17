@@ -2,9 +2,9 @@ collections:
   mk-at-nbps:
     output: true
     order:
-      - MK Programme.md
-      - Uniforms Purchase.md
-      - Contact Us.md
-      - Educators (Staff list).md
-      - Calendar of Events.md
       - Announcements.md
+      - Calendar of Events.md
+      - Educators (Staff list).md
+      - Contact Us.md
+      - Uniforms Purchase.md
+      - MK Programme.md
