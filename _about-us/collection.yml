@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Principal's Message.md
       - Vision, Mission, Values.md
+      - Principal's Message.md
       - Organisational Chart.md
       - Space and Facilities.md
       - School Song.md
