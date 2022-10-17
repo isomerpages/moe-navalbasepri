@@ -1,4 +1,5 @@
 collections:
   the-navalite-programme:
     output: true
-    order: []
+    order:
+      - APPLIED LEARNING PROGRAMME (ALP).md
