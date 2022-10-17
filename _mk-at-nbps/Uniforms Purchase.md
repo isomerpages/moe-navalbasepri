@@ -43,4 +43,12 @@ description: ""
 
 *   Available size: XS – 5XL, additional charges are applicable for odd sizes (See Annex A for measurements)
 
+<img style="width: 20%;" src="/images/uniform_purchase.png" align = "left" />  **SALES CHANNEL**
 
+<br>
+
+|    |                                                                                                |                                   |
+|----|------------------------------------------------------------------------------------------------|-----------------------------------|
+| 1. | Retail outlet at  4012 Ang Mo Kio Ave 10 #01-08 Techplace 1 Singapore 569628 6456 3198         | Available from 1 Jan 2020 onwards |
+| 2. | E-store - website and mobile version (Delivery charge of $5 per order) www.jeepsinguniform.com | Available from 1 Jan 2020 onwards |
+| 3. | Sale of MK uniform at school bookshops                                                         | Available by Mar 2020             |
