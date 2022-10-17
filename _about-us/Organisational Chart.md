@@ -7,6 +7,8 @@ description: ""
 
 ### EXCO TEAM
 
+<br>
+
 | SCHOOL LEADERS          |                                                                   |
 |-------------------------|-------------------------------------------------------------------|
 | Principal               | Mrs Sita Singh Sita_SINGH@schools.gov.sg                          |
