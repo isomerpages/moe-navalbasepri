@@ -36,6 +36,35 @@ During PAL, students are exposed to varied and fun learning experiences in four 
 | -------- | -------- |
 |    ![](/images/aesthetics2020_pal.png)  |   ![](/images/aesthetics2020_pal2.jpeg)   | 
 
+All our P1 and 2 students will go through these modules:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Primary 1</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Primary 2</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y7qa">Sports and Games <br>Drama<br>Outdoor Education<br>Music</td>
+    <td class="tg-y7qa"><span style="background-color:initial">Visual Arts</span><br>Outdoor Education<br>Drama<br><span style="background-color:initial">Sports &amp; Games</span></td>
+  </tr>
+</tbody>
+</table>
+
+#### ARTS BEAT CARNIVAL
+
+In line with the school’s continuous efforts to provide a holistic development for our students, our annual Arts Beat Carnival (ABC) helps to increase our students’ exposure to different arts forms across the Visual and Performing Arts. It also creates a platform for students to showcase their artistic talents and skills. The photos below offer a glimpse of some of the activities that are carried out during the week-long carnival:
 
 
 
