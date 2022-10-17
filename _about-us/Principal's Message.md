@@ -5,7 +5,7 @@ description: ""
 ---
 ## PRINCIPAL'S MESSAGE
 
-<img style="width: 50%;" src="/images/Mrs%20Sita%20Singh.jpeg" align = "left"/>
+<img style="width: 30%;" src="/images/Mrs%20Sita%20Singh.jpeg" align = "left"/>
 
 In education, we have a saying, “It takes a village to raise a child.” In Naval Base Primary School, our community and our teachers form that village. It is our mission to raise every child to be leaders capable of facing and rising to challenges.
 
