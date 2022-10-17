@@ -35,3 +35,26 @@ description: ""
 | SH Student Leadership (SL)   | Mr Kalaiselvan S/O Balasubramaniam kalaiselvan_balasubramaniam@moe.edu.sg |
 | SH Infocomm Technology (ICT) | Miss Amanda Huang    amanda_huang_xuanqi@moe.edu.sg                       |
 
+| LEVEL HEAD (LH)     |                                                        |
+|---------------------|--------------------------------------------------------|
+| LH English (EL)     | Mrs Rathana Ravendra rathana_ravendra@moe.edu.sg       |
+| LH English (EL)     | Mrs Liu Choi Yen Agnes leong_choi_yen_agnes@moe.edu.sg |
+| LH Mathematics (MA) | Mrs Loke-Ng Hui Min ng_hui_min_c@moe.edu.sg            |
+| LH Mathematics (MA) | Mrs Loy-Ng Li Ping ng_li_ping_b@moe.edu.sg             |
+| LH Science (SC)     | Mr Wong Wai Liong wong_wai_liong@moe.edu.sg            |
+
+| YEAR HEAD (YH) |                                                                         |
+|----------------|-------------------------------------------------------------------------|
+| YH (P1 & P2)   | Ms Siti Zubaidah Binte Rahmat siti_zubaidah_rahmat@moe.edu.sg           |
+| YH (P3 & P4)   | Mr M Anwar m_anwar_my@moe.edu.sg                                        |
+| AYH (P3 & P4)  | Mr Brian Nguyen nguyen_wei_jieh_brian@moe.edu.sg                        |
+| AYH (P5 & P6)  | Mr Muhammad Jailani Bin Abu Talib muhammad_jailani_abu_talib@moe.edu.sg |
+| AYH (P5 & P6)  | Ms Angeline Zeng zeng_qiufeng_angeline@moe.edu.sg                       |
+
+| TEACHER LEADER COUNCIL      |                                                         |
+|-----------------------------|---------------------------------------------------------|
+| LT English (EL)             | Mrs Jennifer Devadass jennifer_devadass_neo@moe.edu.sg  |
+| ST English (EL)             | Mr Lee Teck Koon Alex lee_teck_koon_alex@moe.edu.sg     |
+| ST Tamil Language (TL)      | Mrs Vasagi Kumarasen  vasagi_kumarasen@moe.edu.sg       |
+| ST Physical Education (PE)  | Mr Sim Chee Kuan sim_chee_kuan@moe.edu.sg               |
+| ST Lower Primary            | Ms Norfadilah Binte Kamsha norfadilah_kamsha@moe.edu.sg |
