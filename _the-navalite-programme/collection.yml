@@ -2,8 +2,6 @@ collections:
   the-navalite-programme:
     output: true
     order:
-      - Character Development/Character & Citizenship Education.md
-      - Character Development/.keep
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Subjects/.keep
@@ -15,3 +13,5 @@ collections:
       - Subjects/Mathematics.md
       - Subjects/Science.md
       - Subjects/Aesthetics.md
+      - Character Development/.keep
+      - Character Development/Character & Citizenship Education.md
