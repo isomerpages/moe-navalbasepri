@@ -6,3 +6,5 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
+  - title: For Students
+    collection: for-students
