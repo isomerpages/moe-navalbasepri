@@ -2,5 +2,6 @@ collections:
   for-students:
     output: true
     order:
+      - Calendar of Events.md
       - Useful Links.md
       - NDD 2022 STUDENTS.md
