@@ -1,9 +1,9 @@
-title: Title
+title: Naval Base Primary School
 url: https://navalbasepri.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/logo.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#0d0de1"
+  secondary-color: "#de283c"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1z0547tdcqcnu.amplifyapp.com
 prod: https://master.d1z0547tdcqcnu.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
