@@ -41,4 +41,3 @@ The Mother Tongue Curriculum aims to make learning Mother Tongue Language an enj
  o   Use of ICT tools in class
  
  
- 
