@@ -21,5 +21,16 @@ Our students have opportunities to conduct investigations with the wealth of sci
 | -------- | -------- | -------- |
 | ![](/images/classroom1.jpeg)     | ![](/images/classroom2.jpeg)     | ![](/images/classroom3.jpeg)     |
 
+#### LEARNING BEYOND THE CLASSROOM
+
+Our Science lessons take our students beyond the walls of the classroom. We arrange learning journeys to the Singapore Science Centre for our Primary 3 to 6 students where they have greater hands-on experiences with the vast resources that the Science Centre provides. To bring relevance to what they learn, for example, Primary 5 students go through a Terrarium Workshop to understand the concepts of the Water Cycle. Through our Outdoor Education Learning area, we hope to cultivate our students love for nature and the environment.
+
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+|   ![](/images/learning1.jpeg)   |   ![](/images/learning2.jpeg)   |   ![](/images/learning3.jpeg)   |
+
+
 
 
