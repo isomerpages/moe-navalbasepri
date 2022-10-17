@@ -31,6 +31,17 @@ Our Science lessons take our students beyond the walls of the classroom. We arra
 | -------- | -------- | -------- |
 |   ![](/images/learning1.jpeg)   |   ![](/images/learning2.jpeg)   |   ![](/images/learning3.jpeg)   |
 
+#### EXCELLENCE 2000 SCIENCE PROGRAMME (E2K SCIENCE)
+
+The E2K Science Programme Singapore is a Science enrichment programme for upper primary students who demonstrate interest and ability in Science. The programme is adapted from Israel’s E2K Programme which is developed by the Israel Centre for Excellence through Education (ICEE). The programme aims to develop scientific inquiry process skills among high-ability primary students in Science, as well as nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
+
+
+
+
+|  |  | 
+| -------- | -------- | 
+|  ![](/images/e2k1.jpeg)    | ![](/images/e2k2.jpeg)    | 
+
 
 
 
