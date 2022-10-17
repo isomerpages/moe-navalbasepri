@@ -4,6 +4,6 @@ collections:
     order:
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
-      - Subjects/Mother Tongue.md
-      - Subjects/English.md
       - Subjects/.keep
+      - Subjects/English.md
+      - Subjects/Mother Tongue.md
