@@ -66,7 +66,17 @@ All our P1 and 2 students will go through these modules:
 
 In line with the school’s continuous efforts to provide a holistic development for our students, our annual Arts Beat Carnival (ABC) helps to increase our students’ exposure to different arts forms across the Visual and Performing Arts. It also creates a platform for students to showcase their artistic talents and skills. The photos below offer a glimpse of some of the activities that are carried out during the week-long carnival:
 
+
+Assembly show on Singapore's music history
 ![](/images/aesthetics_abc.jpeg)
+
+
+Showcase of students' art works at the Navalite Art Exhibition
+![](/images/aesthetics_artexh.jpeg)
+
+Exploring with various colours, materials and tools in a collaborative art work
+![](/images/aesthetics_canteen.jpeg)
+
 
 
 
