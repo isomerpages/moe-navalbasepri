@@ -1,0 +1,4 @@
+collections:
+  mk-at-nbps:
+    output: true
+    order: []
