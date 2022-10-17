@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
+      - Vision, Mission, Values.md
       - Organisational Chart.md
       - Space and Facilities.md
       - School Song.md
       - Contact Us.md
-      - Vision, Mission, Values.md
