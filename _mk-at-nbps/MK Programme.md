@@ -6,5 +6,3 @@ description: ""
 ## MK PROGRAMME
 
 ![](/images/MK%20Schedule%202.png)
-
-
