@@ -77,6 +77,6 @@ Showcase of students' art works at the Navalite Art Exhibition
 Exploring with various colours, materials and tools in a collaborative art work
 ![](/images/aesthetics_canteen.jpeg)
 
-
-
+Watching and learning some dance steps from our Dance CCA members
+![](/images/aesthetics_dancemem.jpeg)
 
