@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Title
+title: Naval Base Primary School
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/logo.png
 permalink: /
 notification: ""
 sections:
@@ -29,4 +29,5 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
