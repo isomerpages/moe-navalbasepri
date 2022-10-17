@@ -14,5 +14,6 @@ Group Personal Accident (GPA) Insurance for Students:
 
 2.  For more information, please visit [Here.](https://www.income.com.sg/group-personal-accident-for-students)
 3.  eSubmission of Claim : [Here.](https://studentgpa.incomegroupins.com.sg/#/)
-4.  eSubmission User Guide for Parents: [Here.](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/For%20Parents/insurance/StudentGPAUserGuide-Parent.pdf)
+4.  eSubmission User Guide for Parents: [Here.](/files/StudentGPAUserGuide-Parent.pdf)
 5.  For contact details, please visit [Here.](https://www.income.com.sg/contact-us)
+
