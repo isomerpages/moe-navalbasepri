@@ -96,11 +96,35 @@ Students had an enjoyable and meaningful time learning and participating in the�
 
 #### NAVALITES' GOT TALENT
 
-![](/images/navalitesgottalent_badge.png)
+<img style="width: 30%;" src="/images/navalitesgottalent_badge.png" align = "center" /> 
 
+Newly introduced in 2020, Navalites Got Talent is a recess talent showcase where students can sign up to perform for their peers during recess. Students perform individually or in groups with their friends, and show-off their skills ranging from singing, dancing to playing an instrument.
 
+![](/images/aesthetics_navtalent.jpeg)
 
+![](/images/aesthetics_navtalent2.jpeg)
 
+![](/images/aesthetics_navtalent3.jpeg)
+
+This year, due to the Safe Management Measures in schools, students recorded and submitted their performances from the comfort of their homes instead. Their performances were showcased digitally to their schoolmates via SLS as well as through Zoom during assembly.
+
+![](/images/navalitesgottalent2021.jpeg)
+
+#### AESTHETICS OPPORTUNITIES FOR LEARNING
+
+**Learning Journey – An experience at a Drama/Musical** 
+
+In collaboration with the English department, All P3 students will attend a play/musical. Students learn to practice their school values and learn about theatre etiquette. At the end of the learning journey, students return back to class to write about their experiences in their journals.
+
+![](/images/aesthetics_dramamusical.png)
+
+AESTHETICS IN-HOUSE COMPETITION 
+
+Each year, the school organises the “Navalite Compass and Bookmark Competition” for students to submit their designs for the cover and bookmark of their student handbook, known as the “Navalite Compass”. The shortlisted designs then go through a round of voting by the students and the winning entry will be used as the design of the Navalite Compass for the following year. Through this competition, students have an opportunity to express their pride in NBPS through drawing while having a greater ownership over the handbook that they bring to school every day.
+
+![](/images/aesthetics%206.png)
+
+![](/images/AES_Combined.png)
 
 
 
