@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Space and Facilities.md
       - School Song.md
       - Contact Us.md
       - Vision, Mission, Values.md
