@@ -14,6 +14,8 @@ description: ""
 | Vice-Principal          | Mdm Lim Wai Choo lim_wai_choo@schools.gov.sg                      |
 | Vice-Principal (Admin)  | Mdm Tham Lai Peng Agnes Agnes_THAM@schools.gov.sg                 |
 
+<br>
+
 | HEAD OF DEPARTMENT (HOD)                      |                                                             |
 |-----------------------------------------------|-------------------------------------------------------------|
 | School Staff Developer (SSD)                  | Mdm Chia Yee Ming, Julia chia_yee_ming_julia@moe.edu.sg     |
@@ -29,11 +31,15 @@ description: ""
 | HOD Student Well-being (SWB)                  | Mrs Esther Ng lee_siew_leng_a@moe.edu.sg                    |
 | HOD Special Educational Needs (SEN)           | Mr Thomas Low  thomas_low@moe.edu.sg                        |
 
+<br>
+
 | SUBJECT HEAD (SH)            |                                                                           |
 |------------------------------|---------------------------------------------------------------------------|
 | SH Malay (ML)                | Mdm Makhfadzah Bte Abu Bakar makhfadzah_abu_bakar@moe.edu.sg              |
 | SH Student Leadership (SL)   | Mr Kalaiselvan S/O Balasubramaniam kalaiselvan_balasubramaniam@moe.edu.sg |
 | SH Infocomm Technology (ICT) | Miss Amanda Huang    amanda_huang_xuanqi@moe.edu.sg                       |
+
+<br>
 
 | LEVEL HEAD (LH)     |                                                        |
 |---------------------|--------------------------------------------------------|
@@ -43,6 +49,8 @@ description: ""
 | LH Mathematics (MA) | Mrs Loy-Ng Li Ping ng_li_ping_b@moe.edu.sg             |
 | LH Science (SC)     | Mr Wong Wai Liong wong_wai_liong@moe.edu.sg            |
 
+<br>
+
 | YEAR HEAD (YH) |                                                                         |
 |----------------|-------------------------------------------------------------------------|
 | YH (P1 & P2)   | Ms Siti Zubaidah Binte Rahmat siti_zubaidah_rahmat@moe.edu.sg           |
@@ -50,6 +58,8 @@ description: ""
 | AYH (P3 & P4)  | Mr Brian Nguyen nguyen_wei_jieh_brian@moe.edu.sg                        |
 | AYH (P5 & P6)  | Mr Muhammad Jailani Bin Abu Talib muhammad_jailani_abu_talib@moe.edu.sg |
 | AYH (P5 & P6)  | Ms Angeline Zeng zeng_qiufeng_angeline@moe.edu.sg                       |
+
+<br>
 
 | TEACHER LEADER COUNCIL      |                                                         |
 |-----------------------------|---------------------------------------------------------|
