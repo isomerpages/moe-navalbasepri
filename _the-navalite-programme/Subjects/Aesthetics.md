@@ -80,3 +80,27 @@ Exploring with various colours, materials and tools in a collaborative art work
 Watching and learning some dance steps from our Dance CCA members
 ![](/images/aesthetics_dancemem.jpeg)
 
+Listening to and trying out some band instruments with the help of our Band members
+![](/images/aesthetics_canteenband.jpeg)
+
+Performing songs, dances and magic shows at Talentime
+![](/images/Aesthetics_talentime.jpeg)
+
+Learning and watching Wayang Kulit perforamances put up by the Drama Club and trying out the puppets
+![](/images/aesthetics_wayang.jpeg)
+
+Students (together with their fathers) putting together and designing their own ukuleles.
+![](/images/aesthetics_father.png)
+
+Students had an enjoyable and meaningful time learning and participating in the various aesthetics activities!
+
+#### NAVALITES' GOT TALENT
+
+![](/images/navalitesgottalent_badge.png)
+
+
+
+
+
+
+
