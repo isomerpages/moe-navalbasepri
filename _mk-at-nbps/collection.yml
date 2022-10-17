@@ -2,6 +2,7 @@ collections:
   mk-at-nbps:
     output: true
     order:
+      - Contact Us.md
       - Educators (Staff list).md
       - Calendar of Events.md
       - Announcements.md
