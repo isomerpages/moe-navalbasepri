@@ -106,4 +106,5 @@ It is: 
     
 *   learning beyond the books
     
-*   being self-motivated to lear
+*   being self-motivated to learn 
+
