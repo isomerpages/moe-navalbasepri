@@ -3,7 +3,7 @@ url: https://navalbasepri.moe.edu.sg
 favicon: /images/logo.png
 colors:
   primary-color: "#0d0de1"
-  secondary-color: "#de283c"
+  secondary-color: "#eb4c5e"
   media-colors:
     - title: media-color-one
       color: "#49759a"
