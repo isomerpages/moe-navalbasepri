@@ -74,4 +74,23 @@ In 2022, the Mother Tongue (MT) department started a website to showcase essay
 </tbody>
 </table>
 
-![](/images/mothertoungeqr.png)
+<br>
+
+<img style="width: 50%;" src="/images/mothertoungeqr.png" align = "center" /> 
+
+![](/images/Picture2.png)
+
+Besides spotlighting the works of our budding young writers the website features students' book reviews to encourage Navalites to read widely and foster a reading culture in the school.
+
+![](/images/MT1.jpeg)
+
+![](/images/MT2.jpeg)
+
+![](/images/MT3.jpeg)
+There are also many engaging student performances in MT languages to view!
+
+![](/images/MT4.png)
+Navalites interested in showcasing their work may submit their entries via their MT teachers. Submission can be in the form of essays, book reviews or MT-related performances and are accepted throughout the year. All submissions are subjected to a selection process prior to publication on the website.
+
+
+
