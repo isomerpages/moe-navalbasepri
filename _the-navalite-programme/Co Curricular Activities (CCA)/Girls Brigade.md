@@ -35,3 +35,9 @@ Our girls are also provided with opportunities to plan events such as community 
 The GB 63rd Singapore Company started in NBPS in 2004. Since our inauguration, we have clinched the The Girls’ Brigade Singapore Company (63rd Co) Award (Gold), the highest prestige by The Girls’ Brigade Singapore, annually for our contribution and success in grooming our girls into servant leaders. We have also achieved the Gold Award in the Low Guat Tin Challenge 2017.
 
 
+
+|  |  |  |
+| -------- | -------- | -------- |
+|  ![](/images/gb2.jpeg)    |  ![](/images/gb3.jpeg)    |    ![](/images/gb4.jpeg)  |
+|    ![](/images/gb5.jpeg)  |  ![](/images/gb6.jpeg)    |      |
+
