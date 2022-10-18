@@ -54,3 +54,11 @@ MISSION :
 *   BB Character Quest Silver Honour Roll 2018  
 *   BB Silver Honour Roll for JM Fraser Award for 2019
 *   BB Week 2020 Liau Nyuk Siong Challenge Trophy Award
+
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+|   ![](/images/boysb2.png)   |   ![](/images/boysb3.png)   |    ![](/images/boysb4.png)  |
+|   ![](/images/boysb4.png)   |   ![](/images/boysb5.png)   | ![](/images/boysb6.png)     |
+
