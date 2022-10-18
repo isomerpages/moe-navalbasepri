@@ -28,6 +28,30 @@ It is the development of skills to recognise and manage one’s emotions, develo
 
 The thinking, reasoning, creating, and decision-making processes in PAL, contribute to the students’ cognitive development. The hands-on and physical activities develop their psychomotor skills. The incorporation of values and SEL develop them in the social and moral domains. Similarly, their awareness and appreciation of the world around them, whether in the arts or the outdoors, promote that sense of appreciation of the Arts.
 
-![](/images/piechart.png)
 
+<img style="width: 50%;" src="/images/piechart.png">
+
+### 4 DOMAINS IN PAL
+
+PAL provides a broad exposure of experiences to our pupils in the 4 domains: Sport & Games, Outdoor Education, Performing Arts and Visual Arts. It offers a balance between the academic and non-academic areas in the school, and facilitates holistic and well-rounded development of our students.
+
+At Naval Base Primary, your child will go through these modules at Primary 1 and 2 within their curriculum (2 periods a week).
+
+Due to the nature of PAL lessons, students are to be properly attired (PE attire) on their PAL days.
+
+![](/images/modules.png)
+
+### PAL SNAPSHOTS @ NBPS
+
+Our students look forward to PAL lessons every week. Below are some snapshots of what students learn and enjoy about PAL.
+
+
+
+| |  | 
+| -------- | -------- | 
+|  ![](/images/pal1.png)   |   ![](/images/pal1txt.png)   | 
+|  ![](/images/pal2txt.png) |   ![](/images/pal2.png)   | 
+|  ![](/images/pal3.png)   |   ![](/images/pal3txt.png)  | 
+|  ![](/images/pal4txt.png)   |   ![](/images/pal4.png)   | 
+|  ![](/images/pal1.png)   |   ![](/images/pal1txt.png)   | 
 
