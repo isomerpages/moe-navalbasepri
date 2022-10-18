@@ -2,6 +2,7 @@ collections:
   the-navalite-programme:
     output: true
     order:
+      - Co Curricular Activities (CCA)/Boys' Brigade.md
       - Co Curricular Activities (CCA)/.keep
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
