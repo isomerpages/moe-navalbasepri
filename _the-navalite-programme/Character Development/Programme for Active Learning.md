@@ -52,6 +52,5 @@ Our students look forward to PAL lessons every week. Below are some snapshots of
 |  ![](/images/pal1.png)   |   ![](/images/pal1txt.png)   | 
 |  ![](/images/pal2txt.png) |   ![](/images/pal2.png)   | 
 |  ![](/images/pal3.png)   |   ![](/images/pal3txt.png)  | 
-|  ![](/images/pal4txt.png)   |   ![](/images/pal4.png)   | 
-|  ![](/images/pal1.png)   |   ![](/images/pal1txt.png)   | 
-
+|  ![](/images/pal5pic.png)   |   ![](/images/pal5.png)   | 
+|  ![](/images/pal6txt.png)   |   ![](/images/pal6.png)   |
