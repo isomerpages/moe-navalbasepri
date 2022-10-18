@@ -236,6 +236,32 @@ In addition, Navalites also learnt about traditional games and how to be a good 
 
 
 
+![](/images/RHD7.jpeg)
+
+##### NATIONAL DAY CELEBRATIONS 2021: "TOGETHER, OUR SINGAPORE SPIRIT"  
+
+In celebration of Singapore’s independence, Navalites were engaged in a school-wide celebration over Zoom. Students were encouraged to dress up as frontline workers to pay tribute to their contributions to Singapore. The solemn observance ceremony was followed by a two-part celebration based on the theme for NDP 2021 “Together, Our Singapore Spirit”.
+
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+|  ![](/images/ND2021_1.jpeg)   |   ![](/images/ND2021_2.jpeg)   |  ![](/images/ND2021_3.jpeg)   |
+
+
+
+|  |  | 
+| -------- | -------- | 
+| ![](/images/ND2021_4.jpeg)    | ![](/images/ND2021_5.jpeg)     |      
+
+
+“Part I: Together” saw Navalites enjoying this year’s National Day Parade theme song “The Road Ahead” and reflecting about our history and culture after watching a skit “Ramanujan & the Mixed-up Washing”.
+
+
+|  |  |  |  |
+| -------- | -------- | -------- |  -------- |
+|   ![](/images/ND2021_6.jpeg)   |   ![](/images/ND2021_7.jpeg)   |  ![](/images/ND2021_8.jpeg)    |   ![](/images/ND2021_9.jpeg)   |
+
 
 
 
