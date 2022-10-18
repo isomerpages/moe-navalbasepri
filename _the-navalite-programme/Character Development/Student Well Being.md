@@ -62,8 +62,63 @@ The students attend career talks by our staff who have been in other occupations
 
 |  |  | 
 | -------- | -------- | 
-|   ![](/images/Careertalk1.png)   |  ![](/images/Careertalk2.png)   | 
+|   ![](/images/Careertalk1.png)   |  ![](/images/Careertalk2.png)   |
+
+**c) Career Guidance Seminar** 
+
+Every year, our P6 students attend career talks by invited guest speakers. They learn insights about different careers, as they get up close and personal with them during the sharing sessions.
+
+  
+
+In 2020, we invited social workers, a make-up artist & businesswoman, a corporate tax officer(an ex student) and a pastry chef. The sharing was conducted via zoom.
+
+  
+
+The guest speakers shared on the following with the students:
+
+\- What are the qualifications/skills to be a/an….
+
+\- What are the values/qualities one must have to be a/an….
+
+\- What do they enjoy being a/an….
+
+\- What are the challenges that they come across in this job...
+
+  
+
+There was certainly much interaction and learning by the students during the seminar.
+
+  
+**d) Career Trails**
+
+The P1 and P2 students go on a Career Trail to find out more about the different jobs available in the school such as staff in the general office, canteen stallholder and bookshop. Students certainly have fun doing this as they went around the school interviewing these people.
+
+![](/images/careertrail.png)
+
+**e) Career Learning Journey** 
+
+As part of NBPS educational career guidance, we aim to expose our students to a wide variety of careers so that they may make an informed decision in the future.
+
+i) In 2019, our P6 students participated in the learning journey to KidZania Singapore at Sentosa.
+
+![](/images/careerlearningjourney.jpeg)
+
+ii) KidZania also came to our school and set up booths comprising several occupations so that students have an extended hands-on experience.
+
+![](/images/kidzania_ii.png)
+
+iii) Some students also had the opportunity to visit a law firm at Marina One to learn more about being a lawyer. There was much interaction between the lawyer and the students during this learning journey.
+
+### MOE SEXUALITY EDUCATION IN SCHOOLS
 
 
+|  |  | 
+| -------- | -------- | 
+|    ![](/images/marina1.png)  |   ![](/images/marina2.png)   | 
 
+
+Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.  
+
+  
+You may click [**here**](https://navalbasepri.moe.edu.sg/the-navalites-programme/student-well-being/moe-s-sexuality-education-in-schools) for more information on MOE Sexuality Education
 
