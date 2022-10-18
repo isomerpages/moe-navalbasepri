@@ -121,4 +121,3 @@ Sexuality Education (SEd) in schools is about enabling students to understand th
 
   
 You may click [**here**](https://navalbasepri.moe.edu.sg/the-navalites-programme/student-well-being/moe-s-sexuality-education-in-schools) for more information on MOE Sexuality Education
-
