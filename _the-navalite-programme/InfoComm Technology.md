@@ -57,3 +57,16 @@ Throughout the year, **Home-Based-Learning (HBL) sessions** will also be condu
 
 At NBPS, every learner matters. We work actively with eligible households to acquire their own Internet-enabled computing devices through the **NEU PC Plus programme** **that offers low-income households with the opportunity to do so at an affordable price**. Please click **[here](https://www.imda.gov.sg/programme-listing/neu-pc-plus)** to find out more or approach our General Office for further assistance.
 
+#### PROVIDE OPPORTUNITIES FOR INNOVATION AND CO-CREATION WITH TECHNOLOGY 
+
+**<u>Navalite Discovery Day (NDD)</u>**
+
+Since 2017, Primary 3 and Primary 4 Navalites are challenged to exercise their critical and inventive thinking skills to propose innovative solutions to real world problems during NDD. With information easily accessible at their fingertips, Navalites are given the opportunities to access infinite knowledge, apply them to real world problems and to realise the impact they can make through their innovations. In the process, Navalites apply their new media literacy skills to curate, connect and create digital artefacts.
+
+**<u>Code For Fun (CFF)</u>**
+
+Starting 2020, Primary 5 Navalites undergo an extensive 10-hours CFF Programme to learn more about computational thinking, programming and artificial intelligence. Besides learning to use a block-based programming to write a code for the Sphero Bot to complete specific challenges, they also learn about the applications of artificial intelligence to improve the quality of life.
+
+**<u>Game-Making</u>**
+
+In close collaboration with the Aesthetics Department, Primary 6 Navalites embark on a coding programme to learn about games creation during their Art and Music lessons. Through the programme, Navalites learn to code their own games and to insert customized elements of music and characters.
