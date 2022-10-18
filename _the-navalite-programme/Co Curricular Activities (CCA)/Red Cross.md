@@ -30,8 +30,7 @@ Mission:
 *   National First-Aid Championship (Bronze)
 
 
-
 |  | | 
 | -------- | -------- | 
-| ![](/images/RC2.png)     |      | 
-| ![](/images/RC5.png)     |      |
+| ![](/images/RC2.png)     |  ![](/images/RC4.png)   | 
+| ![](/images/RC5.png)     |    ![](/images/RC3.jpeg)  |
