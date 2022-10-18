@@ -34,6 +34,4 @@ Mission:
 |  | | 
 | -------- | -------- | 
 | ![](/images/RC2.png)     |      | 
-| ![](/images/RC5.png)     | Text     | 
-
-
+| ![](/images/RC5.png)     |      |
