@@ -85,3 +85,14 @@ Motto:
 
 2020: Senior team achieved a top 8 finish in the North Zone National School Games competition; Junior team qualified for Tier 2 of the competition. Competition was suspended in April 2020
 
+![](/images/soccer%20team.jpeg)
+2016 North Zone Final (Photo by Mr Chris Harvey)
+
+![](/images/fb2.jpeg)
+2015 NBPS Invitational Tournament Champion
+
+![](/images/fb3.jpeg)
+2019 North Zone Senior Team
+
+![](/images/fb4.jpeg)
+2019 North Zone Junior Team
