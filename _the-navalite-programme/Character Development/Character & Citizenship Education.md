@@ -282,12 +282,3 @@ Despite the constraints we have during this pandemic, our Singapore Spirit keeps
 |  |  |  |
 | -------- | -------- | -------- |
 |   ![](/images/ND2021_15.jpeg)   |  ![](/images/ND2021_16.jpeg)    | ![](/images/ND2021_17.jpeg)    |
-
-
-
-
-
-
-
-
-
