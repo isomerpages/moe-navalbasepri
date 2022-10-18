@@ -262,6 +262,31 @@ In celebration of Singapore’s independence, Navalites were engaged in a school
 | -------- | -------- | -------- |  -------- |
 |   ![](/images/ND2021_6.jpeg)   |   ![](/images/ND2021_7.jpeg)   |  ![](/images/ND2021_8.jpeg)    |   ![](/images/ND2021_9.jpeg)   |
 
+“Part II: Our Singapore Spirit” opened with a video, “National Day Through the Years”. Our Navalites were excited to hear their Principal, Vice-Principals and teachers’ recollection of past National Days and learnt how Singapore has continued to progress and overcome all odds. The celebrations ended off on a high note with Navalites playing table rhythms and dancing to National Day songs, and watching their friends’ recorded performances.
+
+
+
+|  |  | 
+| -------- | -------- | 
+|   ![](/images/ND2021_10.jpeg) <br> _“National Day Through The Years” video_   |   ![](/images/ND2021_11.jpeg)  <br> _NDP Theme Song Dance Video_ | 
+
+Despite the constraints we have during this pandemic, our Singapore Spirit keeps us going to be resilient, determined and creative to reinvent the way we celebrate our nation’s independence.
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+|  ![](/images/ND2021_12.jpeg)    |  ![](/images/ND2021_13.jpeg)   |  ![](/images/ND2021_14.jpeg)    |
+
+**<center>Happy 56th birthday, Singapore!</center>**
+
+|  |  |  |
+| -------- | -------- | -------- |
+|   ![](/images/ND2021_15.jpeg)   |  ![](/images/ND2021_16.jpeg)    | ![](/images/ND2021_17.jpeg)    |
+
+
+
+
+
 
 
 
