@@ -16,3 +16,24 @@ Mission:
 
 > Develop confident youth leaders with morals, good work values, competencies in 21st century, social emotional competencies, contribute to communities and loyal to Singapore.
 
+#### NAVALITES HAVE THE OPPORTUNITIES TO PARTICIPATE IN THE FOLLOWING EVENTS:
+
+*   Excellence Unit Award (Annual)
+*   National First-Aid Championship (Annual)
+*   World Red Cross Day 
+*   Enrolment Ceremony (P3) 
+*   Graduation Ceremony (P6)
+
+#### OUR ACHIEVEMENTS:
+
+*   Excellence Unit Award (Gold)
+*   National First-Aid Championship (Bronze)
+
+
+
+|  | | 
+| -------- | -------- | 
+| ![](/images/RC2.png)     |      | 
+| ![](/images/RC5.png)     | Text     | 
+
+
