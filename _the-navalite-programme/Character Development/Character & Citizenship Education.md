@@ -96,3 +96,82 @@ These are the level programmes in NBPS:
   </tr>
 </tbody>
 </table>
+
+### VIA
+
+**P2: Doing My Part At Home**
+
+As part of VIA, our P2 students demonstrate what it means to be responsible, starting from their homes as they help out with the simple household chores.
+
+![](/images/Snap3.jpeg)
+
+![](/images/Snap4.jpeg)
+
+![](/images/Snap5.jpeg)
+
+**P5 & P6 VIA：NBPS Cares Project**  
+
+As part of their Values in Action (VIA) project, NBPS Cares, our Primary 5 and 6 Navalites donated food items and packed them into hampers ahead of the festive season to bring some good cheer to the nearby residents for Chinese New Year! With the help from Nee Soon South Zone H RC, these hampers were distributed to residents staying in the HDB flats opposite our school. Through this activity, our students are certainly living up to our school value of ‘Compassion, our Spirit’! Good job, Navalites!
+
+![](/images/6.jpeg)
+
+NESS
+----
+
+#### OUR VISION
+
+Global Individuals, Loyal Leader of Singapore
+
+  
+
+#### NE MISSION
+
+To instil in every child the pride of being a Singaporean
+
+#### SS MISSION
+
+3 'A’s – To enable every child to:
+
+*   Appreciate the past
+*   Adapt to the present
+*   Anticipate the future
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-u2rx{background-color:#22428B;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-xuzz{background-color:#FFF;color:#343434;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-u2rx"><span style="color:#FFF;background-color:#22428B">Commemoration of the 4 NE Core Events</span></th>
+    <th class="tg-u2rx"><span style="color:#FFF;background-color:#22428B">Dates</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xuzz">Total Defence Day<br></td>
+    <td class="tg-xuzz">Assembly Programme: 8 February 2021<br></td>
+  </tr>
+  <tr>
+    <td class="tg-xuzz">International Friendship Day <br></td>
+    <td class="tg-xuzz">Assembly Programme: 12 April 2021<br></td>
+  </tr>
+  <tr>
+    <td class="tg-xuzz">Racial Harmony Day<br></td>
+    <td class="tg-xuzz">Assembly Programme: 19 July 2021<br></td>
+  </tr>
+  <tr>
+    <td class="tg-xuzz">National Day<br></td>
+    <td class="tg-xuzz">Assembly Programme: 6 August 2021</td>
+  </tr>
+</tbody>
+</table>
+
+#### TOTAL DEFENCE DAY 2021  
+
+In commemoration of Total Defence Day on the 15th of February, our teachers dressed up smartly in their uniforms and led the school in the National Anthem, pledge and school song. Our student emcees sounded amazing via Zoom too!
