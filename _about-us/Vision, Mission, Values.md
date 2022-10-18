@@ -29,26 +29,26 @@ Nurturing Navalites to be Future-Ready Leaders
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">SELF-DISCIPLINE<br>Our Culture Being the best that we can be </th>
-    <th class="tg-0pky"><br>It is: <br><br>being responsible to self, family, school and nation<br>taking the initiative to do the right things<br>being resilient to overcome challenges</th>
+    <th class="tg-0pky"><span style="background-color:transparent">SELF-DISCIPLINE</span><br><br><span style="font-weight:700;background-color:transparent">Our Culture</span><br><br><span style="font-style:italic;background-color:transparent">Being the best that we can be </span><br></th>
+    <th class="tg-0pky"><br><span style="background-color:transparent">It is: </span><br><br><span style="background-color:transparent"><ul><li>being responsible to self, family, school and nation</span><br><span style="background-color:transparent"><li>taking the initiative to do the right things</span><br><li>being resilient to overcome challenges</li></ul></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">INTEGRITY<br>Our Foundation Having the courage to do the right thing </td>
-    <td class="tg-0pky">It is: <br><br>being honest<br>being consistent in word and deed<br>being objective and impartial in making decisions</td>
+    <td class="tg-0pky"><span style="background-color:transparent">INTEGRITY</span><br><br><span style="font-weight:700;background-color:transparent">Our Foundation </span><br><br><span style="font-style:italic;background-color:transparent">Having the courage to do the right thing </span></td>
+    <td class="tg-0pky"><span style="background-color:transparent">It is: </span><br><br><span style="background-color:transparent"><ul><li>being honest</span><br><span style="background-color:transparent"><li>being consistent in word and deed</span><br><span style="background-color:transparent"><li>being objective and impartial in making decisions</span></li></ul></td>
   </tr>
   <tr>
-    <td class="tg-0pky">RESPECT<br>Our Attitude Showing regards for self and others </td>
-    <td class="tg-0pky">It is: <br><br>being tolerant<br>accepting individual differences<br>appreciating cultural diversity</td>
+    <td class="tg-0pky"><span style="background-color:transparent">RESPECT</span><br><br><span style="font-weight:700;background-color:transparent">Our Attitude </span><br><br><span style="font-style:italic;background-color:transparent">Showing regards for self and others </span><br><br></td>
+    <td class="tg-0pky"><span style="background-color:transparent">It is: </span><br><br><span style="background-color:transparent">being tolerant</span><br><span style="background-color:transparent">accepting individual differences</span><br><span style="background-color:transparent">appreciating cultural diversity</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky">COMPASSION<br>Our Spirit Showing care and concern </td>
-    <td class="tg-0pky">It is: <br><br>being sincere and kind<br>helping on another to develop and succeed<br>empathizing with others</td>
+    <td class="tg-0pky"><span style="background-color:transparent">COMPASSION</span><br><br><span style="font-weight:700;background-color:transparent">Our Spirit</span><br><br><span style="font-style:italic;background-color:transparent">Showing care and concern </span></td>
+    <td class="tg-0pky"><span style="background-color:transparent">It is: </span><br><br><span style="background-color:transparent">being sincere and kind</span><br><span style="background-color:transparent">helping on another to develop and succeed</span><br><span style="background-color:transparent">empathizing with others</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky">LEARNING<br>Our Passion Enriching lives with knowledge and experience </td>
-    <td class="tg-0pky">It is: <br><br>being creative and innovative<br>learning beyond the books<br>being self-motivated to learn</td>
+    <td class="tg-0pky"><span style="background-color:transparent">LEARNING</span><br><br><span style="font-weight:700;background-color:transparent">Our Passion </span><br><br><span style="font-style:italic;background-color:transparent">Enriching lives with knowledge and experience </span></td>
+    <td class="tg-0pky"><span style="background-color:transparent">It is: </span><br><br><span style="background-color:transparent">being creative and innovative</span><br><span style="background-color:transparent">learning beyond the books</span><br><span style="background-color:transparent">being self-motivated to learn</span></td>
   </tr>
 </tbody>
 </table>
