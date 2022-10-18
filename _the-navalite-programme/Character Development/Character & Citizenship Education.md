@@ -198,3 +198,45 @@ With an array of in-class activities during Assembly, CCE, English and Social St
 As the Little Red Dot, Singapore realises the importance of forging strong solidarity and friendship with her neighbouring countries in order to survive. This idea is instilled in students through the International Friendship Day commemorated every year in Term 2. The theme for IFD this year is Singapore In The World. COVID-19 brought challenges and opportunities for Singapore. The changing global landscapes highlighted the importance of maintaining good relationships and the need to recognise the importance of connectedness within and beyond ASEAN.
 
 On 12 April, our school commemorated IFD with the opening of the Heritage Corner.
+
+![](/images/Heritage.jpeg)
+The Heritage Corner will serve as a Learning Centre for the teaching and learning of Social Studies.
+
+![](/images/Heritage2.jpeg)
+IFD also provided students the opportunity to explore Singapore’s connection to the region and the world (Myanmar, Bhutan and New Zealand). Conducted through Zoom, the student emcees immersed the audience with the beautiful scenery of the country while at the same time, sharing unique facts about the country.
+
+![](/images/Heritage3.jpeg)
+After a whole year of hiatus, our school CCA dancers showcased their energy and talent through their dance moves. The song that they danced to has helped many to feel positive. They have lighted it up like Dynamite!
+
+#### RACIAL HARMONY DAY 2021  
+
+The theme for this year’s Racial Harmony Day commemoration is ‘Common Space, Connected Communities’.
+
+   
+Navalites were first engaged in a “This Week In History” presentation on the 1964 Race Riots reminding us how far we have come as a community in preserving racial and religious harmony.  
+Subsequently, on 19 July, Navalites were treated to a Zoom Assembly programme led by our NESS ambassadors, titled “Four Weddings and a Connected Community”. Navalites learnt about the common culture and traditions of the 4 main races in Singapore: Chinese, Malay, Indian and Eurasian.
+
+  
+In addition, Navalites also learnt about traditional games and how to be a good neighbour via SLS and videos were also screened in the canteen during recess. They also enjoyed dressing up in various traditional costumes as can be seen in these pictures!
+
+
+| | | 
+| -------- | -------- | 
+|   ![](/images/RHD1.jpeg)   | ![](/images/RHD2.jpeg)     | 
+
+
+
+|  |  | 
+| -------- | -------- | 
+|    ![](/images/RHD3.jpeg)  |    ![](/images/RHD4.jpeg) | 
+
+| |  | 
+| -------- | -------- | 
+|   ![](/images/RHD5.jpeg)   |   ![](/images/RHD6.jpeg)   | 
+
+
+
+
+
+
+
