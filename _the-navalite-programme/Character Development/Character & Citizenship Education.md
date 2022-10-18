@@ -175,3 +175,26 @@ To instil in every child the pride of being a Singaporean
 #### TOTAL DEFENCE DAY 2021  
 
 In commemoration of Total Defence Day on the 15th of February, our teachers dressed up smartly in their uniforms and led the school in the National Anthem, pledge and school song. Our student emcees sounded amazing via Zoom too!
+
+![](/images/1.jpeg)
+
+![](/images/2.jpeg)
+
+![](/images/3.jpeg)
+
+![](/images/4.jpeg)
+
+![](/images/5.jpeg)
+
+#### INTERNATIONAL FRIENDSHIP DAY 2021  
+
+With an array of in-class activities during Assembly, CCE, English and Social Studies lessons, NBPS strives to ensure that by commemorating International Friendship Day, we can achieve our goals of:  
+
+*   Being acquainted with the diverse and colourful culture and traditions of the region and the lives of the other ASEAN countries.
+*   Nurture the spirit of friendship and collaboration among different peoples in ASEAN and beyond.
+*   Having confidence and optimism in Singapore’s future and the resilience to face the challenges ahead.
+*   Keeping an open mindset, and express an appreciation of the contributions of foreigners living, working and studying in Singapore.
+
+As the Little Red Dot, Singapore realises the importance of forging strong solidarity and friendship with her neighbouring countries in order to survive. This idea is instilled in students through the International Friendship Day commemorated every year in Term 2. The theme for IFD this year is Singapore In The World. COVID-19 brought challenges and opportunities for Singapore. The changing global landscapes highlighted the importance of maintaining good relationships and the need to recognise the importance of connectedness within and beyond ASEAN.
+
+On 12 April, our school commemorated IFD with the opening of the Heritage Corner.
