@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: ""
+          url: /parents/P1-Registration-Exercise/
   - infopic:
       title: Our Facebook
       subtitle: Infopic Subtitle
