@@ -107,3 +107,9 @@ Parents must stay logged in to receive Push Notifications
 [Financial Assistance Scheme (FAS)](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 **Follow MOE's parenting-focused Instagram account, @parentingwith.moesg for more tips and MOE resources. Scan the QR code to start following!**
+
+<img style="width: 60%;" src="/images/MOE_IG_FRONT.jpeg" align = "center"/>
+
+<br>
+
+<img style="width: 40%;" src="/images/MOE_IG_QR.png" align = "center"/>
