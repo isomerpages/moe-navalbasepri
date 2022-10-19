@@ -8,7 +8,7 @@ third_nav_title: Co Curricular Activities (CCA)
 
 <img align = "left" style="width: 40%;" src="/images/Band%20logo.jpg">
 
-<br><br>
+<br><br><br>
 
 ### ABOUT CONCERT BAND
 
