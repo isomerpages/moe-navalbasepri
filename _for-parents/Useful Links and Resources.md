@@ -81,10 +81,14 @@ Parents must stay logged in to receive Push Notifications
 
 ### PARENTING ARTICLES 
 
+[](/files/Less%20Sugar%20Drinks.pdf)
 
-[Managing Transition](https://navalbasepri.moe.edu.sg/qql/slot/u726/Parents%20Support%20Group/Parents%20resources/2019/ManagingTransition.pdf) and [Sleep](https://navalbasepri.moe.edu.sg/qql/slot/u726/Parents%20Support%20Group/Parents%20resources/2019/Sleep.pdf)  
-[Less Sugar Drinks](https://navalbasepri.moe.edu.sg/qql/slot/u726/Parents%20Support%20Group/Parents%20resources/2019/Less%20Sugar%20Drinks.pdf)  
-[Guilt Free Treats](https://navalbasepri.moe.edu.sg/qql/slot/u726/Parents%20Support%20Group/Parents%20resources/2019/GuiltFreeTreats.pdf)  
+[Managing Transition](/files/ManagingTransition.pdf) and [Sleep](/files/Sleep.pdf)
+
+[Less Sugar Drinks](/files/Less%20Sugar%20Drinks.pdf)
+
+[Guilt Free Treats](/files/GuiltFreeTreats.pdf)
+
 
 ### SUPPORT ORGANISATIONS
 
