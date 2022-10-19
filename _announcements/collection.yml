@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - PSLE 2021 Information.md
       - P1 Registration Exercise Application.md
+      - PSLE 2021 Information.md
       - Prospective Students.md
       - 2022 Booklist.md
