@@ -2,7 +2,6 @@ collections:
   the-navalite-programme:
     output: true
     order:
-      - Overseas Cultural Immersion Programme.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Subjects/.keep
@@ -36,3 +35,4 @@ collections:
       - Co Curricular Activities (CCA)/Choir.md
       - Co Curricular Activities (CCA)/Drama Club.md
       - Co Curricular Activities (CCA)/Floorball.md
+      - Overseas Cultural Immersion Programme.md
