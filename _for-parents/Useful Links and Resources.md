@@ -64,13 +64,16 @@ Below are some useful links and articles for your reading.
 
 ##### REFERENCES
 
-*   Primary 5 Code For Fun (CFF) Infosheet, download the PDF [here](https://navalbasepri.moe.edu.sg/qql/slot/u726/Parent%20Resources/CFF%20Infosheet%202021.pdf).
+*   Primary 5 Code For Fun (CFF) Infosheet, download the PDF [here]().
+
 *   NEU PC Plus Programme, access the website [here](https://www.imda.gov.sg/programme-listing/neu-pc-plus).  
     
-*   NBPS Parents Gateway User Guide, download the PDF [here](https://navalbasepri.moe.edu.sg/qql/slot/u726/Parents%20Support%20Group/Parents%20resources/NBPS%20Parents%20Gateway%20Userguide.pdf).
-*   SLS Guide for Parents, download the PDF [here](https://navalbasepri.moe.edu.sg/qql/slot/u726/Parents%20Support%20Group/Parents%20resources/2019/SLS%20guide%20for%20parents.pdf).  
+*   NBPS Parents Gateway User Guide, download the PDF [here](/files/NBPS%20Parents%20Gateway%20Userguide.pdf).
+
+*   SLS Guide for Parents, download the PDF [here](/files/SLS%20guide%20for%20parents.pdf).  
     
 
 Parents must stay logged in to receive Push Notifications
 
 \*Parents' SingPass ID and Password will not be stored in the app.
+
