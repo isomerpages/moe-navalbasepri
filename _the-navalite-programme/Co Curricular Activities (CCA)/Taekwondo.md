@@ -28,32 +28,37 @@ Our Core Values
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-jp3c{background-color:#FFF;border-color:inherit;color:#343434;text-align:center;vertical-align:middle}
+.tg .tg-9r35{background-color:#FFF;color:#343434;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-nrix">Sportsmanship</th>
-    <th class="tg-nrix">We believe that Taekwondo is a moral pursuit requiring rules to be respected and dignity to be maintained under all circumstances.<br></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nrix">Integrity<br></td>
-    <td class="tg-nrix">We foster high ethical and professional standards.<br></td>
+    <td class="tg-jp3c">Sportsmanship</td>
+    <td class="tg-jp3c">We believe that Taekwondo is a moral pursuit requiring rules to be respected and dignity to be maintained under all circumstances.<br></td>
   </tr>
   <tr>
-    <td class="tg-nrix"> Growth</td>
-    <td class="tg-nrix">We adapt, upgrade and change in pursuit of excellence. </td>
+    <td class="tg-jp3c">Integrity<br></td>
+    <td class="tg-jp3c">We foster high ethical and professional standards.<br></td>
   </tr>
   <tr>
-    <td class="tg-nrix">Human-centred </td>
-    <td class="tg-nrix">We strive to meet participants' needs and are responsible for their enjoyment and appreciation of the sport. </td>
+    <td class="tg-9r35"> Growth</td>
+    <td class="tg-9r35">We adapt, upgrade and change in pursuit of excellence. </td>
   </tr>
   <tr>
-    <td class="tg-nrix"> Teamwork</td>
-    <td class="tg-nrix">We value the strength of working together. </td>
+    <td class="tg-9r35">Human-centred </td>
+    <td class="tg-9r35">We strive to meet participants' needs and are responsible for their enjoyment and appreciation of the sport. </td>
+  </tr>
+  <tr>
+    <td class="tg-9r35"> Teamwork</td>
+    <td class="tg-9r35">We value the strength of working together. </td>
   </tr>
 </tbody>
 </table>
-
