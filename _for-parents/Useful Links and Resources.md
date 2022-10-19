@@ -11,7 +11,6 @@ Parents are children’s first teachers and play an important part in the holist
 Below are some useful links and articles for your reading.  
 
 
-
 ### PARENTS' BRIEFING
 
 
@@ -24,11 +23,12 @@ Below are some useful links and articles for your reading.
 [P4 Parents' Briefing 2022]()  
 [P5 Parents' Briefing 2022]()  
 [P6 Parents' Briefing 2022]()  
-[2022 Holistic Development Plan (HDP) CAMPSEL](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/Resources/2022%20Holistic%20Development%20Plan%20HDP%202022_for%20website.pdf)  
-[RUTS Importance of Reading](https://navalbasepri.moe.edu.sg/qql/slot/u726/Parent%20Resources/Resources/RUTS_Importance%20of%20Reading_For%20school%20website.pdf)  
+[2022 Holistic Development Plan (HDP) CAMPSEL](/files/2022%20Holistic%20Development%20Plan%20HDP%202022_for%20website.pdf)  
+[RUTS Importance of Reading](/files/RUTS_Importance%20of%20Reading_For%20school%20website.pdf)
 [MT RUTS 2022 - How to read to your child (Chinese Language)](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/RUTS/MT%20RUTS%202022%20-%20How%20to%20read%20to%20your%20child%20Chinese%20Language.pdf)  
-[MT RUTS 2022 - How to read to your child (Malay Language)](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/RUTS/MT%20RUTS%202022%20-%20How%20to%20read%20to%20your%20child%20Malay%20Language.pdf)  
-[MT RUTS 2022 - How to read to your child (Tamil Language)](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/RUTS/MT%20RUTS%202022%20-%20How%20to%20read%20to%20your%20child%20Tamil%20Language.pdf)  
+[MT RUTS 2022 - How to read to your child (Malay Language)](/files/MT%20RUTS%202022%20-%20How%20to%20read%20to%20your%20child%20Chinese%20Language.pdf)
+[MT RUTS 2022 - How to read to your child (Tamil Language)](/files/MT%20RUTS%202022%20-%20How%20to%20read%20to%20your%20child%20Tamil%20Language.pdf)
+
 
 ### COVID-19 VACCINATION FOR STUDENTS
 
@@ -43,9 +43,12 @@ Below are some useful links and articles for your reading.
 
 **MOE Resources:**
 
-[Why vaccinate your child?](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/Resources/COVID19/Why%20vaccinate%20your%20child.pdf)
+[Why vaccinate your child?](/files/Why%20vaccinate%20your%20child.pdf)
 
-[Infographic - Protect Your Child Against COVID-19](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/Resources/COVID19/Infographic%20-%20Protect%20Your%20Child%20Against%20COVID-19.pdf)
+[Infographic - Protect Your Child Against COVID-19](/files/Infographic%20-%20Protect%20Your%20Child%20Against%20COVID-19.pdf)
+
+
+
 
 ### INFOCOMM TECHNOLOGY
 
