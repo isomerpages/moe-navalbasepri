@@ -42,6 +42,3 @@ Objectives:
 
 ![](/images/aesthetics_choir.jpeg)
 
-
-
-
