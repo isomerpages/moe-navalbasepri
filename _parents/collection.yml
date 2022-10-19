@@ -1,5 +1,5 @@
 collections:
-  announcements:
+  parents:
     output: true
     order:
       - P1 Registration Exercise Application.md
