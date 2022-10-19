@@ -24,3 +24,20 @@ Art Club hopes to give opportunities to every member to express themselves freel
 
 _<center>“Every Child Is An Artist.”_<br>
 _- Pablo Picasso</center>_
+
+![](/images/aesthetics_artclub.jpeg)
+
+### NAVALITES HAVE THE OPPORTUNITIES TO PARTICIPATE IN THE FOLLOWING EVENTS:
+
+In 2018, Art club collaborated with Nee Soon South CC’s initiative to Save the Earth by creating artworks that encouraged residents to reduce carbon footprint either by walking home or through sharing an umbrella when it rains (instead of taking a car for a short distance). Eight pupils’ works were selected, out of which five artworks were even displayed within Nee Soon South Precinct!
+
+
+
+|  |  | 
+| -------- | -------- | 
+|   ![](/images/art1.jpeg)  | ![](/images/art2.jpeg)     | 
+| ![](/images/art3.jpeg)     | ![](/images/art4.jpeg)    | 
+
+
+
+
