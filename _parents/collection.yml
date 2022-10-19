@@ -2,5 +2,5 @@ collections:
   parents:
     output: true
     order:
-      - Prospective Students.md
       - P1 Registration Exercise Application.md
+      - Prospective Students.md
