@@ -78,3 +78,11 @@ CCA Motto: 
 *   Poomsae Individual Senior Division Boys Blue 3 (Gold)
 
 *   Lee Chee Howe
+
+
+
+| |  | |
+| -------- | -------- | -------- |
+|  ![](/images/award%204.png)   |      |    ![](/images/award%203.png)  |
+|   ![](/images/award%201.png)  |   ![](/images/award%202.png)   |   ![](/images/award%205.png)   |
+
