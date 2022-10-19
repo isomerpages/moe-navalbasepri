@@ -20,4 +20,7 @@ According to Lev Vygotsky, a renowned psychologist, “it must not be forgotten 
 
   
 
-Art Club hopes to give opportunities to every member to express themselves freely through art and to build their confidence and courage in exercising their creativity
+Art Club hopes to give opportunities to every member to express themselves freely through art and to build their confidence and courage in exercising their creativity.
+
+_<center>“Every Child Is An Artist.”_<br>
+_- Pablo Picasso</center>_
