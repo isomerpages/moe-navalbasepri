@@ -1,5 +1,5 @@
 collections:
-  annoucments:
+  announcements:
     output: true
     order:
       - PSLE 2021 Information.md
