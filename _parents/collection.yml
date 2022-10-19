@@ -2,6 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - 2022 Booklist.md
       - P1 Registration Exercise Application.md
       - Prospective Students.md
+      - 2022 Booklist.md
