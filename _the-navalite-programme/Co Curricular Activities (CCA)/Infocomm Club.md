@@ -45,16 +45,13 @@ Training in school @ Computer Lab
 |  | | 
 | -------- | -------- | 
 |  ![](/images/Infocomm3.jpeg)    |  ![](/images/Infocomm4.jpeg)    | 
-
 Competitions and Exposure to Infocom Events
 
 |  | | 
 | -------- | -------- | 
 |  ![](/images/Infocomm5.jpeg)    |   ![](/images/Inforcomm6.jpeg)   | 
-
 Outdoor Photography Training
 
 |  | | 
 | -------- | -------- | 
-|  ![](/images/Infocomm7.jpeg)    |   ![](/images/Infocomm8.jpeg)   | 
-
+|  ![](/images/Infocomm7.jpeg)    |   ![](/images/Infocomm8.jpeg)   |
