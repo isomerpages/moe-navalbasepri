@@ -18,10 +18,11 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Our Facebook
+      subtitle: Infopic Subtitle
+      button: Follow us
+      url: https://www.facebook.com/NBPS1730/
+      image: /images/logo.png
+      alt: Image alt text
 ---
