@@ -77,3 +77,29 @@ Parents must stay logged in to receive Push Notifications
 
 \*Parents' SingPass ID and Password will not be stored in the app.
 
+![](/images/PG-SingPass.gif)
+
+### PARENTING ARTICLES 
+
+
+[Managing Transition](https://navalbasepri.moe.edu.sg/qql/slot/u726/Parents%20Support%20Group/Parents%20resources/2019/ManagingTransition.pdf) and [Sleep](https://navalbasepri.moe.edu.sg/qql/slot/u726/Parents%20Support%20Group/Parents%20resources/2019/Sleep.pdf)  
+[Less Sugar Drinks](https://navalbasepri.moe.edu.sg/qql/slot/u726/Parents%20Support%20Group/Parents%20resources/2019/Less%20Sugar%20Drinks.pdf)  
+[Guilt Free Treats](https://navalbasepri.moe.edu.sg/qql/slot/u726/Parents%20Support%20Group/Parents%20resources/2019/GuiltFreeTreats.pdf)  
+
+### SUPPORT ORGANISATIONS
+
+
+[CDAC](https://www.cdac.org.sg/)  
+[SINDA](http://www.sinda.org.sg/students/step/)  
+[MENDAKI](http://www.mendaki.org.sg/)  
+
+### OTHER USEFUL LINKS
+
+
+[MOE Primary School Information](https://www.moe.gov.sg/primary)
+
+[Edusave](https://www.moe.gov.sg/education/edusave)
+
+[Financial Assistance Scheme (FAS)](https://www.moe.gov.sg/financial-matters/financial-assistance)
+
+**Follow MOE's parenting-focused Instagram account, @parentingwith.moesg for more tips and MOE resources. Scan the QR code to start following!**
