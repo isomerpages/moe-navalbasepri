@@ -9,21 +9,21 @@ description: ""
 Parents are children’s first teachers and play an important part in the holistic development of their children.  
   
 Below are some useful links and articles for your reading.  
-  
-  
+
+
 
 ### PARENTS' BRIEFING
 
 
-[P1 Parents' Briefing 2022](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/Resources/2022%20P1%20parents%20briefing%20slides_for%20website.pdf)  
-[P2 Parents' Briefing 2022](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/Resources/2022%20P2parentsbriefingslides_subject_2022_school%20website.pdf)  
-[P3 Parents' Briefing 2022](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/Resources/P3%20parents%20briefing%20slides_for%20website.pdf)  
-[P2 parents' Workshop(Mathematics Department) 2022](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/Resources/parents%20briefing/2022%20P2%20Math%20Parents%20Workshop%202022_Final_25Feb2022.pdf)  
-[P3 - P4 Parents' Workshop(Mathematics Department) 2022](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/Resources/parents%20briefing/2022%20P3%20and%20P4%20Parents%20Workshop%202022%20for%20upload.pdf)  
-[P5 - P6 Parents' Workshop(Mathematics Department) 2022](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/Resources/parents%20briefing/2022%20P5%20and%20P6%20Math%20Workshop%20for%20Parents%202022.pdf)  
-[P4 Parents' Briefing 2022](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/Resources/parents%20briefing/2022%20P4%20parents%20briefing%20slides_2022_for%20website.pdf)  
-[P5 Parents' Briefing 2022](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/Resources/2022%20P5%20Parents%20Briefing%20Slides_2022_for_website.pdf)  
-[P6 Parents' Briefing 2022](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/Resources/parents%20briefing/2022%20P6%20Parents%20Briefing%20Slides%202022_Final.pdf)  
+[P1 Parents' Briefing 2022]()  
+[P2 Parents' Briefing 2022]()  
+[P3 Parents' Briefing 2022]()  
+[P2 parents' Workshop(Mathematics Department) 2022](/files/2022%20P2%20Math%20Parents%20Workshop%202022_Final_25Feb2022.pdf)  
+[P3 - P4 Parents' Workshop(Mathematics Department) 2022](/files/2022%20P3%20and%20P4%20Parents%20Workshop%202022%20for%20upload.pdf)  
+[P5 - P6 Parents' Workshop(Mathematics Department) 2022](/files/2022%20P5%20and%20P6%20Math%20Workshop%20for%20Parents%202022.pdf)
+[P4 Parents' Briefing 2022]()  
+[P5 Parents' Briefing 2022]()  
+[P6 Parents' Briefing 2022]()  
 [2022 Holistic Development Plan (HDP) CAMPSEL](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/Resources/2022%20Holistic%20Development%20Plan%20HDP%202022_for%20website.pdf)  
 [RUTS Importance of Reading](https://navalbasepri.moe.edu.sg/qql/slot/u726/Parent%20Resources/Resources/RUTS_Importance%20of%20Reading_For%20school%20website.pdf)  
 [MT RUTS 2022 - How to read to your child (Chinese Language)](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/RUTS/MT%20RUTS%202022%20-%20How%20to%20read%20to%20your%20child%20Chinese%20Language.pdf)  
