@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/Banner.gif
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: ""
   - infopic:
       title: Our Facebook
       subtitle: Infopic Subtitle
