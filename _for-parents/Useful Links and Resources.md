@@ -53,10 +53,12 @@ Below are some useful links and articles for your reading.
 ### INFOCOMM TECHNOLOGY
 
 
+
 ##### PARENT KITS ON CYBER WELLNESS   
 
-*   Cyber Wellness for your Child, download the PDF [here](https://navalbasepri.moe.edu.sg/qql/slot/u726/Parents%20Support%20Group/Parents%20resources/Parent%20Kit%20-%20Cyber%20Wellness%20for%20your%20Child.pdf).
-*   Helping Your Children with Appropriate Online Expression, download the PDF [here](https://navalbasepri.moe.edu.sg/qql/slot/u726/Parents%20Support%20Group/Parents%20resources/2019/3B)%202019%20Connect%20T1%20Parents%20Tipsheet.pdf).
+*   Cyber Wellness for your Child, download the PDF [here](/files/Parent%20Kit%20-%20Cyber%20Wellness%20for%20your%20Child.pdf).
+
+*   Helping Your Children with Appropriate Online Expression, download the PDF [here](/files/3B%202019%20Connect%20T1%20Parents%20Tipsheet.pdf)
 
 
 
