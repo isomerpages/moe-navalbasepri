@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Parent Support Group.md
       - E Open House.md
       - Group Personal Accident (GPA) Insurance for Students.md
