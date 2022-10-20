@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Space and Facilities/Bookshop & Library.md
-      - Space and Facilities/Space and Facilities.md
       - Space and Facilities/.keep
+      - Space and Facilities/Space and Facilities.md
+      - Space and Facilities/Bookshop & Library.md
       - Vision, Mission, Values.md
       - Principal's Message.md
       - Organisational Chart/.keep
