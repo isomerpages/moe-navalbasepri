@@ -25,3 +25,6 @@ Nurturing Navalites to be Future-Ready Leaders
 | **RESPECT** <br><br>**Our Attitude** <br><br> Showing regards for self and others            | It is:   <br><br>- being tolerant <br><br>- accepting individual differences <br><br> - appreciating cultural diversity                                                           |
 | **COMPASSION** <br><br>**Our Spirit** <br><br>Showing care and concern                      | It is: <br><br> - being sincere and kind <br><br>- helping on another to develop and succeed <br><br>- empathizing with others                                                  |
 | **LEARNING** <br><br> **Our Passion** <br><br>Enriching lives with knowledge and experience  | It is: <br><br>  -  being creative and innovative <br><br> - learning beyond the books <br><br> - being self-motivated to learn                                                     |
+
+#### SCHOOL CREST
+
