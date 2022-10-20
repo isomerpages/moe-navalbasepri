@@ -3,7 +3,6 @@ title: Positive Parenting Programme (Triple P)
 permalink: /Parents/Positive-Parenting-Programme-Triple-P/
 description: ""
 ---
-
 ## POSITIVE PARENTING PROGRAMME (TRIPLE P) 
 
 
@@ -53,6 +52,8 @@ Programme schedules for Triple P Level 2 Seminars Series for the year 2022:
 </tbody>
 </table>
 
+<br>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -89,6 +90,8 @@ Programme schedules for Triple P Level 2 Seminars Series for the year 2022:
   </tr>
 </tbody>
 </table>
+
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
