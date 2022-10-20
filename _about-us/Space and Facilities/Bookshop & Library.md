@@ -6,7 +6,8 @@ third_nav_title: Space and Facilities
 ---
 ## BOOKSHOP & LIBRARY
 
-![](/images/Popular%20(Edited).jpeg)
+<img style="width: 70%;" src="/images/Popular%20(Edited).jpeg">
+
 
 **Popular Bookshop Operating Hours:**  
 
@@ -22,4 +23,3 @@ If you wish to add book reviews, create saved lists etc, the user is required to
 You may access the link [here](https://schoolibrary.spydus.com.sg/navalbasepri).
 
 ![](/images/OPAC.jpeg)
-
