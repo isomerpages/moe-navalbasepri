@@ -54,3 +54,9 @@ All students are leaders.
 |   Drama   |                           Ms Fatin Nadiah Nastasha Bte Kamsan (IC)<br>Mdm Tey Swee Ling (2IC)<br>Mdm Ho Peak Yen<br>Ms Erfa Riizah Binte Razi<br>Ms Sugitha Sujith<br>Ms Kumar Harini                          |
 |    Band   | Ms Denise Choong Pik Huei (IC)<br>Ms Chen Yanqi (2IC)<br>Mdm Nadia Binte Mooiz <br>Mdm Kayatri Thiyagarajan<br>Mdm Lee Ching<br>Mdm Salina Binte Md Sharif<br>Mdm Nuraishah Yusoff<br>Ms Nur Fadhillah |
 |  Choir    | Ms Soo Sin Yi (IC)<br>Ms Jacelyn Tan Yilin (2IC)<br>Ms Liesda Jamali<br>Mdm Nashita Binte Kamir<br>Mrs Carmen Edwin                                                                                                    |
+
+### CLUBS AND SOCIETIES
+
+| CCA      | Name of Teacher <br>IC = In Charge                                             |
+|----------|--------------------------------------------------------------------------------|
+| Infocomm | Mr Lim Kan Boon (IC)<br>Ms Nur Ferisha Binte Abbas (2IC)<br>Mdm Ong Xin Yi |
