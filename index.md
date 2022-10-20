@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Parents
           description: ""
-          url: /parents/P1-Registration-Exercise/
+          url: /Parents/P1-Registration-Exercise/
         - title: Student's life
           description: ""
           url: /student-life/Co-Curricular-Activities/
