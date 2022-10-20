@@ -39,6 +39,7 @@ For any clarifications on programmes, services and fees, kindly contact us at:
 
 Centre Number: 80310578
 
-Email: admission\_cls\_nbps@commitlearning.com.sg
+Email: admission_cls_nbps@commitlearning.com.sg
 
-**Please find the Orientation Information [here](https://navalbasepri.moe.edu.sg/qql/slot/u726/students%20life/after%20school%20care/SCC%20Orientation%20Information.pdf).**
+**Please find the Orientation Information [here](/files/SCC%20Orientation%20Information.pdf).**
+
