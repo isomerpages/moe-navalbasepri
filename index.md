@@ -15,6 +15,7 @@ sections:
         - title: Student's life
           description: ""
           url: /student-life/Co-Curricular-Activities/
+      title: "Naval Base Primary School "
   - resources:
       title: Announcements
   - infopic:
