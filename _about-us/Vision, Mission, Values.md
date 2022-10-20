@@ -28,3 +28,5 @@ Nurturing Navalites to be Future-Ready Leaders
 
 #### SCHOOL CREST
 
+<img style="width: 30%;" src="/images/crest.jpeg" align = "center"/>
+
