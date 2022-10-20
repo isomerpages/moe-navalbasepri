@@ -40,3 +40,36 @@ Nurturing Navalites to be Future-Ready Leaders
 | White     | Purity     | 
 | Red     | The throbbing young blood in the ‘veins’ of the school in the pursuit of knowledge     | 
 | Blue     | Denoting the colour of the sea-the school being the sea of knowledge which will prepare the pupils for the future     |
+
+### SCHOOL SONG
+
+Up the gangway, we will go
+
+Ready to achieve our goal
+
+Working together in harmony
+
+On board our Naval Base Primary
+
+Sail On, Sail On
+
+We’ll ride the wildest storm
+
+Our spirits, brave and strong
+
+Soon the gale will be gone
+
+Wave after wave, we will go
+
+Till we hear the shouts of 
+
+‘Land Ahoy’
+
+Firm on the anchor of Education
+
+We’ll do our best for our Nation
+
+
+**Lyrics by : Mrs Wee Bian Hua**
+
+**Score by : Mdm Ho Kim Geok**
