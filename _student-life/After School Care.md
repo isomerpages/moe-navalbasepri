@@ -7,7 +7,7 @@ description: ""
 
 <img style="width: 50%;" src="/images/Afterschoolcare.png"/>
 
-###### Commit Learning School House Profile Description
+##### Commit Learning School House Profile Description
 
 Committing to a better tomorrow and excel beyond expectations. Commit Learning SchoolHouse (CLS) is committed to design an interactive, participative and technologically enabled learning Student Care Centre (SCC) holistic experience to help every child to develop into broadly educated indiviudals, with depth of knowledge and capabilities required to thrive in the 21st century which complements every child’s primary school education.
 
