@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Organisational Chart/.keep
-      - Organisational Chart/EXCO Team.md
       - Vision, Mission, Values.md
       - Principal's Message.md
+      - Organisational Chart/.keep
+      - Organisational Chart/EXCO Team.md
       - Space and Facilities.md
       - School Song.md
