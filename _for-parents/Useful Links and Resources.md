@@ -81,8 +81,6 @@ Parents must stay logged in to receive Push Notifications
 
 ### PARENTING ARTICLES 
 
-[](/files/Less%20Sugar%20Drinks.pdf)
-
 [Managing Transition](/files/ManagingTransition.pdf) and [Sleep](/files/Sleep.pdf)
 
 [Less Sugar Drinks](/files/Less%20Sugar%20Drinks.pdf)
