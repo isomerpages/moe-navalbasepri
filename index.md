@@ -12,7 +12,7 @@ sections:
         - title: Parents
           description: ""
           url: /parents/P1-Registration-Exercise/
-        - title: Student life
+        - title: Student's life
           description: ""
           url: ""
   - infopic:
