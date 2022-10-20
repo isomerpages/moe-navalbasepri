@@ -2,5 +2,5 @@ collections:
   student-life:
     output: true
     order:
-      - Counselling.md
       - Co Curricular Activities.md
+      - Counselling.md
