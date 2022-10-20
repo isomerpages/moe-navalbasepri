@@ -30,3 +30,14 @@ Nurturing Navalites to be Future-Ready Leaders
 
 <img style="width: 30%;" src="/images/crest.jpeg" align = "center"/>
 
+<br>
+
+|  | | 
+| -------- | -------- | 
+| Text     | Text     | 
+| Text     | Text     | 
+| Text     | Text     | 
+| Text     | Text     | 
+| Text     | Text     | 
+| Text     | Text     | 
+
