@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Organisational Chart/EXCO Team.md
       - Organisational Chart/.keep
+      - Organisational Chart/EXCO Team.md
       - Vision, Mission, Values.md
       - Principal's Message.md
       - Space and Facilities.md
