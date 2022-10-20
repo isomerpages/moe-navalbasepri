@@ -7,7 +7,7 @@ description: ""
 
 <img style="width: 50%;" src="/images/Afterschoolcare.png"/>
 
-****<center><u>Commit Learning School House Profile Description</center></u>****
+<b><center><u>Commit Learning School House Profile Description</center></u></b>
 
 Committing to a better tomorrow and excel beyond expectations. Commit Learning SchoolHouse (CLS) is committed to design an interactive, participative and technologically enabled learning Student Care Centre (SCC) holistic experience to help every child to develop into broadly educated indiviudals, with depth of knowledge and capabilities required to thrive in the 21st century which complements every child’s primary school education.
 
@@ -42,4 +42,3 @@ Centre Number: 80310578
 Email: admission_cls_nbps@commitlearning.com.sg
 
 **Please find the Orientation Information [here](/files/SCC%20Orientation%20Information.pdf).**
-
