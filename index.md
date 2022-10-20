@@ -9,9 +9,12 @@ sections:
   - hero:
       background: /images/Bannercrop.gif
       key_highlights:
-        - title: Announcements
+        - title: Parents
           description: ""
           url: /parents/P1-Registration-Exercise/
+        - title: Student life
+          description: ""
+          url: ""
   - infopic:
       title: Our Facebook
       subtitle: Infopic Subtitle
