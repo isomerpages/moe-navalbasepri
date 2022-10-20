@@ -14,7 +14,7 @@ sections:
           url: /parents/P1-Registration-Exercise/
         - title: Student's life
           description: ""
-          url: ""
+          url: /student-life/Co-Curricular-Activities/
   - infopic:
       title: Our Facebook
       subtitle: Infopic Subtitle
