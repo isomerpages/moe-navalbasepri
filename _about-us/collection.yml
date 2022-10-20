@@ -2,9 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Space and Facilities/.keep
-      - Space and Facilities/Space and Facilities.md
-      - Space and Facilities/Bookshop & Library.md
       - Vision, Mission, Values.md
       - Principal's Message.md
       - Organisational Chart/.keep
@@ -12,4 +9,7 @@ collections:
       - Organisational Chart/2022 Form Teachers.md
       - Organisational Chart/Allied educators and Non Form teachers.md
       - Organisational Chart/Executive and Administrative staff.md
+      - Space and Facilities/.keep
+      - Space and Facilities/Space and Facilities.md
+      - Space and Facilities/Bookshop & Library.md
       - School Song.md
