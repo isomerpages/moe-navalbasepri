@@ -36,7 +36,7 @@ Nurturing Navalites to be Future-Ready Leaders
 | -------- | -------- | 
 | <img style="width: 40%;" src="/images/circle.jpeg"/> | depicts the all round education which the school aims to provide for the child.   | 
 |  <img style="width: 40%;" src="/images/anchor.jpeg"/>    | denotes strength and depicts the school as a strong base for education.    | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     |
+| the letters  **N** and   **B**     |   stands for Naval Base  | 
+| White     | Purity     | 
+| Red     | The throbbing young blood in the ‘veins’ of the school in the pursuit of knowledge     | 
+| Blue     | Denoting the colour of the sea-the school being the sea of knowledge which will prepare the pupils for the future     |
