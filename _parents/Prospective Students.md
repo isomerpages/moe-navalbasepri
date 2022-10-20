@@ -27,3 +27,8 @@ Academic:
 ### SAFE MANAGEMENT MEASURES
 
 [Click here](https://www.facebook.com/NBPS1730/videos/299704148010080/) to watch how our school embark on measures to reduce transmission risks after the circuit breaker has been lifted.
+
+![](/images/NBPS%20Brochure%202020.jpeg)
+
+![](/images/NBPS%20Brochure%202020%20BACK.jpeg)
+
