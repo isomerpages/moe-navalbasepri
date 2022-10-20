@@ -2,6 +2,6 @@ collections:
   student-life:
     output: true
     order:
-      - After School Care.md
       - Co Curricular Activities.md
       - Counselling.md
+      - After School Care.md
