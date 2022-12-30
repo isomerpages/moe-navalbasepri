@@ -12,10 +12,10 @@ third_nav_title: Organisational Chart
 
 | SCHOOL LEADERS          |                                                                   |
 |-------------------------|-------------------------------------------------------------------|
-| Principal               | Mrs Sita Singh Sita_SINGH@schools.gov.sg                          |
-| Vice-Principal          | Mr Muhammad Faisal B Pairin Muhammad_Faisal_PAIRIN@schools.gov.sg |
-| Vice-Principal          | Mdm Lim Wai Choo lim_wai_choo@schools.gov.sg                      |
-| Vice-Principal (Admin)  | Mdm Tham Lai Peng Agnes Agnes_THAM@schools.gov.sg                 |
+| Principal               | Mrs Sita Singh <br> sita_singh@schools.gov.sg                          |
+| Vice-Principal          | Mr Muhammad Faisal B Pairin <br> muhammad_faisal_pairin@schools.gov.sg |
+| Vice-Principal          | Mdm Lim Wai Choo <br> lim_wai_choo@schools.gov.sg                      |
+| Vice-Principal (Admin)  | Mdm Tham Lai Peng  Agnes <br> agnes_tham@schools.gov.sg                 |
 
 <br>
 
