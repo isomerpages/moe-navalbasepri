@@ -5,8 +5,7 @@ description: ""
 ---
 ## CALENDAR OF EVENTS
 
-### YEAR 2022 TERM 4
+### YEAR 2023 TERM 1
 
-![](/images/180%20Attachment_2%20Students%20School%20Calendar%20-%20Term%204%202022_pages-to-jpg-0001.jpeg)
-
-![](/images/180%20Attachment_2%20Students%20School%20Calendar%20-%20Term%204%202022_pages-to-jpg-0002.jpeg)
+![](/images/Student%20Calendar%20Term%201%202023v1-1.png)
+![](/images/Student%20Calendar%20Term%201%202023v1-2.png)
