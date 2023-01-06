@@ -10,11 +10,11 @@ third_nav_title: Character Development
 
 2.         The **Goals** of Sexuality Education are:
 
-(a)            To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate **knowledge** on human sexuality and the consequences of sexual activity;
+(a)            To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;
 
-(b)          To help students know themselves and build healthy and rewarding relationships through the acquisition of **social and emotional skills** of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+(b)          To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 
-(c)         To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of **positive mainstream values and attitudes** about sexuality.
+(c)         To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality.
 
 3.         The **Key Messages** of Sexuality Education are:
 
@@ -28,33 +28,28 @@ third_nav_title: Character Development
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-**Overview of Naval Base Primary** **School’s** **Sexuality Education Programme for 2022**
+**Overview of Naval Base Primary** **School’s** **Sexuality Education Programme for 2023**
 
-4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
+4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
 5.         The subjects that incorporate topics on sexuality include:
 
 a.       Science
 
-b.       Form Teacher Guidance Period (FTGP)
+b.       Character and Citizenship Education (CCE)
 
-c.       Character and Citizenship Education (CCE)
+**<u>Sexuality Education Lessons</u>**: 
 
-**<u>Sexuality Education</u>**: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
+6.         The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 
-6.         The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
+7.         Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-7.         The Primary 5 & 6 Sexuality Education Teaching and Learing resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
+**At Naval Base Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
-**At Naval Base Primary School, the following Sexuality Education lessons will be taught in 2022:**
-
-![](/images/SE1.jpeg)
-
-![](/images/SE2.jpeg)
-
-![](/images/SE3.jpeg)
-
-![](/images/SE4.jpeg)
+![](/images/Sexuality%20Education%202023_1.png)
+![](/images/Sexuality%20Education%202023_2.png)
+![](/images/Sexuality%20Education%202023_3.png)
+![](/images/Sexuality%20Education%202023_4.png)
 
 **Information for Parents**
 
