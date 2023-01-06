@@ -56,6 +56,6 @@ b.       Character and Citizenship Education (CCE)
 8.         Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
 9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Growing%20Years%20Opt-Out%20Form%202022.pdf). 
- [here]()The completed opt-out form is to be submitted by 16/01/2023. [abcd](/files/NBPS%20Website%20on%20Sexuality%20Ed%20(Opt-out%20Form)%202023.pdf)
-
+ [here]()The completed opt-out form is to be submitted by 16/01/2023. [abcd] (/files/NBPS%20Website%20on%20Sexuality%20Ed%20(Opt-out%20Form)%202023.pdf)
+[test](/files/NBPS%20Website%20on%20Sexuality%20Ed%20(Opt-out%20Form)%202023.pdf)
 10.       Parents can contact the school at (Naval Base PRI SCH <nbps@moe.edu.sg>) for discussion or to seek clarification about the school’s sexuality education programme.
