@@ -67,6 +67,7 @@ Below are some useful links and articles for your reading.
 *   Primary 5 Code For Fun (CFF) Infosheet, download the PDF [here]().
 
 *   NEU PC Plus Programme, access the website [here](https://www.imda.gov.sg/programme-listing/neu-pc-plus).  
+*   Google Chat Tutorial for Parents, download the PDF here
     
 *   NBPS Parents Gateway User Guide, download the PDF [here](/files/NBPS%20Parents%20Gateway%20Userguide.pdf).
 
