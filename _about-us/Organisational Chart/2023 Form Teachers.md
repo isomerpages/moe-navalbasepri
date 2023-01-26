@@ -52,4 +52,4 @@ third_nav_title: Organisational Chart
 |  P6-EX | AMANDA HUANG XUANQI | amanda_huang_xuanqi@schools.gov.sg | LUA LI WEN | lua_li_wen@schools.gov.sg |
 |  P6-IN | LAL BHARWANI | lal_bharwani@schools.gov.sg | ZHUO CANGYUAN | zhuo_cangyuan@schools.gov.sg |
 |  P6-PE | SANGEETHA RAMACHANDRA | sangeetha_ramachandra@schools.gov.sg | POH ZHI QIN, LIONEL | poh_zhi_qin_lionel@schools.gov.sg  |
-|  P6-RE | HO PEAK YEN | ho_peak_yen@schools.gov.sg  | KALAISELVAN S/O BALASUBRAMANIAM | kalaiselvan_balasubramaniam@moe.edu.sg
+|  P6-RE | HO PEAK YEN | ho_peak_yen@schools.gov.sg  | KALAISELVAN S/O BALASUBRAMANIAM | kalaiselvan_balasubramaniam@schools.gov.sg
