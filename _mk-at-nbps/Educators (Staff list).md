@@ -5,4 +5,4 @@ description: ""
 ---
 ## Educators (Staff List)
 
-![](/images/Term%204%20Staff%20List.png)
+![](/images/MK%202023%20Staff%20List.jpeg)
