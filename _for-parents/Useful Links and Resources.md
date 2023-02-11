@@ -13,42 +13,13 @@ Below are some useful links and articles for your reading.
 
 ### PARENTS' BRIEFING
 
-
-[P1 Parents' Briefing 2022]()  
-[P2 Parents' Briefing 2022]()  
-[P3 Parents' Briefing 2022]()  
-[P2 parents' Workshop(Mathematics Department) 2022](/files/2022%20P2%20Math%20Parents%20Workshop%202022_Final_25Feb2022.pdf)  
-[P3 - P4 Parents' Workshop(Mathematics Department) 2022](/files/2022%20P3%20and%20P4%20Parents%20Workshop%202022%20for%20upload.pdf)  
-[P5 - P6 Parents' Workshop(Mathematics Department) 2022](/files/2022%20P5%20and%20P6%20Math%20Workshop%20for%20Parents%202022.pdf)
-[P4 Parents' Briefing 2022]()  
-[P5 Parents' Briefing 2022]()  
-[P6 Parents' Briefing 2022]()  
-[2022 Holistic Development Plan (HDP) CAMPSEL](/files/2022%20Holistic%20Development%20Plan%20HDP%202022_for%20website.pdf)  
-[RUTS Importance of Reading](/files/RUTS_Importance%20of%20Reading_For%20school%20website.pdf)<br>
-[MT RUTS 2022 - How to read to your child (Chinese Language)](https://navalbasepri-moe-edu-sg-admin.cwp.sg/qql/slot/u726/Parent%20Resources/RUTS/MT%20RUTS%202022%20-%20How%20to%20read%20to%20your%20child%20Chinese%20Language.pdf)<br>
-[MT RUTS 2022 - How to read to your child (Malay Language)](/files/MT%20RUTS%202022%20-%20How%20to%20read%20to%20your%20child%20Chinese%20Language.pdf)<br>
-[MT RUTS 2022 - How to read to your child (Tamil Language)](/files/MT%20RUTS%202022%20-%20How%20to%20read%20to%20your%20child%20Tamil%20Language.pdf)
-
-
-### COVID-19 VACCINATION FOR STUDENTS
-
-
-**FAQs**:  
-
-[https://www.moe.gov.sg/faqs-covid-19-infection  
-](https://www.moe.gov.sg/faqs-covid-19-infection)[https://www.vaccine.gov.sg/faq  
-](https://www.vaccine.gov.sg/faq)
-
-  
-
-**MOE Resources:**
-
-[Why vaccinate your child?](/files/Why%20vaccinate%20your%20child.pdf)
-
-[Infographic - Protect Your Child Against COVID-19](/files/Infographic%20-%20Protect%20Your%20Child%20Against%20COVID-19.pdf)
-
-
-
+[P1 Parents' Briefing 2023](/files/P1%20Parents%20Briefing%20slides%202023-compressed.pdf)
+<br> [P2 Parents' Briefing 2023](/files/P2%20Parents%20Briefing%20slides%202023-compressed.pdf)
+<br> [P3 Parents' FT Briefing 2023](/files/P3%20Parents%20Briefing%20FT%20slides%202023-compressed.pdf)
+<br> [P3 Parents' Main Briefing 2023](/files/P3%20Parents%20Main%20Briefing%20slides%202023-compressed.pdf)
+<br> [P4 Parents' Briefing 2023](/files/P4%20Parents%20Briefing%20slides%202023-compressed.pdf)
+<br> [P5 Parents' Briefing 2023](/files/P5%20Parents%20Briefing%20slides%202023-compressed.pdf)
+<br> [P6 Parents' Briefing 2023](/files/P6%20Parents%20Briefing%20slides%202023-compressed.pdf)
 
 ### INFOCOMM TECHNOLOGY
 
@@ -73,8 +44,7 @@ Below are some useful links and articles for your reading.
 *   NBPS Parents Gateway User Guide, download the PDF [here](/files/NBPS%20Parents%20Gateway%20Userguide.pdf).
 
 *   SLS Guide for Parents, download the PDF [here](/files/SLS%20guide%20for%20parents.pdf).  
-    
-
+  
 Parents must stay logged in to receive Push Notifications
 
 \*Parents' SingPass ID and Password will not be stored in the app.
