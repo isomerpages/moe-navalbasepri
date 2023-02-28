@@ -75,6 +75,7 @@ b.       Character and Citizenship Education (CCE)
 <br> [P4 Parents' Briefing 2023](/files/P4%20Parents%20Briefing%20slides%202023-compressed.pdf)
 <br> [P5 Parents' Briefing 2023](/files/P5%20Parents%20Briefing%20slides%202023-compressed.pdf)
 <br> [P6 Parents' Briefing 2023](/files/P6%20Parents%20Briefing%20slides%202023-compressed.pdf)
+<br> [LSP Parents' Briefing 2023](/files/LSP%20Parent%20Briefing%20Slides%202023%20-%20for%20Website.pdf)
 
 ### INFOCOMM TECHNOLOGY
 
