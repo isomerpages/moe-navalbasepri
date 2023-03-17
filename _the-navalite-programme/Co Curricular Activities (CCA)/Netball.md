@@ -17,3 +17,4 @@ Navalites will have opportunities to participate in the following events/competi
 *   Inter-school friendlies
 *   National Schools Games
 
+![](/images/Netball.png)
