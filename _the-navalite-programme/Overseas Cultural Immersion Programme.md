@@ -31,4 +31,4 @@ A group of teachers and P6 students went on a cultural immersion programme to Ma
 
 Due to COVID, we have since continued such efforts virtually with our counterparts in China.
 
-![](/images/Oversea%20Cultural.png)
+![](/images/Oversea%20Cultural.png)![](/images/Oversea%20Cultural%202.png)
