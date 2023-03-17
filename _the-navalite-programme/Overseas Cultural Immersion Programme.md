@@ -3,7 +3,6 @@ title: Overseas Cultural Immersion Programme
 permalink: /the-navalite-programme/Co-Curricular-Activities-CCA/Overseas-Cultural-Immersion-Programme/
 description: ""
 ---
-
 ## OVERSEAS CULTURAL IMMERSION PROGRAMME
 
 **<u><center>Primary 5 China Cultural Immersion Programme</center></u>**
@@ -30,7 +29,5 @@ A group of teachers and P6 students went on a cultural immersion programme to Ma
 
 ![](/images/Overseas5.jpeg)
 
-
-
-
+Due to COVID, we have since continued such efforts virtually with our counterparts in China.
 
