@@ -10,3 +10,4 @@ The NBPS Outdoor Appreciation Club provides experiential opportunities for stude
     
 *   Students will also learn to be comfortable and confident in engaging in outdoor activities safely.
 
+![](/images/Outdoor%20Appreciation%20Club.png)
