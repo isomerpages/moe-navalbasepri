@@ -24,7 +24,6 @@ third_nav_title: Organisational Chart
 | School Staff Developer (SSD)                  | Mdm Chia Yee Ming, Julia <br> chia_yee_ming_julia@schools.gov.sg     |
 | HOD English (EL)                              | Mr Seow Yong Keong (Alen) <br> seow_yong_keong@schools.gov.sg        |
 | HOD Mathematics (MA)                          | Mr Tee Junjie <br> tee_junjie@schools.gov.sg                         |
-| HOD Science (SC)                              |                                                             |
 | HOD Infocomm Technology (ICT)                 | Mdm Hazel Phua <br> phua_qian_hui@schools.gov.sg                     |
 | HOD Mother Tongue (MTL)                       | Mdm Ang Chiao Tyan <br>  ang_chiao_tyan@schools.gov.sg               |
 | HOD Character and Citizenship Education (CCE) | Mdm Siti Fauziah Bte Jasman <br> siti_fauziah_jasman@schools.gov.sg  |
