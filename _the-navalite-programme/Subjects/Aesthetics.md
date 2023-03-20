@@ -6,7 +6,7 @@ third_nav_title: Subjects
 ---
 ## Aesthetics
 
-#### GENERAL ART PROGRAMME (P1-6)
+##### GENERAL ART PROGRAMME (P1-6)
 
 ![](/images/aesthetics2020.jpeg)
 
@@ -17,7 +17,7 @@ In our well-equipped Art Rooms, students are given opportunities to explore wit
 *   Museum-based Learning (P4)
 *   Educational Digital Games Design (P6)
 
-#### GENERAL MUSIC PROGRAMME (P1-6)
+##### GENERAL MUSIC PROGRAMME (P1-6)
 
 ![](/images/aesthetics2020_music.jpeg)
 
@@ -28,7 +28,7 @@ In our Music Rooms, students not only experience singing and playing a variety o
 *    Indian Music Exposure Programme (P4) 
 *    Educational Digital Games Design (P6)
 
-#### PROGRAMME FOR ACTIVE LEARNING – PAL (P1 & 2 ONLY)
+##### PROGRAMME FOR ACTIVE LEARNING – PAL (P1 & 2 ONLY)
 
 During PAL, students are exposed to varied and fun learning experiences in four domains: Sports and Games, Outdoor Education, Performing Arts and Visual Arts. Students also learn socio-emotional competencies such as respecting others and responsible decision making.
 
@@ -62,7 +62,7 @@ All our P1 and 2 students will go through these modules:
 </tbody>
 </table>
 
-#### ARTS BEAT CARNIVAL
+##### ARTS BEAT CARNIVAL
 
 In line with the school’s continuous efforts to provide a holistic development for our students, our annual Arts Beat Carnival (ABC) helps to increase our students’ exposure to different arts forms across the Visual and Performing Arts. It also creates a platform for students to showcase their artistic talents and skills. The photos below offer a glimpse of some of the activities that are carried out during the week-long carnival:
 
@@ -94,7 +94,7 @@ Students (together with their fathers) putting together and designing their own 
 
 Students had an enjoyable and meaningful time learning and participating in the various aesthetics activities!
 
-#### NAVALITES' GOT TALENT
+##### NAVALITES' GOT TALENT
 
 <img style="width: 30%;" src="/images/navalitesgottalent_badge.png" align = "center" /> 
 
@@ -110,7 +110,7 @@ This year, due to the Safe Management Measures in schools, students recorded and
 
 ![](/images/navalitesgottalent2021.jpeg)
 
-#### AESTHETICS OPPORTUNITIES FOR LEARNING
+##### AESTHETICS OPPORTUNITIES FOR LEARNING
 
 **Learning Journey – An experience at a Drama/Musical** 
 
@@ -118,13 +118,10 @@ In collaboration with the English department, All P3 students will attend a play
 
 ![](/images/aesthetics_dramamusical.png)
 
-AESTHETICS IN-HOUSE COMPETITION 
+##### AESTHETICS IN-HOUSE COMPETITION 
 
 Each year, the school organises the “Navalite Compass and Bookmark Competition” for students to submit their designs for the cover and bookmark of their student handbook, known as the “Navalite Compass”. The shortlisted designs then go through a round of voting by the students and the winning entry will be used as the design of the Navalite Compass for the following year. Through this competition, students have an opportunity to express their pride in NBPS through drawing while having a greater ownership over the handbook that they bring to school every day.
 
 ![](/images/aesthetics%206.png)
 
 ![](/images/AES_Combined.png)
-
-
-
