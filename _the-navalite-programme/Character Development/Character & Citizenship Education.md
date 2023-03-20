@@ -31,7 +31,8 @@ The awards are to recognise outstanding students who are exemplary in character 
 
 VIA is an integral part of our school curriculum. The objective of VIA is to nurture students to be socially responsible and to help them understand his/her role in enhancing the well-being of the community and the country.
 
-Every student in NBPS has to contribute at least 10 hours each year to complete VIA activities. Students will participate actively and meaningfully in a wide range of activities planned by the school. The activities will provide experiential learning opportunities to develop character competence and commitment.
+Every student in NBPS has to contribute at least 10 hours each year to complete VIA activities. Students will participate actively and meaningfully in a wide range of activities planned by the school. The activities will provide experiential learning opportunities to develop.
 
 
-
+These are the level programmes in NBPS:
+![](/images/CCE/CCE%203.png)
