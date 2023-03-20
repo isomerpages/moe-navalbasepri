@@ -39,3 +39,27 @@ These are the level programmes in NBPS:
 ![](/images/CCE/CCE%203.png)
 
 These are the basic programmes for all NBPS students:
+![](/images/CCE/CCE%2020x.png)
+
+**3)** **National Education (NE)**
+
+##### OUR VISION
+
+Global Individuals, Loyal Leader of Singapore
+
+##### NE MISSION
+
+To instil in every child the pride of being a Singaporean
+
+##### SS MISSION
+
+3 'A’s – To enable every child to:
+* Appreciate the past
+* Adapt to the present
+* Anticipate the future
+
+##### (A)NE Commemorative events <BR>TOTAL DEFENCE DAY 
+
+TOGETHER, WE KEEP SINGAPORE STRONG - that is the key message we hope our Navalites will take away from this year's Total Defence Day commemoration.
+
+Throughout the week, the students were exposed to the various ways in which they can contribute to total defence, no matter how big or small. Among the highlights of the event are a special Total Defence Day assembly, a sweet potato rationing exercise and a visit from the Singapore Red Cross and the Singapore Police Force!
