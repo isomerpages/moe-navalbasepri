@@ -6,91 +6,83 @@ third_nav_title: Subjects
 ---
 ## Mother Tongue
 
-### OUR PHILOSOPHY
+### OUR APPROACH
 
-The Mother Tongue Curriculum aims to make learning Mother Tongue Language an enjoyable experience and to encourage pupils to learn the language to the highest level. This is achieved through inculcating an abiding interest in learning Mother Tongue Language, so that pupils will continue to use it as a living language after they leave school.
+We aim to create an enjoyable learning experience for all Navalites as they sail through the journey of mastering their Mother Tongue Languages. This is achieved by inculcating an abiding interest in  Mother Tongue Language, so that students  will continue to use it as a living language after they complete their primary education.  
 
-**KEY PROGRAMMES**
+### KEY PROGRAMMES
 
-·        Build up language competencies and skills in 6 aspects: listening, speaking, reading, writing, verbal and written interaction
+**<U>Extensive Reading Programme</U>**
 
- o   Extensive Reading Programme  
- 
- o   Creative Writing Package  
- 
- o   Comprehension Package  
- 
- o   Oral Package
- 
- ![](/images/Snap49.jpeg)
- 
- *   Inculcate character and citizenship among students, including values education, civic literacy, global awareness and cross-cultural skills
+To cultivate the love for reading among students, we have the Extensive Reading Programme (ERP) which encompasses the following activities: 
 
- o   Mother Tongue Language Fiesta  
- 
- o   P4 Mother Tongue Cultural Camp  
- 
- o   Festival celebrations (CNY, Hari Raya, Deepavali)
- 
- ![](/images/Snap50.jpeg)
- 
- *   Develop competencies in communications through MTL, including critical and inventive thinking, self-directed learning, socio-emotional learning and communication, collaboration and information skills
+  
 
- o   Interactive MOE websites https://www.mtl.moe.edu.sg/  
- 
- o   Use of ICT tools in class
- 
- ![](/images/Snap51.jpeg)
- 
- **Mother Tongue Showcase Website**
+i) <U>Class Reading Sessions</U>
 
-In 2022, the Mother Tongue (MT) department started a website to showcase essays, book reviews and MT-related performances by our talented Navalites in Naval Base Primary School: [https://go.gov.sg/nbps-mt](https://go.gov.sg/nbps-mt)
+Students read as a class and complete hands-on  post-reading activities regularly.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rj1p">Chinese</th>
-    <th class="tg-ii8k">小贝壳</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-rj1p">Malay</td>
-    <td class="tg-ii8k">Tinta Mutiara</td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p">Tamil</td>
-    <td class="tg-ii8k">முத்துச் சிப்பிகள்</td>
-  </tr>
-</tbody>
-</table>
+  
 
-<br>
+ii) <U>Buddy Reading Sessions</U>
 
-<img style="width: 50%;" src="/images/mothertoungeqr.png" align = "center" /> 
+On Wednesday and Friday mornings, selected students participate in the buddy reading session. These sessions help students to cultivate the reading habit, as well as build up their reading skills and confidence.
 
-![](/images/Picture2.png)
+  
 
-Besides spotlighting the works of our budding young writers the website features students' book reviews to encourage Navalites to read widely and foster a reading culture in the school.
+<U>**Mother Tongue Showcase Website**</U>
 
-![](/images/MT1.jpeg)
+The [Mother Tongue (MT) Showcase Website](https://go.gov.sg/nbps-mt) showcases compositions, book reviews and MT- related performances by our Navalites. Apart from encouraging our Navalites to read widely and fostering a reading culture in the school, the website also serves as a bank of literary inspirations for our Navalites.  
 
-![](/images/MT2.jpeg)
+![](/images/Mother%20Tongue/Mother%20Tongue%201.png)
 
-![](/images/MT3.jpeg)
-There are also many engaging student performances in MT languages to view!
-
-![](/images/MT4.png)
-Navalites interested in showcasing their work may submit their entries via their MT teachers. Submission can be in the form of essays, book reviews or MT-related performances and are accepted throughout the year. All submissions are subjected to a selection process prior to publication on the website.
+![](/images/Mother%20Tongue/Mother%20Tongue%202.png)
 
 
+
+Mother Tongue Language (MTL) Fiesta
+
+Navalites immerse in two fun-filled weeks of school with an array of cultural activities  planned by our MTL teachers during (MTL) Fiesta!
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Primary 4 Navalites also experience the P4 Mother Tongue Cultural Camp during these two weeks. In this day camp, Navalites take part in the Amazing Race in multi-racial groups to complete various cultural and language tasks as a team. P4 Navalites also attend a two-hour workshop to develop their appreciation for  their  Mother Tongue language and culture.
+
+Festival Celebrations (Chinese New Year, Hari Raya Aidilfitri, Deepavali)
+
+Festival celebrations provide a platform for Navalites to gain a better understanding of the Chinese, Malay and Indian community in Singapore. Through pre-celebration and celebration activities, we hope to strengthen racial harmony while inculcating character and citizenship among students of all races.
+
+  
 
