@@ -33,3 +33,16 @@ Our Primary 1 students engage in Show and Tell on their favourite storybook char
 
 Primary 3 students learn about poetry and recite poems while Primary 4 students try their hands at movie poster creation. Last but not the least, our Primary 5 and 6 Navalites unleash their creativity through poem and song-writing respectively.
 
+![](/images/English/English%201.png)
+
+#### READING UNDER THE STARS
+
+Reading Under the Stars is a fun night of books, bonding and a lot more at NBPS. In order to ignite the love for reading in P1 students, the night was lined up with an exciting programme for parents and children who came dressed in their pyjamas or a favourite storybook character.
+
+![](/images/English/English%202.png)'
+
+#### LIBRARY RECESS ACTIVITIES
+
+Aligned to our department philosophy, to empower every student to be effective communicators and confident users of the English Language, the Primary 1 and 2 students take turns to tell a story at our school library. This is a platform for our young ones to build up their confidence interacting with an audience. For the P3 to P6 students, they have a chance at showcasing their talent in story-telling, acting and singing every Thursday. Our students look forward to these activities.
+
+![](/images/English/English%203.png)
