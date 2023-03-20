@@ -18,13 +18,13 @@ To cultivate the love for reading among students, we have the Extensive Reading 
 
   
 
-i) <U>Class Reading Sessions</U>
+**<U>i) Class Reading Sessions</U>**
 
 Students read as a class and complete hands-on  post-reading activities regularly.
 
   
 
-ii) <U>Buddy Reading Sessions</U>
+**<U>ii) Buddy Reading Sessions</U>**
 
 On Wednesday and Friday mornings, selected students participate in the buddy reading session. These sessions help students to cultivate the reading habit, as well as build up their reading skills and confidence.
 
