@@ -4,7 +4,7 @@ permalink: /the-navalite-programme/Subjects/Mother-Tongue/
 description: ""
 third_nav_title: Subjects
 ---
-## Mother Tongue
+![](/images/Mother%20Tongue/Mother%20Tongue%209.png)## Mother Tongue
 
 ### OUR APPROACH
 
@@ -38,51 +38,21 @@ The [Mother Tongue (MT) Showcase Website](https://go.gov.sg/nbps-mt) showcases c
 
 ![](/images/Mother%20Tongue/Mother%20Tongue%202.png)
 
+![](/images/Mother%20Tongue/Mother%20Tongue%203.png)
 
-
-Mother Tongue Language (MTL) Fiesta
+<U>**Mother Tongue Language (MTL) Fiesta**</U>
 
 Navalites immerse in two fun-filled weeks of school with an array of cultural activities  planned by our MTL teachers during (MTL) Fiesta!
 
-  
+![](/images/Mother%20Tongue/Mother%20Tongue%204.png)![](/images/Mother%20Tongue/Mother%20Tongue%205.png)
+  ![](/images/Mother%20Tongue/Mother%20Tongue%206.png)
 
+Primary 4 Navalites also experience the **P4 Mother Tongue Cultural Camp** during these two weeks. In this day camp, Navalites take part in the Amazing Race in multi-racial groups to complete various cultural and language tasks as a team. P4 Navalites also attend a two-hour workshop to develop their appreciation for  their  Mother Tongue language and culture.
 
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Primary 4 Navalites also experience the P4 Mother Tongue Cultural Camp during these two weeks. In this day camp, Navalites take part in the Amazing Race in multi-racial groups to complete various cultural and language tasks as a team. P4 Navalites also attend a two-hour workshop to develop their appreciation for  their  Mother Tongue language and culture.
-
-Festival Celebrations (Chinese New Year, Hari Raya Aidilfitri, Deepavali)
+<U>**Festival Celebrations (Chinese New Year, Hari Raya Aidilfitri, Deepavali)**</U>
 
 Festival celebrations provide a platform for Navalites to gain a better understanding of the Chinese, Malay and Indian community in Singapore. Through pre-celebration and celebration activities, we hope to strengthen racial harmony while inculcating character and citizenship among students of all races.
 
-  
-
+![](/images/Mother%20Tongue/Mother%20Tongue%208.png)
+![](/images/Mother%20Tongue/Mother%20Tongue%207.png)
+![](/images/Mother%20Tongue/Mother%20Tongue%209.png)
