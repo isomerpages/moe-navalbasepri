@@ -5,43 +5,42 @@ description: ""
 third_nav_title: Subjects
 ---
 ## Science
+---
+#### OUR APPROACH
+------------
 
-#### PHILOSOPHY
+Naval Base Primary School strives to provide our students with different experiences and opportunities for them to enjoy, love and learn Science by seeing the relevance in their lives. From classroom discussions to hands-on activities, experiments and learning journeys, we aim to spark curiosity and build interest in Science through daily life.  
 
-We believe that, intrinsically, our students love Science. They enjoy and learn Science best when they see the relevance to their lives. In Naval Base Primary School, our team of Science teachers strive to provide our students with experiences that build on this interest. From classroom discussions to hands-on activities, experiments and learning journeys, we aim to spark curiosity and build interest in Science through daily life.
+ 
+#### KEY PROGRAMMES
+--------------
 
-![](/images/philosophy.png)
+<u>**Science In The Classroom**</u>
 
-#### SCIENCE IN THE CLASSROOM
+From Data Loggers to Science Toys to Individual Science Kits, Naval Base Primary School has a wealth of resources for our students to delve into hands-on experiences during Science learning. Together with inquiry-based approaches, the 5E learning cycle is also used to support scientific inquiry across the five themes in the Primary Science Curriculum (Diversity, Cycles, Systems, Energy and Interactions).
 
-Our students have opportunities to conduct investigations with the wealth of science resources available in NBPS. From Data Loggers to Science Toys to Individual Science Kits, student engagement and interest heightens as they delve into these hands-on experiences. Across the five themes in the Primary Science Curriculum (Diversity, Cycles, Systems, Energy and Interactions), teachers apply the inquiry-based approach to help students gain Scientific Literacy and concepts. Teachers carry out the 5E learning cycle, which supports scientific inquiry in the teaching and learning of Science.
+![](/images/Science/Science%201.png)![](/images/Science/Science%202.png)![](/images/Science/Science%203.png)
 
+#### 
 
-| |  |  |
-| -------- | -------- | -------- |
-| ![](/images/classroom1.jpeg)     | ![](/images/classroom2.jpeg)     | ![](/images/classroom3.jpeg)     |
+###### <U>**LEARNING BEYOND THE CLASSROOM**</U>
 
-#### LEARNING BEYOND THE CLASSROOM
+Primary 3 to 6 students go on learning journeys, such as tto the Singapore Zoo and the Science Centre where they engage in hands-on experiences with the vast resources from both organisations. 
 
-Our Science lessons take our students beyond the walls of the classroom. We arrange learning journeys to the Singapore Science Centre for our Primary 3 to 6 students where they have greater hands-on experiences with the vast resources that the Science Centre provides. To bring relevance to what they learn, for example, Primary 5 students go through a Terrarium Workshop to understand the concepts of the Water Cycle. Through our Outdoor Education Learning area, we hope to cultivate our students love for nature and the environment.
+P5 students also have the opportunity to attend a Terrarium Workshop to understand and apply the concepts of the Water Cycle. Beyond external organisations, Navalites also get to connect with their surroundings through our Outdoor Education Learning area and Edible garden to cultivate their love and curiosity for nature and the environment.
 
+![](/images/Science/Science%204.png)![](/images/Science/Science%205.png)![](/images/Science/Science%206.png)
 
+<u>**Admiral’s Programme (Science)**</u>
 
-|  |  |  |
-| -------- | -------- | -------- |
-|   ![](/images/learning1.jpeg)   |   ![](/images/learning2.jpeg)   |   ![](/images/learning3.jpeg)   |
+We offer opportunities for upper primary Navalites who demonstrate interest and ability in Science to participate in Science enrichment programmes and competitions.
 
-#### EXCELLENCE 2000 SCIENCE PROGRAMME (E2K SCIENCE)
+**(i) Excellence 2000 Science Programme (E2K SCIENCE)**
 
-The E2K Science Programme Singapore is a Science enrichment programme for upper primary students who demonstrate interest and ability in Science. The programme is adapted from Israel’s E2K Programme which is developed by the Israel Centre for Excellence through Education (ICEE). The programme aims to develop scientific inquiry process skills among high-ability primary students in Science, as well as nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
+The E2K Science Programme Singapore is a Science enrichment programme for P4 and P5 students who demonstrate keen interest and competence in Science. The programme aims to develop scientific inquiry process skills and nurture 21st Century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
 
+![](/images/Science/Science%207.png)![](/images/Science/Science%208.png)![](/images/Science/Science%209.png)![](/images/Science/Science%2010.png)
 
+**(ii) Science Competitions**
 
-
-|  |  | 
-| -------- | -------- | 
-|  ![](/images/e2k1.jpeg)    | ![](/images/e2k2.jpeg)    | 
-
-
-
-
+Navalites will get to showcase their Science knowledge and skills through their participation in national competitions like the Raffles Science Olympiad and Singapore Primary Science Olympiad, organised by Raffles Insitution and NUS High School of Mathematics and Science respectively.
