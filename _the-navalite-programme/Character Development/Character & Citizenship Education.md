@@ -34,7 +34,8 @@ VIA is an integral part of our school curriculum. The objective of VIA is to nur
 Every student in NBPS has to contribute at least 10 hours each year to complete VIA activities. Students will participate actively and meaningfully in a wide range of activities planned by the school. The activities will provide experiential learning opportunities to develop.
 
 ![](/images/CCE/CCE%201.png)![](/images/CCE/CCE%202.png)
+
 These are the level programmes in NBPS:
 ![](/images/CCE/CCE%203.png)
 
-
+These are the basic programmes for all NBPS students:
