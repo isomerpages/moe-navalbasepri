@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Bannercrop.gif
+      background: /images/English/08f503853_456.jpg
       key_highlights:
         - title: Parents
           description: ""
