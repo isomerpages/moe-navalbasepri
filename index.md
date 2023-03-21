@@ -15,10 +15,8 @@ sections:
         - title: Student's life
           description: ""
           url: /student-life/Co-Curricular-Activities/
-  - resources:
-      title: Announcements
   - infopic:
-      title: Our Facebook
+      title: Welcome to NBPS
       button: Follow us
       url: https://www.facebook.com/NBPS1730/
       image: /images/logo.png
