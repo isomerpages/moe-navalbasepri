@@ -40,9 +40,6 @@ The [Mother Tongue (MT) Showcase Website](https://go.gov.sg/nbps-mt) showcases c
 |    |    |  |     |     |    |
 
 
-
-
-
 <U>**Mother Tongue Language (MTL) Fiesta**</U>
 
 Navalites immerse in two fun-filled weeks of school with an array of cultural activities  planned by our MTL teachers during (MTL) Fiesta!
