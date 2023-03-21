@@ -35,7 +35,7 @@ The [Mother Tongue (MT) Showcase Website](https://go.gov.sg/nbps-mt) showcases c
 ![](/images/Mother%20Tongue/Mother%20Tongue%202.png)
 
 
-|  |  | ![](/images/Mother%20Tongue/Mother%20Tongue%203.png) |  |  |
+|  ![](/images/Mathematics/Blank.png)| ![](/images/Mathematics/Blank.png) | ![](/images/Mother%20Tongue/Mother%20Tongue%203.png) | ![](/images/Mathematics/Blank.png) | ![](/images/Mathematics/Blank.png) |
 | -------- | -------- | -------- |-------    |-------    
 |    |    |  |     |     |    |
 
