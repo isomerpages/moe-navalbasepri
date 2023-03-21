@@ -23,7 +23,6 @@ From Data Loggers to Science Toys to Individual Science Kits, Naval Base Primary
 ![](/images/Science/Science%202.png)
 ![](/images/Science/Science%203.png)
 
-#### 
 
 ###### **<U>LEARNING BEYOND THE CLASSROOM</U>**
 
