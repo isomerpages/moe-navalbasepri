@@ -26,7 +26,7 @@ On Wednesday and Friday mornings, selected students participate in the buddy rea
 
   
 
-<U>**Mother Tongue Showcase Website**</U>
+**<U>Mother Tongue Showcase Website</U>**
 
 The [Mother Tongue (MT) Showcase Website](https://go.gov.sg/nbps-mt) showcases compositions, book reviews and MT- related performances by our Navalites. Apart from encouraging our Navalites to read widely and fostering a reading culture in the school, the website also serves as a bank of literary inspirations for our Navalites.  
 
@@ -40,7 +40,7 @@ The [Mother Tongue (MT) Showcase Website](https://go.gov.sg/nbps-mt) showcases c
 |    |    |  |     |     |    |
 
 
-<U>**Mother Tongue Language (MTL) Fiesta**</U>
+**<U>Mother Tongue Language (MTL) Fiesta</U>**
 
 Navalites immerse in two fun-filled weeks of school with an array of cultural activities  planned by our MTL teachers during (MTL) Fiesta!
 
@@ -52,7 +52,7 @@ Navalites immerse in two fun-filled weeks of school with an array of cultural ac
 
 Primary 4 Navalites also experience the **P4 Mother Tongue Cultural Camp** during these two weeks. In this day camp, Navalites take part in the Amazing Race in multi-racial groups to complete various cultural and language tasks as a team. P4 Navalites also attend a two-hour workshop to develop their appreciation for  their  Mother Tongue language and culture.
 
-<U>**Festival Celebrations (Chinese New Year, Hari Raya Aidilfitri, Deepavali)**</U>
+**<U>Festival Celebrations (Chinese New Year, Hari Raya Aidilfitri, Deepavali)</U>**
 
 Festival celebrations provide a platform for Navalites to gain a better understanding of the Chinese, Malay and Indian community in Singapore. Through pre-celebration and celebration activities, we hope to strengthen racial harmony while inculcating character and citizenship among students of all races.
 
