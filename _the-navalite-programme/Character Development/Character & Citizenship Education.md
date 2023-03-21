@@ -124,3 +124,4 @@ All P1 - P6s gathered at the parade square this morning to experience the Nation
 As part of CCE 2021, the school plans cohort learning journeys to support the development of citizenship dispositions and national identity for Navalites.
 
 The learning journeys are as follows:
+![](/images/CCE/CCE%2021x.png)
