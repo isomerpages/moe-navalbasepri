@@ -1,0 +1,7 @@
+collections:
+  for-students:
+    output: true
+    order:
+      - Calendar of Events.md
+      - Useful Links.md
+      - NDD 2023 Students.md
