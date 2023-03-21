@@ -7,5 +7,3 @@ description: ""
 
 Please click [here](https://sites.google.com/moe.edu.sg/ndd2023students) to visit NDD 2023 Students' website.  
 Or scan the QRCode below:
-
-![](/images/ndd2022students.png)
