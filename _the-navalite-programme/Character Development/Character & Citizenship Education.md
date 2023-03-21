@@ -63,3 +63,65 @@ To instil in every child the pride of being a Singaporean
 TOGETHER, WE KEEP SINGAPORE STRONG - that is the key message we hope our Navalites will take away from this year's Total Defence Day commemoration.
 
 Throughout the week, the students were exposed to the various ways in which they can contribute to total defence, no matter how big or small. Among the highlights of the event are a special Total Defence Day assembly, a sweet potato rationing exercise and a visit from the Singapore Red Cross and the Singapore Police Force!
+
+|  |  | 
+| -------- | -------- |
+| ![](/images/CCE/CCE%204.jpg)     | ![](/images/CCE/CCE%205.jpg)     |
+| ![](/images/CCE/CCE%206.jpg)     | ![](/images/CCE/CCE%207.jpg)    |
+| ![](/images/CCE/CCE%208.jpg)     | ![](/images/CCE/CCE%209.jpg)   |
+
+
+##### INTERNATIONAL FRIENDSHIP DAY
+
+   
+With an array of in-class activities during Assembly, CCE, English and Social Studies lessons, NBPS strives to ensure that by commemorating International Friendship Day, we can achieve our goals of:
+
+* Being acquainted with the diverse and colourful culture and traditions of the region and the lives of the other ASEAN countries.
+* Nurture the spirit of friendship and collaboration among different peoples in ASEAN and beyond.
+* Having confidence and optimism in Singapore’s future and the resilience to face the challenges ahead.
+* Keeping an open mindset, and express an appreciation of the contributions of foreigners living, working and studying in Singapore.
+
+As the Little Red Dot, Singapore realises the importance of forging strong solidarity and friendship with her neighbouring countries in order to survive. This idea is instilled in students through the International Friendship Day commemorated every year in Term 2. The theme for IFD this year is “Singapore In The World”. COVID-19 brought challenges and opportunities for Singapore. The changing global landscapes highlighted the importance of maintaining good relationships and the need to recognise the importance of connectedness within and beyond ASEAN.
+
+On 12 April, our school commemorated IFD with the opening of the Heritage Corner.
+
+![](/images/CCE/CCE%2010.jpg)
+The Heritage Corner will serve as a Learning Centre for the teaching and learning of Social Studies. 
+
+![](/images/CCE/CCE%2011.jpg)
+IFD also provided students the opportunity to explore Singapore’s connection to the region and the world (Myanmar, Bhutan and New Zealand). Conducted through Zoom, the student emcees immersed the audience with the beautiful scenery of the country while at the same time, sharing unique facts about the country.
+
+![](/images/CCE/CCE%2012.jpg)
+After a whole year of hiatus, our school CCA dancers showcased their energy and talent through their dance moves. The song that they danced to has helped many to feel positive. They have lighted it up like Dynamite!
+
+
+##### RACIAL HARMONY DAY 
+
+Singapore: Our Multicultural Mosaic
+
+What is your favourite local food? Navalites celebrated Racial Harmony Day 2022 by visiting the Heritage Corner in school to learn about the traditional techniques of making some of our local delights. Our Navalites also dressed up in their best ethnic costumes to show their appreciation for our multicultural society!
+
+
+
+|  |  | 
+| -------- | -------- | 
+| ![](/images/CCE/CCE%2013.jpg)     | ![](/images/CCE/CCE%2014.jpg)     | 
+| ![](/images/CCE/CCE%2015.jpg)     | ![](/images/CCE/CCE%2016.jpg)     | 
+
+
+##### NATIONAL DAY CELEBRATIONS 
+Stronger Together, Majulah! Our Navalites celebrated our Nation’s 57th birthday!
+
+All P1 - P6s gathered at the parade square this morning to experience the National Day Observance Ceremony. Some were in awe as they saw our Uniformed Groups march in with the National Flag. This was followed by a rousing school concert with performances, quizzes and the finale singalong!
+
+![](/images/CCE/CCE%2017.jpg)
+![](/images/CCE/CCE%2018.jpg)
+![](/images/CCE/CCE%2019.jpg)
+
+
+##### (A) COHORT LEARNING JOURNEYS
+
+As part of CCE 2021, the school plans cohort learning journeys to support the development of citizenship dispositions and national identity for Navalites.
+
+The learning journeys are as follows:
+![](/images/CCE/CCE%2021.png)
