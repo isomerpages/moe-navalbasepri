@@ -14,9 +14,9 @@ sections:
         - title: Parents
           description: ""
           url: /Parents/P1-Registration-Exercise/
-        - title: Student's life
+        - title: About Us
           description: ""
-          url: /student-life/Co-Curricular-Activities/
+          url: /about-us/Vision-Mission-Values/
   - infopic:
       title: Welcome to NBPS
       button: Follow us
