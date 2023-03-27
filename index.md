@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: About Us
           description: ""
-          url: /about-us/Vision-Mission-Values/
-        - title: For Parents
+          url: https://www.navalbasepri.moe.edu.sg/about-us/Vision-Mission-Values/
+        - title: MK@NBPS
           description: ""
-          url: /for-parents/Useful-Links-and-Resources/
+          url: https://www.navalbasepri.moe.edu.sg/mk-at-nbps/Announcements/
   - infopic:
       title: Welcome to NBPS
       button: Follow us
