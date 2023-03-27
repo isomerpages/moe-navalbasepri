@@ -4,7 +4,7 @@ permalink: /the-navalite-programme/cca/permalink/
 description: ""
 third_nav_title: CCA
 ---
-<img src="/images/Picture2.jpg" style="width:400px;height:300px;">
+<img src="/images/Picture2.jpg" style="width:420px;height:300px;">
 
 In Naval Base Primary, CCA is based on the philosophy and principles that are aligned to the school’s mission and vision. CCA is an important and integral part of a Navalite’s education.
 
@@ -27,4 +27,3 @@ Primary 3 to Primary 6 Navalites have a wide selection of CCAs to participate in
 <img src="/images/cca2.png" style="width:400px;height:270px;">
 <br>
 <img src="/images/cca3.png" style="width:400px;height:270px;">
-
