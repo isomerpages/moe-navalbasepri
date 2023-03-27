@@ -11,12 +11,12 @@ sections:
   - hero:
       background: /images/English/08f503853_456.jpg
       key_highlights:
-        - title: Parents
-          description: ""
-          url: /Parents/P1-Registration-Exercise/
         - title: About Us
           description: ""
           url: /about-us/Vision-Mission-Values/
+        - title: For Parents
+          description: ""
+          url: /for-parents/Useful-Links-and-Resources/
   - infopic:
       title: Welcome to NBPS
       button: Follow us
