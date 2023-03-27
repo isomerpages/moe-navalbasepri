@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - MOE Sexuality Education.md
       - Parent Support Group.md
       - Useful Links and Resources.md
       - Schoolbag Articles.md
