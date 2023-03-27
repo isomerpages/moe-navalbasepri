@@ -34,8 +34,6 @@ Below are some useful links and articles for your reading.
 
 ##### REFERENCES
 
-*   Primary 5 Code For Fun (CFF) Infosheet, download the PDF [here]().
-
 *   NEU PC Plus Programme, access the website [here](https://www.imda.gov.sg/programme-listing/neu-pc-plus).  
 
 *   Google Chat Tutorial for Parents, download the PDF [here](/files/Google%20Chat%20Tutorial%20for%20Parents.pdf)
@@ -43,19 +41,18 @@ Below are some useful links and articles for your reading.
 *   NBPS Parents Gateway User Guide, download the PDF [here](/files/NBPS%20Parents%20Gateway%20Userguide.pdf).
 
 *   SLS Guide for Parents, download the PDF [here](/files/SLS%20guide%20for%20parents.pdf).  
-  
+
+### Parents Gateway
+
+Click [here](https://pg.moe.edu.sg/faq) to access PG FAQs for Parents. <br>
 Parents must stay logged in to receive Push Notifications
-
 \*Parents' SingPass ID and Password will not be stored in the app.
-
-![](/images/PG-SingPass.gif)
+<img src="/images/PG-SingPass.gif" style="width:260px;height:440px;">
 
 ### PARENTING ARTICLES 
 
-[Managing Transition](/files/ManagingTransition.pdf) and [Sleep](/files/Sleep.pdf)
-
-[Less Sugar Drinks](/files/Less%20Sugar%20Drinks.pdf)
-
+[Managing Transition](/files/ManagingTransition.pdf) and [Sleep](/files/Sleep.pdf) <br>
+[Less Sugar Drinks](/files/Less%20Sugar%20Drinks.pdf) <br>
 [Guilt Free Treats](/files/GuiltFreeTreats.pdf)
 
 
@@ -70,9 +67,7 @@ Parents must stay logged in to receive Push Notifications
 
 
 [MOE Primary School Information](https://www.moe.gov.sg/primary)
-
 [Edusave](https://www.moe.gov.sg/education/edusave)
-
 [Financial Assistance Scheme (FAS)](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 **Follow MOE's parenting-focused Instagram account, @parentingwith.moesg for more tips and MOE resources. Scan the QR code to start following!**
