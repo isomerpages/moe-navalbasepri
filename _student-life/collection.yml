@@ -1,5 +1,0 @@
-collections:
-  student-life:
-    output: true
-    order:
-      - After School Care.md
