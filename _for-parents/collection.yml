@@ -2,9 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - MOE Sexuality Education.md
-      - Parent Support Group.md
-      - Useful Links and Resources.md
-      - Schoolbag Articles.md
       - E Open House.md
       - Group Personal Accident (GPA) Insurance for Students.md
+      - MOE Sexuality Education.md
+      - Parent Support Group.md
+      - Schoolbag Articles.md
+      - Useful Links and Resources.md
