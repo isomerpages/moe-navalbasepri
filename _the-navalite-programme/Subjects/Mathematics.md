@@ -9,14 +9,14 @@ third_nav_title: Subjects
 ### OUR APPROACH
 ----
   
-We believe that every Navalite can excel in the learning and application of Mathematics. We hone students’ mathematical thinking and problem-solving skills through a scaffolded teaching approach with an emphasis on hands-on learning using mathematical manipulatives.  
+We believe that every Navalite can excel in the learning and application of Mathematics. We hone students’ mathematical thinking and problem-solving skills through a scaffolded teaching approach with an emphasis on hands-on learning using <span style="color:red;">mathematical</span> manipulatives.  
 
 ### KEY PROGRAMMES
 --------------
 
-**Concrete-Pictorial-Abstract Approach (CPA Approach)**
+<u>**Concrete-Pictorial-Abstract Approach (CPA Approach)**</u>
 
-Across all levels, students have access to a wide variety of mathematical manipulatives that are used in class to introduce mathematical concepts in a concrete and tangible manner. Students then progress on to pictorial representations before learning to solve abstract mathematical equations and problems.
+Across all levels, students have access to a wide variety of <span style="color:red">mathematical</span> manipulatives that are used in class to introduce mathematical concepts in a concrete and tangible manner. Students then progress on to pictorial representations before learning to solve abstract mathematical equations and problems.
 
 
 
@@ -88,6 +88,4 @@ The bi-annual Parents’ Workshop for Mathematics equips parents with the skills
 
 | ![](/images/Mathematics/Mathematics%2010.png) | ![](/images/Mathematics/Mathematics%2011.png) | 
 | -------- | -------- | 
-|      |      | 
-
-
+|      |      |
