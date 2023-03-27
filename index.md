@@ -4,7 +4,9 @@ title: Naval Base Primary School
 description: An Isomer site of the Singapore Government
 image: /images/logo.png
 permalink: /
-notification: ""
+notification: Dear Visitor, we are currently in the midst of updating the
+  website. Some pages might have some bugs and we seek your understanding and
+  apologise for the inconvenience caused.
 sections:
   - hero:
       background: /images/English/08f503853_456.jpg
@@ -15,10 +17,8 @@ sections:
         - title: Student's life
           description: ""
           url: /student-life/Co-Curricular-Activities/
-  - resources:
-      title: Announcements
   - infopic:
-      title: Our Facebook
+      title: Welcome to NBPS
       button: Follow us
       url: https://www.facebook.com/NBPS1730/
       image: /images/logo.png
