@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - After School Care.md
-      - Student iCON.md
       - Student Learning Space (SLS).md
