@@ -4,7 +4,9 @@ title: Naval Base Primary School
 description: An Isomer site of the Singapore Government
 image: /images/logo.png
 permalink: /
-notification: ""
+notification: Dear Visitor, we are currently in the midst of updating the
+  website. Some pages might have some bugs and we seek your understanding and
+  apologise for the inconvenience caused.
 sections:
   - hero:
       background: /images/English/08f503853_456.jpg
