@@ -77,7 +77,7 @@ Held twice a year, top-voted finalists stand a chance to be featured during asse
 
 Every year, all Navalites are welcome to submit their designs for the cover and bookmark of their student handbook, known as the “Navalite Compass”. The shortlisted designs go through a round of voting by Navalites and the winning entry is used for the Navalite Compass in the following year. Through this competition, Navalites have an opportunity to express their pride and sense of belonging to the school. 
 
-| <img src="" style="width:400px;height:300px;"> | 
+| <img src="/images/Aesthetics/Aesthetic%207a.png" style="width:700px;height:400px;"> | 
 | -------- | 
 |      | 
 
@@ -85,7 +85,7 @@ Every year, all Navalites are welcome to submit their designs for the cover and 
 
 Primary 3s can look forward to a learning journey to watch a professional play or musical at a theatre. Beyond being exposed to this genre of arts, Navalites are taught theatre etiquette and are encouraged to apply them in this authentic and experiential programme.
 
-| <img src="" style="width:400px;height:300px;"> | 
+| <img src="/images/Aesthetics/Aesthetic%208a.png" style="width:700px;height:350px;"> | 
 | -------- | 
 |      | 
 
@@ -93,11 +93,10 @@ Primary 3s can look forward to a learning journey to watch a professional play o
 
 We are proud to collaborate with National Gallery Singapore where selected Artworks are reprinted and displayed at The Navalite Gallery. Navalites will have the opportunity to experience museum-based learning conveniently within the school compound every year. 
 
-<img src="" style="width:400px;height:300px;">
-
+<img src="/images/Aesthetics/Aesthetic%209a.png" style="width:680px;height:300px;">
 
 At Primary 4, in collaboration with Social Studies, Navalites will journey to National Gallery Singapore and find out more about Singaporean artists and artworks, as well as Singapore’s history.
 
-| <img src="" style="width:400px;height:300px;"> | 
+| <img src="/images/Aesthetics/Aesthetic%2010a.png" style="width:680px;height:550px;"> | 
 | -------- | 
 |      |
