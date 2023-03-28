@@ -20,9 +20,16 @@ Across all levels, students have access to a wide variety of <span style="color:
 
 
 
-| ![](/images/Mathematics/Mathematics%201.png)  | ![](/images/Mathematics/Mathematics%202.png)  | 
+|   |   | 
 | -------- | -------- | 
-|     |     | 
+|  <img src="/images/Mathematics/Mathematics%201.png" style="width:400px;height:300px;">   |  <img src="/images/Mathematics/Mathematics%202.png" style="width:400px;height:300px;">   | 
+
+
+
+| Column 1 | 
+| -------- | 
+|      | 
+
 
 
 
@@ -34,19 +41,17 @@ Students of all levels explore and enjoy Mathematics beyond the curriculum and h
 
 Students are taught to solve Sudoku and KenKen puzzles. The annual Intra-School Sudoku competition is a widely-anticipated event for Navalites.
 
-![](/images/Mathematics/Mathematics%203.png)
+<img src="/images/Mathematics/Mathematics%205.png" style="width:750px;height:400px;">
 
 **(ii) Breakout EDU**
 
-Breakout EDU kits are used to provide students with fun Mathematics challenges. Students work in groups and apply their knowledge of Mathematics to solve questions and unlock the Breakout Edu box during the P3 Breakout Edu experience and the P5 Math and Science Trail.
+Breakout <span style="color:red">EDU</span> kits are used to provide students with fun Mathematics challenges. Students work in groups and apply their knowledge of Mathematics to solve questions and unlock the Breakout Edu box during the P3 Breakout Edu experience and the P5 Math and Science Trail.
 
 
 
-| ![](/images/Mathematics/Mathematics%204.png) | ![](/images/Mathematics/Mathematics%205.png) | 
+| <img src="/images/Mathematics/Mathematics%204.png" style="width:400px;height:300px;"> | <img src="/images/Mathematics/Mathematics%203.png" style="width:400px;height:300px;">  | 
 | -------- | -------- |
 |      |      | 
-
-
 
 
 **<u>Admirals Programme</u>**
@@ -57,9 +62,14 @@ The E2K Mathematics program is offered to P4 and P5 students who show interest a
 
 
 
-| ![](/images/Mathematics/Mathematics%206.png) | ![](/images/Mathematics/Mathematics%207.png) | 
+|   |  | 
+| ----- | ------ | 
+|   <img src="/images/Mathematics/Mathematics%206.png" style="width:400px;height:300px;">  |   <img src="" style="width:400px;height:300px;">   | 
+
+
+| <img src="" style="width:400px;height:300px;">  | <img src="" style="width:400px;height:300px;"> | 
 | -------- | -------- | 
-|     |      | 
+|      |      | 
 
 
 
@@ -68,13 +78,23 @@ The E2K Mathematics program is offered to P4 and P5 students who show interest a
 
 Math Olympiad workshops are offered to P5 and P6 students who have demonstrated high competence and interest in Mathematics. Students explore advanced mathematical concepts and non-routine questions beyond the syllabus.  Through these workshops, students are better prepared for participation in national math competitions and learn higher-order thinking skills and strategies which allow them to excel academically.
 
-![](/images/Mathematics/Mathematics%208.png)
 
-**Learning Support For Mathematics (LSM)**
+
+|  <img src="/images/Mathematics/Mathematics%207.png" style="width:400px;height:300px;"> |  <img src="" style="width:400px;height:300px;"> |  
+| -------- | -------- | 
+|      |      | 
+
+
+<u>**Learning Support For Mathematics (LSM)**</u>
 
 Identified P1 to P4 students to enrol in the LSM programme to develop basic numeracy skills and confidence in Mathematics. Lessons are conducted in small groups for students to receive more individual attention and support from specially trained teachers.
 
-![](/images/Mathematics/Mathematics%209.png)
+
+
+| <img src="" style="width:400px;height:300px;"> | <img src="/images/Mathematics/Mathematics%209.png" style="width:400px;height:300px;"> | 
+| -------- | -------- | 
+|      |      | 
+
 
 **<u>Improving Confidence and Achievement in Numeracy (ICAN)</u>**
 
@@ -86,6 +106,6 @@ The bi-annual Parents’ Workshop for Mathematics equips parents with the skills
 
 
 
-| ![](/images/Mathematics/Mathematics%2010.png) | ![](/images/Mathematics/Mathematics%2011.png) | 
+|<img src="/images/Mathematics/Mathematics%2010.png" style="width:400px;height:250px;"> | <img src="/images/Mathematics/Mathematics%2011.png" style="width:400px;height:250px;"> | 
 | -------- | -------- | 
 |      |      |
