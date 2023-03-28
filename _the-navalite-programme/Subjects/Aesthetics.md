@@ -6,27 +6,29 @@ third_nav_title: Subjects
 ---
 ## Aesthetics
 
-##### GENERAL ART PROGRAMME (P1-6)
+##### OUR APPROACH (Example: philosophy, student outcomes, framework)
 
-![](/images/aesthetics2020.jpeg)
+###### “The Arts for Every Child”
 
-In our well-equipped Art Rooms, students are given opportunities to explore with a wide variety of art materials and express themselves creatively during their Art lessons. The school also works with the National Arts Council (NAC) and various practicing artist/instructors to expose our Navalites to a wide variety of art genres to give them a memorable artistic experience in their 6 years with us. These are some exciting projects that students will experience through their 6 years at NBPS: 
+We believe that all Navalites should be given opportunities to learn about, appreciate and excel in the Arts. Hence, all Navalites have learning experiences and programmes in Art, Music, Dance and Drama throughout their six years in the school.
 
-*   Chinese Brush Painting Exposure Programme (P3) 
-*   Manga Drawing Programme (P4) 
-*   Museum-based Learning (P4)
-*   Educational Digital Games Design (P6)
+##### OUR APPROACH (Example: philosophy, student outcomes, framework)
 
-##### GENERAL MUSIC PROGRAMME (P1-6)
+##### KEY PROGRAMMES 
 
-![](/images/aesthetics2020_music.jpeg)
+###### <u>Art and Music Programmes (P1 - P6)</u>
 
-In our Music Rooms, students not only experience singing and playing a variety of instruments during their music lessons but also learn about musical elements, music composition and music appreciation. The school also works with the National Arts Council (NAC) and various practicing musicians/instructors to provide a wide exposure of various musical genres to our Navalites at different parts of the year. These are some engaging programmes that students will experience through their 6 years at NBPS:  
+In our well-equipped Art and Music rooms, Navalites learn various techniques and skills to create, share, perform and appreciate Art and Music. 
 
-*    Introduction to Brass Instruments (P2) 
-*    Kompang Exposure Programme (P3) 
-*    Indian Music Exposure Programme (P4) 
-*    Educational Digital Games Design (P6)
+For Art, the six-year programme encourages Navalites to explore deeply in the focus areas of:<br>
+(i) Self and Immediate Environment, <br>
+(ii) Singapore Past, Present and Future, and <br>
+(iii) The World and Region We Live in. 
+
+Through these focus areas, Navalites learn to <b>see, express and appreciate</b> various art genres and styles.
+
+<img src="" style="width:200px;height:300px;">
+
 
 ##### PROGRAMME FOR ACTIVE LEARNING – PAL (P1 & 2 ONLY)
 
