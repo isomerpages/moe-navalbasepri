@@ -26,10 +26,9 @@ Across all levels, students have access to a wide variety of <span style="color:
 
 
 
-| Column 1 | 
+| <img src="/images/Mathematics/Math%201a.png" style="width:700px;height:400px;"> | 
 | -------- | 
 |      | 
-
 
 
 
@@ -41,7 +40,16 @@ Students of all levels explore and enjoy Mathematics beyond the curriculum and h
 
 Students are taught to solve Sudoku and KenKen puzzles. The annual Intra-School Sudoku competition is a widely-anticipated event for Navalites.
 
-<img src="/images/Mathematics/Mathematics%205.png" style="width:750px;height:400px;">
+
+
+|  |  |  
+| -------- | -------- |
+| <img src="/images/Mathematics/Math%202a.jpg" style="width:750px;height:400px;">   | <img src="/images/Mathematics/Math%203a.jpg" style="width:750px;height:400px;">       |
+
+| <img src="/images/Mathematics/Mathematics%205.png" style="width:750px;height:400px;">| 
+| -------- | 
+|      | 
+
 
 **(ii) Breakout EDU**
 
@@ -64,14 +72,11 @@ The E2K Mathematics program is offered to P4 and P5 students who show interest a
 
 |   |  | 
 | ----- | ------ | 
-|   <img src="/images/Mathematics/Mathematics%206.png" style="width:400px;height:300px;">  |   <img src="" style="width:400px;height:300px;">   | 
+|   <img src="/images/Mathematics/Math%204a.png" style="width:400px;height:300px;">  |   <img src="/images/Mathematics/Math%205a.png" style="width:400px;height:300px;">   | 
 
-
-| <img src="" style="width:400px;height:300px;">  | <img src="" style="width:400px;height:300px;"> | 
+| <img src="/images/Mathematics/Math%206a.png" style="width:400px;height:300px;">  | <img src="/images/Mathematics/Mathematics%206.png" style="width:400px;height:300px;"> | 
 | -------- | -------- | 
 |      |      | 
-
-
 
 
 **(ii) Math Olympiad**
@@ -80,7 +85,7 @@ Math Olympiad workshops are offered to P5 and P6 students who have demonstrated 
 
 
 
-|  <img src="/images/Mathematics/Mathematics%207.png" style="width:400px;height:300px;"> |  <img src="" style="width:400px;height:300px;"> |  
+|  <img src="/images/Mathematics/Mathematics%207.png" style="width:400px;height:300px;"> |  <img src="/images/Mathematics/Math%207a.png" style="width:400px;height:300px;"> |  
 | -------- | -------- | 
 |      |      | 
 
@@ -91,7 +96,7 @@ Identified P1 to P4 students to enrol in the LSM programme to develop basic nume
 
 
 
-| <img src="" style="width:400px;height:300px;"> | <img src="/images/Mathematics/Mathematics%209.png" style="width:400px;height:300px;"> | 
+| <img src="/images/Mathematics/Math%208a.jpg" style="width:400px;height:300px;"> | <img src="/images/Mathematics/Mathematics%209.png" style="width:400px;height:300px;"> | 
 | -------- | -------- | 
 |      |      | 
 
