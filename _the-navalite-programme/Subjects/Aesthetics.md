@@ -25,13 +25,13 @@ For Art, the six-year programme encourages Navalites to explore deeply in the fo
 
 Through these focus areas, Navalites learn to <b>see, express and appreciate</b> various art genres and styles.
 
-| <img src="" style="width:400px;height:300px;"> | 
+| <img src="/images/Aesthetics/Aesthetic%201a.png" style="width:700px;height:400px;"> | 
 | -------- | 
 |      | 
 
 For Music, the six-year programme focuses on providing students with a rich experience in <b>listening to, creating and performing music. </b>Through these musical processes, students gain an understanding of musical elements, concepts and knowledge as well as the context of the variety of musical styles they are exposed to. 
 
-| <img src="" style="width:400px;height:300px;"> | 
+| <img src="/images/Aesthetics/Aesthetic%202a.png" style="width:700px;height:400px;"> | 
 | -------- | 
 |      | 
 
@@ -42,10 +42,9 @@ At Primary 6, the Art and Music programme culminates in a special year-long inte
 
 
 
-| <img src="" style="width:400px;height:300px;"> | <img src="" style="width:400px;height:300px;"> | 
+| <img src="" style="width:450px;height:300px;"> | <img src="/images/Aesthetics/Aesthetic%204a.png" style="width:400px;height:300px;"> | 
 | -------- | -------- |
 | Click [HERE](https://go.gov.sg/p6alp-mathsgame) to play!     | Click [HERE](https://go.gov.sg/p6alp-englishgame) to play!     | 
-
 
 
 |  |  |  |
