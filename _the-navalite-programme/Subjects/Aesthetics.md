@@ -101,4 +101,4 @@ At Primary 4, in collaboration with Social Studies, Navalites will journey to Na
 
 | <img src="" style="width:400px;height:300px;"> | 
 | -------- | 
-|      | 
+|      |
