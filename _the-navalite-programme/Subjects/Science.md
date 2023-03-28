@@ -23,13 +23,11 @@ From Data Loggers to Science Toys to Individual Science Kits, Naval Base Primary
 
 |  | | |
 | -------- | -------- |  ---- | 
-| <img src="/images/Science/Science%201.png" style="width:400px;height:250px;">    | <img src="" style="width:400px;height:250px;">  | <img src="" style="width:400px;height:250px;"> | | 
+| <img src="/images/Science/Science%201.png" style="width:400px;height:250px;">    | <img src="/images/Science/Science%201a.jpg" style="width:400px;height:250px;">  | <img src="/images/Science/Science%202a.png" style="width:400px;height:250px;"> | | 
 
-| <img src="" style="width:400px;height:250px;"> |  <img src="" style="width:400px;height:250px;"> | <img src="" style="width:400px;height:250px;"> | 
+| <img src="/images/Science/Science%203a.jpg" style="width:400px;height:250px;"> |  <img src="/images/Science/Science%204a.jpg" style="width:400px;height:250px;"> | <img src="/images/Science/Science%205a.png" style="width:400px;height:250px;"> | 
 | --- | ---- | ---- | 
 |   |  | | 
-
-
 
 ###### **<U>LEARNING BEYOND THE CLASSROOM</U>**
 
@@ -39,7 +37,7 @@ P5 students also have the opportunity to attend a Terrarium Workshop to understa
 
 |  |   | 
 | --- | ---- | 
-| <img src="" style="width:400px;height:300px;"> | <img src="" style="width:400px;height:300px;"> | 
+| <img src="/images/Science/Science%206a.jpg" style="width:400px;height:300px;"> | <img src="/images/Science/Science%207a.jpg" style="width:400px;height:300px;"> | 
 
 
 | <img src="/images/Science/Science%204.png" style="width:400px;height:250px;"> |  <img src="/images/Science/Science%205.png" style="width:400px;height:250px;"> | <img src="/images/Science/Science%206.png" style="width:400px;height:250px;"> | 
@@ -57,7 +55,8 @@ The E2K Science Programme Singapore is a Science enrichment programme for P4 and
 
 |  | | 
 | -------- | -------- |
-|   <img src="" style="width:400px;height:300px;">  |     <img src="" style="width:400px;height:300px;">  |
+|   <img src="/images/Science/Science%208a.jpg" style="width:400px;height:300px;">  |     <img src="/images/Science/Science%209a.jpg" style="width:400px;height:300px;">  |
+
 
 |  <img src="/images/Science/Science%208.png" style="width:400px;height:250px;"> |  <img src="/images/Science/Science%2010.png" style="width:400px;height:250px;"> |  <img src="/images/Science/Science%209.png" style="width:400px;height:250px;"> |
 | -------- | -------- | -------- |
