@@ -42,7 +42,7 @@ At Primary 6, the Art and Music programme culminates in a special year-long inte
 
 
 
-| <img src="" style="width:450px;height:300px;"> | <img src="/images/Aesthetics/Aesthetic%204a.png" style="width:400px;height:300px;"> | 
+| <img src="/images/Aesthetics/Aesthetic%203a.png" style="width:450px;height:300px;"> | <img src="/images/Aesthetics/Aesthetic%204a.png" style="width:400px;height:300px;"> | 
 | -------- | -------- |
 | Click [HERE](https://go.gov.sg/p6alp-mathsgame) to play!     | Click [HERE](https://go.gov.sg/p6alp-englishgame) to play!     | 
 
@@ -57,7 +57,7 @@ At Primary 6, the Art and Music programme culminates in a special year-long inte
 
 Navalites enjoy a week filled with arts with an assembly talk, art exhibition, Navalite performances, and a variety of recess activities. In particular, members of Aesthetics CCAs such as Art Club, Band, Choir, Dance and Drama Club also have the opportunity to display their creative talents and share their skills with their peers. The carnival ends off on a high note with a hands-on parent-child bonding session where both parent and child engage in arts-related activities together and foster stronger bonds during the process.
 
-| <img src="" style="width:400px;height:300px;"> | 
+| <img src="/images/Aesthetics/Aesthetic%205a.png" style="width:700px;height:400px;"> | 
 | -------- | 
 |      | 
 
@@ -67,7 +67,7 @@ Held twice a year, top-voted finalists stand a chance to be featured during asse
 
 
 
-| <img src="" style="width:400px;height:300px;"> | 
+| <img src="/images/Aesthetics/Aesthetic%206a.png" style="width:700px;height:600px;"> | 
 | -------- | 
 |      | 
 
