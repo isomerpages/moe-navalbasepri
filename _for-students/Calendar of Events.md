@@ -7,5 +7,8 @@ description: ""
 
 ### YEAR 2023 TERM 1
 
-![](/images/Student%20Calendar%20Term%201%202023v1-1.png)
-![](/images/Student%20Calendar%20Term%201%202023v1-2.png)
+![](/images/calendar%20t2%201.JPG)
+
+
+
+[Click here](/files/student%20calendar%20of%20activities%20for%20term%202%202023.pdf)
