@@ -5,7 +5,7 @@ description: An Isomer site of the Singapore Government
 image: /images/logo.png
 permalink: /
 notification: Dear visitors, we are currently in the midst of updating the
-  website. Some pages may be unable to load and we seek your understanding and
+  website. Some pages might be unable to load and we seek your understanding and
   apologise for the inconvenience caused.
 sections:
   - hero:
