@@ -27,7 +27,8 @@ We expose our students to nature through the Outdoor Education modules in PE les
 
 The school places great emphasis on the development of characters and values through the use of the activities and programmes to achieve the outcomes of LLP. Students reflect on their actions and efforts through the different settings and situations and applies them to their everyday lives.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ekdpNu6QIQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ekdpNu6QIQI" height="315" width="560"></iframe>
+
 
 **H**olistic&nbsp;**O**utdoor&nbsp;**P**hysical&nbsp;**E**ducation &amp;&nbsp;**S**ports (HOPES)
 
