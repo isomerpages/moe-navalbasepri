@@ -5,7 +5,7 @@ description: ""
 ---
 ## CALENDAR OF EVENTS
 
-### YEAR 2023 TERM 1
+### YEAR 2023 TERM 2
 
 ![](/images/calendar%20t2%201.JPG)
 
