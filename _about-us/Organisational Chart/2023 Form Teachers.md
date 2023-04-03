@@ -43,7 +43,7 @@ third_nav_title: Organisational Chart
 |  P4-SF | SALINA BINTE MD SHARIF | salina_md_sharif@schools.gov.sg | LEE XUAN | lee_xuan@schools.gov.sg |
 |  P5-CO | NADIA IZZATY BINTE HAJI MOHAMED ZAIN | nadia_zain@schools.gov.sg  |  |  |
 |  P5-IN | LEE CHING | lee_ching@schools.gov.sg | GAO QINGFANG | gao_qingfang@schools.gov.sg |
-|  P5-PE | KAYATHRI D/O THIYAGARAJAN | kayathri_thiyagarajan@schools.gov.sg |  |  |
+|  P5-PE | KAYATHRI D/O THIYAGARAJAN | kayathri_thiyagarajan@schools.gov.sg | LAI WEE CHONG | lai_wee_chong@schools.gov.sg |
 |  P5-RE | SIM TAI WEE KITSON | sim_tai_wee_kitson@schools.gov.sg | MUHAMMAD HAFIZH BIN ABDUL GHANI | muhammad_hafizh_abdul_ghani@schools.gov.sg |
 |  P5-SF | SHANE THAM WENJIE | tham_wenjie@schools.gov.sg | VASAGI KUMARASEN | vasagi_kumarasen@schools.gov.sg |
 |  P5-UN | RATHANA RAVENDRA | rathana_ravendra@schools.gov.sg | SEAH WAN YAN MARY | seah_wan_yan_mary@schools.gov.sg |
