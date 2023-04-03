@@ -33,4 +33,4 @@ The school places great emphasis on the development of characters and values thr
 
 The Learning for Life Programme (LLP) “HOPES'' aims to expose, excite and enhance students' experience of the outdoors and sports towards a lifelong involvement and pursuit of a healthy lifestyle. The programme consists of a series of sports and outdoor experiences that seeks to develop leadership awareness and skills in all Navalites. It also supports our school vision of Every Navalite a Leader. The school partners ActiveSG for Navalites to get exposure to sports activities such as mini tennis and football and highlights of the programme include the annual Primary 4 and 5 Outdoor Adventure Camps.
 
-<img style="width:700px;height:850px;" src="/images/llp2.png">
+<img style="width:850px;height:850px;" src="/images/llp2.png">
