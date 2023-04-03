@@ -1,6 +1,6 @@
 ---
 title: E Open House
-permalink: /for-parents/E-Open-Hosue/
+permalink: /for-parents/eopenhouse/
 description: ""
 ---
 ## E-Open House

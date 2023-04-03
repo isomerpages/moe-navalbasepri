@@ -4,19 +4,19 @@ title: Naval Base Primary School
 description: An Isomer site of the Singapore Government
 image: /images/logo.png
 permalink: /
-notification: Dear Visitor, we are currently in the midst of updating the
-  website. Some pages might have some bugs and we seek your understanding and
+notification: Dear visitors, we are currently in the midst of updating the
+  website. Some pages might be unable to load and we seek your understanding and
   apologise for the inconvenience caused.
 sections:
   - hero:
       background: /images/English/08f503853_456.jpg
       key_highlights:
-        - title: Parents
+        - title: About Us
           description: ""
-          url: /Parents/P1-Registration-Exercise/
-        - title: Student's life
+          url: https://www.navalbasepri.moe.edu.sg/about-us/Vision-Mission-Values/
+        - title: MK@NBPS
           description: ""
-          url: /student-life/Co-Curricular-Activities/
+          url: https://www.navalbasepri.moe.edu.sg/mk-at-nbps/Announcements/
   - infopic:
       title: Welcome to NBPS
       button: Follow us

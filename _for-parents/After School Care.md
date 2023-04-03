@@ -1,6 +1,6 @@
 ---
 title: After School Care
-permalink: /student-life/After-School-Care/
+permalink: /for-parents/after-school-care/
 description: ""
 ---
 ## After School Care
