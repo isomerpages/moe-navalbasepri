@@ -29,8 +29,6 @@ The school places great emphasis on the development of characters and values thr
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ekdpNu6QIQI" height="315" width="560"></iframe>
 
-<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/watch?v=ekdpNu6QIQI" height="315" width="560"></iframe>
-      
 
 **H**olistic&nbsp;**O**utdoor&nbsp;**P**hysical&nbsp;**E**ducation &amp;&nbsp;**S**ports (HOPES)
 
