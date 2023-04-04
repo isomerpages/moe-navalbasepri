@@ -9,7 +9,7 @@ notification: Dear visitors, we are currently in the midst of updating the
   apologise for the inconvenience caused.
 sections:
   - hero:
-      background: /images/English/08f503853_456.jpg
+      background: /images/Banner.gif
       key_highlights:
         - title: About Us
           description: ""
