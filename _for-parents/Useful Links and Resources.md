@@ -24,23 +24,23 @@ Below are some useful links and articles for your reading.
 
 
 
-##### PARENT KITS ON CYBER WELLNESS   
+##### PARENT KITS ON&nbsp;CYBER WELLNESS&nbsp;  
 
-*   Cyber Wellness for your Child, download the PDF [here](/files/Parent%20Kit%20-%20Cyber%20Wellness%20for%20your%20Child.pdf).
+*   Cyber Wellness for your Child, download the PDF&nbsp;[here](/files/Parent%20Kit%20-%20Cyber%20Wellness%20for%20your%20Child.pdf).
 
-*   Helping Your Children with Appropriate Online Expression, download the PDF [here](/files/3B%202019%20Connect%20T1%20Parents%20Tipsheet.pdf)
+*   Helping Your Children with Appropriate Online Expression, download the PDF&nbsp;[here](/files/3B%202019%20Connect%20T1%20Parents%20Tipsheet.pdf)
 
 
 
 ##### REFERENCES
 
-*   NEU PC Plus Programme, access the website [here](https://www.imda.gov.sg/programme-listing/neu-pc-plus).  
+*   NEU PC Plus Programme, access the website&nbsp;[here](https://www.imda.gov.sg/programme-listing/neu-pc-plus).  
 
 *   Google Chat Tutorial for Parents, download the PDF [here](/files/Google%20Chat%20Tutorial%20for%20Parents.pdf)
     
-*   NBPS Parents Gateway User Guide, download the PDF [here](/files/NBPS%20Parents%20Gateway%20Userguide.pdf).
+*   NBPS Parents Gateway User Guide, download the PDF&nbsp;[here](/files/NBPS%20Parents%20Gateway%20Userguide.pdf).
 
-*   SLS Guide for Parents, download the PDF [here](/files/SLS%20guide%20for%20parents.pdf).  
+*   SLS Guide for Parents, download the PDF&nbsp;[here](/files/SLS%20guide%20for%20parents.pdf).  
 
 ### Parents Gateway
 
@@ -49,9 +49,9 @@ Parents must stay logged in to receive Push Notifications
 \*Parents' SingPass ID and Password will not be stored in the app.
 <img src="/images/PG-SingPass.gif" style="width:260px;height:440px;">
 
-### PARENTING ARTICLES 
+### PARENTING ARTICLES&nbsp;
 
-[Managing Transition](/files/ManagingTransition.pdf) and [Sleep](/files/Sleep.pdf) <br>
+[Managing Transition](/files/ManagingTransition.pdf)&nbsp;and&nbsp;[Sleep](/files/Sleep.pdf) <br>
 [Less Sugar Drinks](/files/Less%20Sugar%20Drinks.pdf) <br>
 [Guilt Free Treats](/files/GuiltFreeTreats.pdf)
 
@@ -67,13 +67,14 @@ Parents must stay logged in to receive Push Notifications
 
 
 [MOE Primary School Information](https://www.moe.gov.sg/primary)
-[Edusave](https://www.moe.gov.sg/education/edusave)
+[Edusave](https://www.moe.gov.sg/education/edusave)<br>
 [Financial Assistance Scheme (FAS)](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
-**Follow MOE's parenting-focused Instagram account, @parentingwith.moesg for more tips and MOE resources. Scan the QR code to start following!**
 
-<img style="width: 60%;" src="/images/MOE_IG_FRONT.jpeg" align = "center"/>
+**Follow MOE's parenting-focused Instagram account,&nbsp;@parentingwith.moesg&nbsp;for more tips and MOE resources. Scan the QR code to start following!**
+
+<img style="width: 60%;" src="/images/MOE_IG_FRONT.jpeg" align="center">
 
 <br>
 
-<img style="width: 40%;" src="/images/MOE_IG_QR.png" align = "center"/>
+<img style="width: 40%;" src="/images/MOE_IG_QR.png" align="center">
