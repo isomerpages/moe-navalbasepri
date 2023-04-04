@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - PSLE information.md
       - After School Care.md
       - Useful Links and Resources.md
       - E Open House.md
