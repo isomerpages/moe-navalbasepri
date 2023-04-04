@@ -38,7 +38,7 @@ third_nav_title: Organisational Chart
 |------------------------------|---------------------------------------------------------------------------|
 | SH Character and Citizenship Education (CCE) | Mdm Angela Mi <br> angela_mi@schools.gov.sg              |
 | SH Student Leadership (SL)   | Mr Kalaiselvan S/O Balasubramaniam <br> kalaiselvan_balasubramaniam@schools.gov.sg |  
-| SH Physical Education (PE) | Mr Lai Wee Cheong <br>    lai_wee_cheong@schools.gov.sg                       |
+| SH Physical Education (PE) | Mr Lai Wee Chong <br>    lai_wee_chong@schools.gov.sg                       |
 | SH Infocomm Technology (ICT) | Miss Amanda Huang  <br>  amanda_huang_xuanqi@schools.gov.sg                       |
 
 <br>
@@ -56,12 +56,12 @@ third_nav_title: Organisational Chart
 
 | YEAR HEAD (YH) |                                                                         |
 |----------------|-------------------------------------------------------------------------|
-| YH (P1 & P2)   | Ms Siti Zubaidah Binte Rahmat <br> siti_zubaidah_rahmat@schools.gov.sg           | 
-| AYH (P1 & P2)   | Ms Pavitra Ghopinath <br> pavitra_ghopinath@schools.gov.sg                                        |
-| YH (P3 & P4)   | Mr M Anwar <br> m_anwar_my@schools.gov.sg                                       |
-| AYH (P3 & P4)  | Mr Brian Nguyen <br> nguyen_wei_jieh_brian@schools.gov.sg                      |
-| AYH (P5 & P6)  | Mr Muhammad Jailani Bin Abu Talib <br> muhammad_jailani_abu_talib@schools.gov.sg |
-| AYH (P5 & P6)  | Mrs Angeline Ang <br> zeng_qiufeng_angeline@schools.gov.sg                       |
+| YH (P1 &amp; P2)   | Ms Siti Zubaidah Binte Rahmat <br> siti_zubaidah_rahmat@schools.gov.sg           | 
+| AYH (P1 &amp; P2)   | Ms Pavitra Ghopinath <br> pavitra_ghopinath@schools.gov.sg                                        |
+| YH (P3 &amp; P4)   | Mr M Anwar <br> m_anwar_my@schools.gov.sg                                       |
+| AYH (P3 &amp; P4)  | Mr Brian Nguyen <br> nguyen_wei_jieh_brian@schools.gov.sg                      |
+| AYH (P5 &amp; P6)  | Mr Muhammad Jailani Bin Abu Talib <br> muhammad_jailani_abu_talib@schools.gov.sg |
+| AYH (P5 &amp; P6)  | Mrs Angeline Ang <br> zeng_qiufeng_angeline@schools.gov.sg                       |
 
 <br>
 
