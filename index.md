@@ -5,8 +5,8 @@ description: An Isomer site of the Singapore Government
 image: /images/logo.png
 permalink: /
 notification: Dear visitors, we are currently in the midst of updating the
-  website. Some pages might be unable to load and we seek your understanding and
-  apologise for the inconvenience caused.
+  website. Some pages might be unable to load. As such, we seek your
+  understanding and apologise for the inconvenience caused.
 sections:
   - hero:
       background: /images/Homepage/nbps e-banner_generic.png
