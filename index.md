@@ -9,7 +9,7 @@ notification: Dear visitors, we are currently in the midst of updating the
   apologise for the inconvenience caused.
 sections:
   - hero:
-      background: /images/Banner.gif
+      background: /images/Homepage/nbps e-banner_generic.png
       key_highlights:
         - title: About Us
           description: ""
