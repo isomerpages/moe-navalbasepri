@@ -34,7 +34,7 @@ Below are some useful links and articles for your reading.
 
 ##### REFERENCES
 
-*   NEU PC Plus Programme, access the website&nbsp;[here](https://www.imda.gov.sg/programme-listing/neu-pc-plus).  
+*   NEU PC Plus Programme, access the website&nbsp;[Here](https://eservice.imda.gov.sg/das/homepage ).  
 
 *   Google Chat Tutorial for Parents, download the PDF [here](/files/Google%20Chat%20Tutorial%20for%20Parents.pdf)
     
