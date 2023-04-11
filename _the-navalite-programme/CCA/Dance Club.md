@@ -4,16 +4,13 @@ permalink: /the-navalite-programme/Co-Curricular-Activities-CCA/Dance-Club/
 description: ""
 third_nav_title: CCA
 ---
-
-
-
 ## Dance Club
 
 ### ABOUT DANCE CLUB
 
 NBPS Dance Club hopes to nurture every members’ passion for dance. During dance practices, our dancers explore a variety of modern and contemporary dance genres including jazz, contemporary, hip hop etc. Beyond dance techniques, our dancers also learn values such as self-discipline and perseverance as they strive to do their best to prepare for each dance performance. 
 
-In addition, due to the many dance performances they will be involved in, our dancers have opportunities to grow their stage presence over the years and emerge comfortable and confident shining in the limelight as they perform on stage before an audience.
+In addition, our dancers have opportunities to grow their stage presence over the years and emerge as comfortable and confident dancers who shine in the limelight as they perform on stage before an audience.
 
 ### NAVALITES HAVE THE OPPORTUNITIES TO PARTICIPATE IN THE FOLLOWING EVENTS / COMPETITIONS:
 
