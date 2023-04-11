@@ -23,5 +23,4 @@ We'll do our best for out Nation
 
 **Lyrics by : Mrs Wee Bian Hua**
 **Score by : Mdm Ho Kim Geok**
-
-![](/images/school%20song.jpeg)
+<img style="width:400px;height:520px;" src="/images/school%20song.jpeg">
