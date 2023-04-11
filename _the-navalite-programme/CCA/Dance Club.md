@@ -23,7 +23,7 @@ Dancers get the chance to perform and hone their talent during school-based perf
 *   Navalite Day
 *   NBPS Speech and Prize-giving Day   
 
-They will also participate in external performances when the opportunity arises. External performances that the dancers have taken part before include:   
+They will also participate in external performances when the opportunity arises. External performances that the dancers have taken part in before include:   
 
 *   SYF Dance Extravaganza
 *   Nee Soon South CC events
