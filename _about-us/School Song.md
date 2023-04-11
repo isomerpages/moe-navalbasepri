@@ -21,6 +21,7 @@ Till we hear the shouts of
 Firm on the anchor of Education
 We'll do our best for out Nation
 
-**Lyrics by : Mrs Wee Bian Hua**
+**Lyrics by : Mrs Wee Bian Hua** <br>
 **Score by : Mdm Ho Kim Geok**
-<img style="width:400px;height:520px;" src="/images/school%20song.jpeg">
+
+br&gt;<img style="width:400px;height:520px;" src="/images/school%20song.jpeg">
