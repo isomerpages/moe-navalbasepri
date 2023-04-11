@@ -34,4 +34,4 @@ The upgraded facilities will allow Navalites to be given the opportunities to cr
 
 
 **6\. Basketball Court**
-<img style="width:300px;height:470px;" src="/images/basketballcourt1.png">
+<img style="width:300px;height:440px;" src="/images/basketballcourt1.png">
