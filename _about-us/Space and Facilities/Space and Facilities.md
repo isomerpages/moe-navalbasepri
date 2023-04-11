@@ -8,7 +8,8 @@ third_nav_title: Space and Facilities
 
 A positive environment is instrumental in enriching Navalites' learning and physical well-being. Having undergone the PERI Upgrading Project since 2018, Navalites enjoy new facilities that have been thoughtfully designed to support and further enhance their learning experience in school.  
 
-The upgraded facilities will allow Navalites to be given the opportunities to create, explore and most importantly, embark on the joy of learning. These new facilities include:
+The upgraded facilities will allow Navalites to be given the opportunities to create, explore and most importantly, embark on the joy of learning. <br>
+<br>These new facilities include:
  
 **1\. Multimedia Resource Library (MRL) With a Maker Space**
 <img style="width:400px;height:290px;" src="/images/mrl1.png"> <br>
