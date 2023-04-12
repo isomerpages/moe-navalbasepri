@@ -10,7 +10,7 @@ third_nav_title: CCA
 
 NBPS Drama Club brings together budding thespians who share the love for performing. In the four years of being in Drama Club, Drama members are given opportunities to explore acting as an art form, appreciate traditional theatre forms, experience working as a team in productions on-stage and back-stage and even watch theatre performances. Drama Club aims to provide its members with an enriching and well-rounded theatre experience while developing 21st century competencies in each one of them.
 
-In recent years, our Drama Club members have demonstrated their confidence as an individual and passion in the art form by putting up various performances for school events and attending learning journeys to appreciate the works of other performers.
+In recent years, our Drama Club members have demonstrated their confidence as individuals and passion in the art form by putting up various performances for school events and attending learning journeys to appreciate the works of other performers.
 
 Keeping up to date with technology, our Drama Club members have demonstrated their versatility by putting up recorded performances for school events. With the touch of our Drama Club teachers’ editing skills, and Drama members’ contribution to scripts and props, they are able to bring their passion to the screen.
 
