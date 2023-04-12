@@ -10,7 +10,7 @@ third_nav_title: CCA
 
   
 
-Choir is a musical ensemble where students with a common interest in singing gather together. During CCA practices, students will be exposed to a wide repertoire of songs from different genres and languages. Students will learn proper singing techniques, Western musical notation and have opportunities to build up their confidence through their participation in various performances.    
+Choir is a musical ensemble where students with a common interest in singing gather together. During CCA practices, students will be exposed to a wide repertoire of songs from different genres and languages. Students will learn proper singing techniques, Western musical notation and have opportunities to build their confidence through their participation in various performances.    
 
   
 
