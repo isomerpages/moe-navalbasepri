@@ -4,7 +4,6 @@ permalink: /the-navalite-programme/Co-Curricular-Activities-CCA/Netball/
 description: ""
 third_nav_title: CCA
 ---
-
 NBPS Netball aims to nurture our students to:
 
 *   have a strong foundation in the basic skills and rules of netball
@@ -16,6 +15,6 @@ NBPS Netball aims to nurture our students to:
 Navalites will have opportunities to participate in the following events/competitions:
 
 *   Inter-school friendlies
-*   National Schools Games
+*   National School Games
 
 ![](/images/Netball.png)
