@@ -40,20 +40,16 @@ Students with potential for photography are trained and given opportunities to p
 *   National Coding Challenge 2018 – Bronze award
 
 Training in school @ Computer Lab
-
-
 |  | | 
 | -------- | -------- | 
 |  ![](/images/Infocomm3.jpeg)    |  ![](/images/Infocomm4.jpeg)    | 
 
-Competitions and Exposure to Infocom Events
-
+Competitions and Exposure to Infocomm Events
 |  | | 
 | -------- | -------- | 
 |  ![](/images/Infocomm5.jpeg)    |   ![](/images/Inforcomm6.jpeg)   | 
 
 Outdoor Photography Training
-
 |  | | 
 | -------- | -------- | 
 |  ![](/images/Infocomm7.jpeg)    |   ![](/images/Infocomm8.jpeg)   |
