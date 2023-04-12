@@ -4,9 +4,6 @@ permalink: /the-navalite-programme/Co-Curricular-Activities-CCA/Choir/
 description: ""
 third_nav_title: CCA
 ---
-
-
-
 ## Choir
 
 ### ABOUT CHOIR
@@ -25,7 +22,7 @@ Objectives:
     
 3.  To build confidence as students participate in various performances.   
     
-4.  To instil the school values of Self-discipline, Integrity, Respect, Compassion and   
+4.  To instil the school values of Self-discipline, Integrity, Respect, Compassion and Learning.
     
 5.  Learning through their experiences as an ensemble.
 
@@ -44,4 +41,3 @@ Objectives:
 ![](/images/choir4.jpeg)
 
 ![](/images/aesthetics_choir.jpeg)
-
