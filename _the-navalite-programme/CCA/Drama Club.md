@@ -4,14 +4,11 @@ permalink: /the-navalite-programme/Co-Curricular-Activities-CCA/Drama-Club/
 description: ""
 third_nav_title: CCA
 ---
-
-
-
 ## Drama Club
 
 ### ABOUT DRAMA CLUB
 
-NBPS Drama Club brings together budding thespians who share a love for performing. In the four years of being in Drama Club, Drama members are given opportunities to explore acting as an art form, appreciate traditional theatre forms, experience working as a team in productions on-stage and back-stage and even watch theatre performances. Drama Club aims to provide its members with an enriching and well-rounded theatre experience while developing 21st century competencies in each one of them.
+NBPS Drama Club brings together budding thespians who share the love for performing. In the four years of being in Drama Club, Drama members are given opportunities to explore acting as an art form, appreciate traditional theatre forms, experience working as a team in productions on-stage and back-stage and even watch theatre performances. Drama Club aims to provide its members with an enriching and well-rounded theatre experience while developing 21st century competencies in each one of them.
 
 In recent years, our Drama Club members have demonstrated their confidence as an individual and passion in the art form by putting up various performances for school events and attending learning journeys to appreciate the works of other performers.
 
@@ -43,9 +40,9 @@ Speech Day and Awards Presentation
 
   
 
-**2017:** 
+**2017:**&nbsp;
 
-**Attended the following theatre productions:** <br>
+**Attended the following theatre productions:**&nbsp;<br>
 The Sound of Music at Marina Bay Sands<br>
 Stories and Songs from the Bow by Grace Kalaiselvi
 
@@ -60,5 +57,4 @@ National Story Challenge 2017 – Qualified for Semi-Finals (Team)
 |  |  |  
 | -------- | -------- | 
 |   ![](/images/drama1.jpeg)   |   ![](/images/drama3.jpeg)   |     
-|   ![](/images/drama4.jpeg)   |   ![](/images/drama5.jpeg)   |      
-
+|   ![](/images/drama4.jpeg)   |   ![](/images/drama5.jpeg)   |
