@@ -48,7 +48,7 @@ third_nav_title: Organisational Chart
 |  P5-SF | SHANE THAM WENJIE | tham_wenjie@schools.gov.sg | VASAGI KUMARASEN | vasagi_kumarasen@schools.gov.sg |
 |  P5-UN | RATHANA RAVENDRA | rathana_ravendra@schools.gov.sg | SEAH WAN YAN MARY | seah_wan_yan_mary@schools.gov.sg | LEONG ZHENLING, PEARLY | leong_zhenling_pearly@schools.gov.sg | LEONG CHOI YEN AGNES | leong_choi_yen_agnes@schools.gov.sg |
 |  P6-CO | LUM HUNG LING | lum_hung_ling@schools.gov.sg | BALASUBRAMANIAN DEVI | balasubramanian_devi@schools.gov.sg |
-|  P6-EN | CARMEN DOMINIQUE TAN JIA WEN | carmen_dominique_tan@schools.gov.sg  | MUHAMMAD HASYIM BIN MOHAMAD ISA | hasyim_muhd_isa@schools.gov.sg |
+|  P6-EN | CARMEN DOMINIQUE TAN JIA WEN | carmen_dominique_tan@schools.gov.sg  | MUHAMMAD HASYIM BIN MOHAMAD ISA | Muhammad_hasyim_mohamad@schools.gov.sg |
 |  P6-EX | AMANDA HUANG XUANQI | amanda_huang_xuanqi@schools.gov.sg | LUA LI WEN | lua_li_wen@schools.gov.sg |
 |  P6-IN | LAL BHARWANI | lal_bharwani@schools.gov.sg | ZHUO CANGYUAN | zhuo_cangyuan@schools.gov.sg | ZENG QIUFENG ANGELINE | zeng_qiufeng_angeline@schools.gov.sg |
 |  P6-PE | SANGEETHA RAMACHANDRA | sangeetha_ramachandra@schools.gov.sg | POH ZHI QIN, LIONEL | poh_zhi_qin_lionel@schools.gov.sg  |
