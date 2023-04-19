@@ -2,11 +2,11 @@ collections:
   for-parents:
     output: true
     order:
-      - E Open/Frequently Asked Questions (FAQ).md
-      - E Open/Supportive Enrollment.md
-      - E Open/Engage Learners.md
-      - E Open/Confident Leaders.md
       - E Open/.keep
+      - E Open/Confident Leaders.md
+      - E Open/Engage Learners.md
+      - E Open/Supportive Enrollment.md
+      - E Open/Frequently Asked Questions (FAQ).md
       - Useful Links and Resources.md
       - After School Care.md
       - E Open House.md
