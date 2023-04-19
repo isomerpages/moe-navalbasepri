@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - E Open/Frequently Asked Questions (FAQ).md
       - E Open/Supportive Enrollment.md
       - E Open/Engage Learners.md
       - E Open/Confident Leaders.md
