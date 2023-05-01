@@ -5,20 +5,24 @@ description: ""
 ---
 ## E-Open House
 
-##### <u>Principle Address</u>
+#### <u>Principle Address</u>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/csCJ_jTyDT0" height="315" width="100%"></iframe>
 
 
-##### <u>Virtual School Tour</u>
+#### <u>Virtual School Tour</u>
 
-|  | | 
+
+
+|  |  | 
 | -------- | -------- | 
-| <img style="width:1500px;height:200px;" src="/images/E%20OPEN%20HOUSE/welcome%20to%20e%20open%20house.png">   |   <img style="width:3000px;height:200px;" src="/images/E%20OPEN%20HOUSE/virtual%20school%20tour%20banner.png">  | 
+|<img style="width:450px;height:200px;" src="/images/E%20OPEN%20HOUSE/welcome%20to%20e%20open%20house.png">   |   <img style="width:900px;height:200px;" src="/images/E%20OPEN%20HOUSE/virtual%20school%20tour%20banner.png">  Click [HERE](https://4d.silvrcraft.com/nbpsvst/) for Virtual School Tour | 
 
-Click [HERE](https://4d.silvrcraft.com/nbpsvst/) for Virtual School Tour
 
-##### <u>Engaged Learners</u>
+
+
+
+#### <u>Engaged Learners</u>
 
 ![](/images/E%20OPEN%20HOUSE/engaged%20learners.png)
 <table>
@@ -67,7 +71,7 @@ Click [HERE](https://4d.silvrcraft.com/nbpsvst/) for Virtual School Tour
          </tr>
       </tbody></table>
 			
-##### <u>Confident Leader</u>
+#### <u>Confident Leader</u>
 ![](/images/E%20OPEN%20HOUSE/confident_learners_updated-02.png)
 
 | |  |
@@ -77,7 +81,7 @@ Click [HERE](https://4d.silvrcraft.com/nbpsvst/) for Virtual School Tour
 | **VIA**     | Coming Soon     | 
 | **Student Leadership**     | Coming Soon     |
 
-##### <u>Supportive Environment</u>
+#### <u>Supportive Environment</u>
 ![](/images/E%20OPEN%20HOUSE/suppotive%20enviroment.png)
 
 |  |  |
@@ -87,10 +91,10 @@ Click [HERE](https://4d.silvrcraft.com/nbpsvst/) for Virtual School Tour
 | **After-School Care**     | Coming Soon     | 
 | **Inviting Learning Spaces**     | Coming Soon     |
 
-##### <u>Frequently Asked Question (FAQ)</u>
+#### <u>Frequently Asked Question (FAQ)</u>
 ![](/images/E%20OPEN%20HOUSE/frequently%20asked%20question.png)
 
-###### <u>Primary 1 Registration</u>
+##### <u>Primary 1 Registration</u>
 
 <b>1.  When and how can I register my child for Primary 1?</b>
     
@@ -104,7 +108,7 @@ Yes, students enrolled in NBPS MK will be eligible to register during Phase 2A(2
 
 All International students (IS) can only register for Primary 1 during Phase 3 of the P1 Registration Exercise. Please visit the [MOE Primary 1 Registration Website](https://www.moe.gov.sg/primary/p1-registration/international-students) for more details.
 
-###### <u>Special Needs and Learning Support</u>
+##### <u>Special Needs and Learning Support</u>
 
 <b>1.  How will the students with special needs be supported in NBPS?</b>
 
@@ -122,7 +126,7 @@ A survey form will be given to parents during Primary 1 registration. Parents ar
 
 For transition support to Primary 1, the SEN officers may meet up with parents to gather more information about the child’s needs. Arrangements can be made for the child to visit the school beforehand, or even for Rainbow Centre teachers to meet up with NBPS teachers if needed. It would be good for parents to provide the school with any feedback from the Rainbow Centre teachers as well as a copy of the psychological report and psychologist recommendation for his school placement.
 
-###### <u>General</u>
+##### <u>General</u>
 
 <b>1.  How do I enrol my child in NBPS’s Student Care?</b>
 
