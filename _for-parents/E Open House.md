@@ -29,39 +29,39 @@ description: ""
          </tr>
 	    <tr>
             <td><b>LLP</b></td>
-            <td>asdsadasda</td>
+            <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/LLP/">Click Here</a></td>
          </tr>
 	    <tr>
             <td><b>RUTS</b></td>
-            <td>asdsadasda</td>
+            <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/English/">Click Here</a></td>
          </tr>
 	    <tr>
             <td><b>MTL Fiesta</b></td>
-            <td>asdsadasda</td>
+            <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Mother-Tongue/">Click Here</a></td>
          </tr>
 	  <tr>
             <td><b>ABC &amp; NGT</b></td>
-            <td>asdsadasda</td>
+            <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/">Click Here</a></td>
          </tr>
 	  <tr>
             <td><b>Admiral’s Programme</b></td>
-            <td>asdsadasda</td>
+            <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Science/">Click Here</a></td>
          </tr>
 	  <tr>
             <td><b>Overseas Cultural Learning</b></td>
-            <td>asdsadasda</td>
+            <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Co-Curricular-Activities-CCA/Overseas-Cultural-Immersion-Programme/">Click Here</a></td>
          </tr>
 	  <tr>
             <td><b>Career Seminar</b></td>
-            <td>asdsadasda</td>
+            <td>Coming Soon</td>
          </tr>
 	  <tr>
             <td><b>Coming Soon</b></td>
-            <td>asdsadasda</td>
+            <td>Coming Soon</td>
          </tr>
 	  <tr>
             <td><b>Coming Soon</b></td>
-            <td>asdsadasda</td>
+            <td>Coming Soon</td>
          </tr>
       </tbody></table>
 			
