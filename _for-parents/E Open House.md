@@ -25,7 +25,7 @@ description: ""
          </tr>
          <tr>
             <td><b>ALP</b></td>
-            <td>asdsadasda</td>
+            <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/ALP/">Click Here</a></td>
          </tr>
 	    <tr>
             <td><b>LLP</b></td>
