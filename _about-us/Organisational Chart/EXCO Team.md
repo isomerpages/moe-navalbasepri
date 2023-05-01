@@ -28,7 +28,7 @@ third_nav_title: Organisational Chart
 | HOD Mother Tongue (MTL)                       | Mdm Ang Chiao Tyan <br>  ang_chiao_tyan@schools.gov.sg               |
 | HOD Character and Citizenship Education (CCE) | Mdm Siti Fauziah Bte Jasman <br> siti_fauziah_jasman@schools.gov.sg  |
 | HOD Educational Support                       | Mr Mohd Norzaidi Bin Ahmad <br> mohd_norzaidi_b_ahmad@schools.gov.sg |
-| HOD Physical Education (PE) / CCA             | Mohamed Nor B Mohamed Hussain <br> mohamed_nor_mohamed_hussain@schools.gov.sg        |
+| HOD Physical Education (PE) / CCA             | Mr Mohamed Nor B Mohamed Hussain <br> mohamed_nor_mohamed_hussain@schools.gov.sg        |
 | HOD Student Well-being (SWB)                  | Mrs Esther Ng <br> lee_siew_leng_a@schools.gov.sg                    |
 | HOD Special Educational Needs (SEN)           | Mr Thomas Low <br> thomas_low@schools.gov.sg                        |
 
@@ -50,7 +50,7 @@ third_nav_title: Organisational Chart
 | LH Mathematics (MA) | Mrs Serina Wee <br> phang_xue_fern_serina@schools.gov.sg           |
 | LH Science (SC)     | Mr Wong Wai Liong <br> wong_wai_liong@schools.gov.sg            |
 | LH Science (SC)     | Mr Jason Law  <br> jason_law@schools.gov.sg            | 
-| LH MT (CL)     | Ms Lua Liwen  <br> lua_liwen@schools.gov.sg            |
+| LH MT (CL)     | Ms Lua Liwen  <br> lua_li_wen@schools.gov.sg            |
 
 <br>
 

@@ -4,16 +4,13 @@ permalink: /the-navalite-programme/Co-Curricular-Activities-CCA/Choir/
 description: ""
 third_nav_title: CCA
 ---
-
-
-
 ## Choir
 
 ### ABOUT CHOIR
 
   
 
-Choir is a musical ensemble where students with a common interest in singing gather together. During CCA practices, students will be exposed to a wide repertoire of songs from different genres and languages. Students will learn proper singing techniques, Western musical notation and have opportunities to build up their confidence through their participation in various performances.    
+Choir is a musical ensemble where students with a common interest in singing gather together. During CCA practices, students will be exposed to a wide repertoire of songs from different genres and languages. Students will learn proper singing techniques, Western musical notation and have opportunities to build their confidence through their participation in various performances.    
 
   
 
@@ -25,7 +22,7 @@ Objectives:
     
 3.  To build confidence as students participate in various performances.   
     
-4.  To instil the school values of Self-discipline, Integrity, Respect, Compassion and   
+4.  To instil the school values of Self-discipline, Integrity, Respect, Compassion and Learning.
     
 5.  Learning through their experiences as an ensemble.
 
@@ -44,4 +41,3 @@ Objectives:
 ![](/images/choir4.jpeg)
 
 ![](/images/aesthetics_choir.jpeg)
-

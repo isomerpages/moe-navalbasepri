@@ -4,9 +4,6 @@ permalink: /the-navalite-programme/Co-Curricular-Activities-CCA/Infocomm-Club/
 description: ""
 third_nav_title: CCA
 ---
-
-
-
 ## Infocomm Club
 
 ### ABOUT INFOCOMM CLUB
@@ -29,7 +26,7 @@ Through the club activities, students can appreciate technologies better, and cr
 
 #### PARTICIPATION IN THE FOLLOWING EVENTS / COMPETITIONS:
 
-Students with potential for photography are trained and given opportunities to practise their photography skills during school events like Chinese New Year and National Day. They also learn to write coding programs using different coding platforms like Scratch and Microbit. Students are given opportunities to represent the school in competitions like The 3D-Tronics Micro:bit Asia Challenge and Photography Competition such as ‘My School, My Stories’.
+Students with potential for photography are trained and given opportunities to practise their photography skills during school events like Chinese New Year and National Day. They also learn to write coding programs using different coding platforms like Scratch and Micro:bit. Students are given opportunities to represent the school in competitions like The 3D-Tronics Micro:bit Asia Challenge and Photography Competition such as ‘My School, My Stories’.
 
 
 
@@ -43,20 +40,16 @@ Students with potential for photography are trained and given opportunities to p
 *   National Coding Challenge 2018 – Bronze award
 
 Training in school @ Computer Lab
-
-
 |  | | 
 | -------- | -------- | 
 |  ![](/images/Infocomm3.jpeg)    |  ![](/images/Infocomm4.jpeg)    | 
 
-Competitions and Exposure to Infocom Events
-
+Competitions and Exposure to Infocomm Events
 |  | | 
 | -------- | -------- | 
 |  ![](/images/Infocomm5.jpeg)    |   ![](/images/Inforcomm6.jpeg)   | 
 
 Outdoor Photography Training
-
 |  | | 
 | -------- | -------- | 
 |  ![](/images/Infocomm7.jpeg)    |   ![](/images/Infocomm8.jpeg)   |

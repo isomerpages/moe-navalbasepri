@@ -2,7 +2,7 @@ logo: /images/logo.png
 links:
   - title: About Us
     collection: about-us
-  - title: "The Navalite Programme "
+  - title: The Navalite Programme
     collection: the-navalite-programme
   - title: For Students
     collection: for-students
@@ -11,4 +11,4 @@ links:
   - title: Mk at NBPS
     collection: mk-at-nbps
   - title: Contact Us
-    url: /contactus/
+    url: /contact-us/

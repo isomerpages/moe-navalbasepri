@@ -7,8 +7,8 @@ third_nav_title: Organisational Chart
 ## 2023 Form Teachers
 
 
-| Class | Form Teacher | Email | Form Teacher | Email | Form Teacher | Email | Form Teacher | Email | 
-|:--------|:--------|:--------|:--------|:--------|:--------|:--------| :--------| :--------|
+| Class | Form Teacher | Email | Form Teacher | Email | 
+|:--------|:--------|:--------|:--------|:--------|
 | P1-CO | CHEN YANQI | chen_yanqi@schools.gov.sg | SERI MUSLIHAH BTE MD NOR | seri_muslihah_md_nor@schools.gov.sg| 
 |  P1-EN | RACHEL LIM CHENG HOON | rachel_lim_cheng_hoon@schools.gov.sg | KUMAR HARINI | kumar_harini@schools.gov.sg |
 |  P1-EX | SARAH YEW | sarah_yew_a@schools.gov.sg | CHEN WEI | chen_wei@schools.gov.sg |
