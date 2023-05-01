@@ -2,11 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - E Open House/.keep
-      - E Open House/Confident Leaders.md
-      - E Open House/Engaged Learners.md
-      - E Open House/Supportive Environment.md
-      - E Open House/Frequently Asked Questions (FAQ).md
       - Useful Links and Resources.md
       - After School Care.md
       - E Open House.md
