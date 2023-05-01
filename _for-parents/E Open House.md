@@ -7,10 +7,11 @@ description: ""
 
 ##### <u>Principle Address</u>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/csCJ_jTyDT0" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/csCJ_jTyDT0" height="315" width="100%"></iframe>
 
 
 ##### <u>Virtual School Tour</u>
+
 |  | | 
 | -------- | -------- | 
 | <img style="width:1500px;height:200px;" src="/images/E%20OPEN%20HOUSE/welcome%20to%20e%20open%20house.png">   |   <img style="width:3000px;height:200px;" src="/images/E%20OPEN%20HOUSE/virtual%20school%20tour%20banner.png">  | 
