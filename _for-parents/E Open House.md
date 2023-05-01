@@ -68,22 +68,22 @@ description: ""
 ##### <u>Confident Leader</u>
 ![](/images/E%20OPEN%20HOUSE/confident_learners_updated-02.png)
 
-| Column 1 | Column 2 |
+| |  |
 | -------- | -------- | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     |
+| **CCA**     | Coming Soon     | 
+| **PAL**     | Coming Soon     | 
+| **VIA**     | Coming Soon     | 
+| **Student Leadership**     | Coming Soon     |
 
 ##### <u>Supportive Environment</u>
 ![](/images/E%20OPEN%20HOUSE/suppotive%20enviroment.png)
 
-| Column 1 | Column 2 |
+|  |  |
 | -------- | -------- | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     |
+| **Caring Educators**     | Coming Soon     | 
+| **Supportive Partners**     | Coming Soon     | 
+| **After-School Care**     | Coming Soon     | 
+| **Inviting Learning Spaces**     | Coming Soon     |
 
 ##### <u>Frequently Asked Question (FAQ)</u>
 ![](/images/E%20OPEN%20HOUSE/frequently%20asked%20question.png)
@@ -141,3 +141,6 @@ Students are only required to join a CCA from Primary 3. No auditions or trials 
 <b>5.  How can I communicate with my child’s teachers?</b>
 
 Parents may email the teacher directly using the email addresses found on the school website. Alternatively, parents may also contact the school by calling 67537114 or by writing a note in your child’s Navalite Compass (Student handbook). Individual teachers may also use other modes of communication (for example, Google Classroom).
+
+##### <u>Contact Us</u>
+COMING SOON..
