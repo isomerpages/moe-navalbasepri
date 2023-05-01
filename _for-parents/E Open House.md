@@ -13,8 +13,9 @@ description: ""
 ##### <u>Virtual School Tour</u>
 |  | | 
 | -------- | -------- | 
-| <img style="width:1500px;height:200px;" src="/images/E%20OPEN%20HOUSE/welcome%20to%20e%20open%20house.png">   |   <img style="width:3000px;height:200px;" src="/images/E%20OPEN%20HOUSE/virtual%20school%20tour%20banner.png">   Click [HERE](https://4d.silvrcraft.com/nbpsvst/) for Virtual School Tour| 
+| <img style="width:1500px;height:200px;" src="/images/E%20OPEN%20HOUSE/welcome%20to%20e%20open%20house.png">   |   <img style="width:3000px;height:200px;" src="/images/E%20OPEN%20HOUSE/virtual%20school%20tour%20banner.png">  | 
 
+Click [HERE](https://4d.silvrcraft.com/nbpsvst/) for Virtual School Tour
 
 ##### <u>Engaged Learners</u>
 
