@@ -27,12 +27,13 @@ CCE has always been at the heart of education in Naval Base Primary School. The 
 
 #### NBPS STUDENT LEADERSHIP FRAMEWORK
 
-![](/images/Student%20Leadership%20Framework.jpeg)
-Student Leadership Committee has established a comprehensive system to develop and maximise the leadership potential of all Navalites. The Student Leadership Framework supports the vision of “Every Individual a Leader” and is anchored on SEL Competencies, School Values and 21st CC Skills to shape the beliefs, attitudes and the actions of a Navalite.
+![](/images/student%20leadership%20framework%202023.png)
+Guided by the principles of Servant Leadership, Navalites have opportunities to be nurtured into confident and future-ready leaders. The Student Leadership Framework supports the school vision of “Every Navalite a Leader” and is anchored on Socio-Emotional Learning (SEL) Competencies, school values and 21st Century competencies to shape the beliefs, attitudes and the actions of a Navalite.
+
+![](/images/student%20leadership%202023_1.png)
 
 #### PARENTS' INVOLVEMENT
 
-  
 
 Students are encouraged to perform everyday responsibilities in these areas:
 
@@ -46,5 +47,3 @@ Students are encouraged to perform everyday responsibilities in these areas:
 Parents can involve their children in some simple tasks to teach their children on how to take care of their shared spaces, so as to develop a sense of responsibility beyond the classroom. 
 
 Click on this [link](/files/everyday%20responsibilities.pdf) for some examples.
-
-
