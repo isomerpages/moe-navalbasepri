@@ -2,8 +2,6 @@ collections:
   the-navalite-programme:
     output: true
     order:
-      - Applied Learning Programme (ALP).md
-      - Learning for Life Programme (LLP).md
       - Subjects/.keep
       - Subjects/English.md
       - Subjects/Mother Tongue.md
@@ -14,9 +12,10 @@ collections:
       - Character Development/Character & Citizenship Education.md
       - Character Development/Programme for Active Learning (PAL).md
       - Character Development/Student Leadership.md
-      - InfoComm Technology.md
-      - CCA/Overview.md
+      - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md
       - CCA/.keep
+      - CCA/Overview.md
       - CCA/Boys' Brigade.md
       - CCA/Girls Brigade.md
       - CCA/Red Cross.md
@@ -32,4 +31,5 @@ collections:
       - CCA/Drama Club.md
       - CCA/Netball.md
       - CCA/Outdoor Appreciation Club.md
+      - InfoComm Technology.md
       - Overseas Cultural Immersion Programme.md
