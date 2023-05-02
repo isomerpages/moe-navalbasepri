@@ -10,4 +10,4 @@ In PAL, lower primary Navalites experience fun and varied activities related to 
 
 In PAL, emphasis is placed on experiential learning. The hands-on physical and aesthetics experiences allows students to explore, discover, think critically and express their ideas. All activities are designed to incorporate both individual and team work, at a level that is manageable for our Primary 1 and 2 pupils. Students will be able to reflect on their experiences as they have fun and enjoy themselves.
 
-
+![](/images/programme%20for%20active%20learning%20(pal).png)
