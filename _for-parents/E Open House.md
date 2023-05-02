@@ -31,23 +31,23 @@ description: ""
          </tr>
          <tr>
             <td><b>Applied Learning Programme (ALP)</b></td>
-            <td>Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/ALP/">here</a> to find out more about ALP in NBPS <br> <br> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/">here</a> to view the games created by Navalites during ALP</td>
+            <td>Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/ALP/">here</a> to find out more about ALP in NBPS. <br> <br> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/">here</a> to view the games created by Navalites during ALP.</td>
          </tr>
 	    <tr>
             <td><b>Learning for Life Programme (LLP)</b></td>
-            <td>Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/LLP/">here</a> to find out more about LLP in NBPS</td>
+            <td>Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/LLP/">here</a> to find out more about LLP in NBPS.</td>
          </tr>
 	    <tr>
             <td><b>Reading Under the Stars (RUTS)</b></td>
-            <td> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/English/">here</a> to find out more about RUTS</td>
+            <td> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/English/">here</a> to find out more about RUTS.</td>
          </tr>
 	    <tr>
             <td><b>Mother Tongue Language Fiesta</b></td>
-            <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Mother-Tongue/">Click Here</a></td>
+            <td> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Mother-Tongue/"> here</a> to find out more about MTL Fiesta.</td>
          </tr>
 	  <tr>
-			<td><b>Arts Beat Carnival &amp; <br> <b> Navalites Got Talent </b></b></td>
-            <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/">Click Here</a></td>
+			<td><b>Arts Beat Carnival (ABC) &amp; <br> <b> Navalites Got Talent (NGT)</b></b></td>
+            <td> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/">here</a> to find out more about ABC and NGT.</td>
          </tr>
 	  <tr>
             <td><b>Admiral’s Programme</b></td>
