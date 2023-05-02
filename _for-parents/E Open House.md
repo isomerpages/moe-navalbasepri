@@ -88,7 +88,7 @@ description: ""
 | -------- | -------- | 
 | **Caring Educators**     | Coming Soon     | 
 | **Supportive Partners**     | Robust collaboration between parents and teachers ensures that every Navalite is well supported in their holistic learning and development at NBPS. Some key outreach platforms to parents include the Parent-Teacher-Student Conference, Positive Parenting Programme seminars and subject-specific parent workshops (Eg. Parent Workshops for Mathematics). <br> <br> <br> Click [here](https://www.navalbasepri.moe.edu.sg/for-parents/Parent-Support-Group/) to find out more about NBPS' Parent Support Group. <br>     | 
-| **After-School Care**     | Coming Soon     | 
+| **After-School Care**     | [Click Here](https://www.navalbasepri.moe.edu.sg/for-parents/after-school-care/)     | 
 | **Inviting Learning Spaces**     | Coming Soon     |
 
 #### <u>Frequently Asked Question (FAQ)</u>
