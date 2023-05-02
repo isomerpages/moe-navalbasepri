@@ -51,7 +51,7 @@ description: ""
          </tr>
 	  <tr>
             <td><b>Admiral’s Programme</b></td>
-            <td> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Mathematics/">here </a> for Math Admiral's Programme <br> <br>  Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Science/">here </a> for Science Admiral's Programme <br> <br> 
+            <td> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Mathematics/">here </a> to find out more about Math Admiral's Programme. <br> <br>  Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Science/">here </a> to find out more about Science Admiral's Programme. <br> <br> 
 In the English Admiral's Programme, students explore Literature through reading and discussing storybook classics such as Charlie and the Chocolate Factory (Primary 3), Charlotte’s Web (Primary 4), and advance to appreciating and creating poems in Primary 5.</td>
          </tr>
 	  <tr>
