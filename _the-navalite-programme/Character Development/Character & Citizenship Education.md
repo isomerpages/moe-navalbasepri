@@ -43,7 +43,7 @@ These are the basic programmes for all NBPS students:
 
 Navalites are provided with opportunities to take part in other programmes to help groups in their community and live out the value of compassion. For example, in the event “NBPS Cares”, our Primary 5 and Primary 6 Navalites work with their classes to donate and collect food items for nearby needy families and senior citizens.
 
-
+![](/images/values%20in%20action%202023.png)
 
 **3)** **National Education (NE)**
 
