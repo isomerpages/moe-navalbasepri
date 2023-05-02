@@ -5,7 +5,7 @@ description: ""
 ---
 ## E-Open House
 
-#### <u>Principle Address</u>
+#### <u>Principal's Address</u>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/csCJ_jTyDT0" height="415" width="100%"></iframe>
 
