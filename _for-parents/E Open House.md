@@ -38,12 +38,12 @@ description: ""
             <td>Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/LLP/">here</a> to find out more about LLP in NBPS.</td>
          </tr>
 	    <tr>
-            <td><b>Reading Under the Stars (RUTS)</b></td>
-            <td> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/English/">here</a> to find out more about RUTS.</td>
+            <td><b>Reading Under the Stars (RUTS) and La' Fiesta</b></td>
+            <td> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/English/">here</a> to find out more about RUTS and La' Fiesta in NBPS.</td>
          </tr>
 	    <tr>
             <td><b>Mother Tongue Language Fiesta</b></td>
-            <td> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Mother-Tongue/"> here</a> to find out more about MTL Fiesta.</td>
+            <td> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Mother-Tongue/"> here</a> to find out more about MTL Fiesta in NBPS.</td>
          </tr>
 	  <tr>
 			<td><b>Arts Beat Carnival (ABC) &amp; <br> <b> Navalites Got Talent (NGT)</b></b></td>
