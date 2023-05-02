@@ -172,7 +172,7 @@ Students are only required to join a CCA from Primary 3. No auditions or trials 
 
 <b>5.  How can I communicate with my child’s teachers?</b>
 
-Parents may email the teacher directly using the email addresses found on the school website. Alternatively, parents may also contact the school by calling 67537114 or by writing a note in your child’s Navalite Compass (Student handbook). Individual teachers may also use other modes of communication (for example, Google Classroom).
+Parents may email the teacher directly using the email addresses found on the school website. Alternatively, parents may also contact the school by calling 67537114 or by writing a note in your child’s Navalite Compass (Student handbook). Individual teachers may also use other modes of communication (for example, Google Chat).
 
 ##### <u>Contact Us</u>
 COMING SOON..
