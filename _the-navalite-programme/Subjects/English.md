@@ -35,11 +35,13 @@ Primary 3 students learn about poetry and recite poems while Primary 4 students 
 
 ![](/images/English/English%201.png)
 
+
+
 #### READING UNDER THE STARS
 
 Reading Under the Stars is a fun night of books, bonding and a lot more at NBPS. In order to ignite the love for reading in P1 students, the night was lined up with an exciting programme for parents and children who came dressed in their pyjamas or a favourite storybook character.
 
-![](/images/English/English%202.png)'
+![](/images/English/English%202.png)
 
 #### LIBRARY RECESS ACTIVITIES
 
