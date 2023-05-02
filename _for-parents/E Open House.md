@@ -80,7 +80,7 @@ In the English Admiral's Programme, students explore Literature through reading 
 | -------- | -------- | 
 | **CCA**     | Click [here](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/cca/permalink/) to find out more about CCAs offered in NBPS.    | 
 | **PAL**     | Coming Soon     | 
-| **Values-in-Action (VIA)**     | VIA are learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA is an important component of Character and Citizenship Education, and aims to help students internalize values learnt through differentiated real life experiential activities at the Self, Family, School, Community and Nation levels. Navalites are provided with opportunities to take part in programmes to help groups in their community and live out the value of compassion. For example, in the event “NBPS Cares”, our Primary 5 and Primary 6 Navalites work with their classes to donate and collect food items for nearby needy families and senior citizens.     | 
+| **Values-in-Action (VIA)**     |  Click [here](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Character-Development/CCE/) to find out more about VIA opportunities offered in NBPS.  | 
 | **Student Leadership**     | Coming Soon     |
 
 #### <u>Supportive Environment</u>
