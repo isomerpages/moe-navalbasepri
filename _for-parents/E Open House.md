@@ -81,7 +81,7 @@ In the English Admiral's Programme, students explore Literature through reading 
 | **CCA**     | Click [here](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/cca/permalink/) to find out more about CCAs offered in NBPS.    | 
 | **PAL**     | Coming Soon     | 
 | **Values-in-Action (VIA)**     |  Click [here](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Character-Development/CCE/) to find out more about VIA opportunities offered in NBPS.  | 
-| **Student Leadership**     | Coming Soon     |
+| **Student Leadership**     | Click [here](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Character-Development/Student-Leadership/) to find out more about student leadership opportunities offered in NBPS.  |
 
 #### <u>Supportive Environment</u>
 ![](/images/E%20OPEN%20HOUSE/suppotive%20enviroment.png)
