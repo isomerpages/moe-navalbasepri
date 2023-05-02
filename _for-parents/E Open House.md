@@ -39,7 +39,7 @@ description: ""
          </tr>
 	    <tr>
             <td><b>Reading Under the Stars (RUTS)</b></td>
-            <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/English/">Click Here</a></td>
+            <td> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/English/">here</a> to find out more aabout RUTS</td>
          </tr>
 	    <tr>
             <td><b>Mother Tongue Language Fiesta</b></td>
