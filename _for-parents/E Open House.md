@@ -86,6 +86,11 @@ In the English Admiral's Programme, students explore Literature through reading 
 #### <u>Supportive Environment</u>
 ![](/images/E%20OPEN%20HOUSE/suppotive%20enviroment.png)
 
+**Caring Educators**
+<br> At NBPS, our staff are passionate in nurturing each Navalite’s love for learning. Innovative teaching strategies and continued Professional Development are championed by our Teacher Leader Council and they guide our dedicated team of teachers in reflecting and designing appropriate learning interventions to suit the needs of our Navalites. Every teacher plays the role of a caring and nurturing educator, and a structured framework allows teachers to build a strong rapport with each individual Navalite under their care. <br>
+
+
+
 |  |  |
 | -------- | -------- | 
 | **Caring Educators**     | Coming Soon     | 
