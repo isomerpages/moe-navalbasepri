@@ -31,11 +31,11 @@ description: ""
          </tr>
          <tr>
             <td><b>Applied Learning Programme (ALP)</b></td>
-            <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/ALP/">Click Here</a></td>
+            <td>Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/ALP/">here</a> to find out more about ALP in NBPS <br> <br> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/">here</a> to view the games created by Navalites during ALP</td>
          </tr>
 	    <tr>
             <td><b>Learning for Life Programme (LLP)</b></td>
-            <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/LLP/">Click Here</a></td>
+            <td>Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/LLP/">here</a> to find out more about LLP in NBPS</td>
          </tr>
 	    <tr>
             <td><b>Reading Under the Stars (RUTS)</b></td>
