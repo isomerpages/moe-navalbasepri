@@ -78,7 +78,7 @@ In the English Admiral's Programme, students explore Literature through reading 
 
 | |  |
 | -------- | -------- | 
-| **CCA**     | [Click Here](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/cca/permalink/)     | 
+| **CCA**     | Click [here](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/cca/permalink/) to find out more about CCAs offered in NBPS.    | 
 | **PAL**     | Coming Soon     | 
 | **VIA**     | Coming Soon     | 
 | **Student Leadership**     | Coming Soon     |
