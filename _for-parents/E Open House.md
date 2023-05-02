@@ -93,6 +93,20 @@ In the English Admiral's Programme, students explore Literature through reading 
 
 ![](/images/E%20OPEN%20HOUSE/every%20teacher%20a%20caring%20educator%202.png)
 
+**Supportive Partners**
+<br><u>Every Parent a Supportive Partner</u><br> Robust collaboration between parents and teachers ensures that every Navalite is well supported in their holistic learning and development at NBPS. Some key outreach platforms to parents include the Parent-Teacher-Student Conference, Positive Parenting Programme seminars and subject-specific parent workshops (E.g. Parent Workshops for Mathematics and Science).
+
+<u>Parent Support Group</u>
+<br> Click [here](https://www.navalbasepri.moe.edu.sg/for-parents/Parent-Support-Group/) to find out more about NBPS' Parent Support Group.
+
+**After School Care**
+<br> Click [here ](https://www.navalbasepri.moe.edu.sg/for-parents/after-school-care/) to find out more about the student care centre in NBPS. <br>
+
+**Inviting Learning Spaces**
+<br> A positive environment is instrumental in enriching Navalites’ learning and physical well-being. Having undergone the PERI Upgrading Project since 2018, Navalites now enjoy new and upgraded facilities where they can create, explore and most importantly, embark on the joy of learning. These include the Make-a-Splash room, Knowledge Hub, school garden, Indoor Sports Hall, Dance studio and Band Room. <br>
+<br>For a virtual tour of the key facilities in school, please click here to explore the virtual tour of NBPS. <br>
+
+
 |  |  |
 | -------- | -------- | 
 | **Caring Educators**     | Coming Soon     | 
