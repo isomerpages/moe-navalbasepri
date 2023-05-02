@@ -30,23 +30,23 @@ description: ""
             <td colspan="2"><center style="margin-bottom: 5px;"><b>School Signature Programmes​</b></center></td>
          </tr>
          <tr>
-            <td><b>ALP</b></td>
+            <td><b>Applied Learning Programme (ALP)</b></td>
             <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/ALP/">Click Here</a></td>
          </tr>
 	    <tr>
-            <td><b>LLP</b></td>
+            <td><b>Learning for Life Programme (LLP)</b></td>
             <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/LLP/">Click Here</a></td>
          </tr>
 	    <tr>
-            <td><b>RUTS</b></td>
+            <td><b>Reading Under the Stars (RUTS)</b></td>
             <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/English/">Click Here</a></td>
          </tr>
 	    <tr>
-            <td><b>MTL Fiesta</b></td>
+            <td><b>Mother Tongue Language Fiesta</b></td>
             <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Mother-Tongue/">Click Here</a></td>
          </tr>
 	  <tr>
-            <td><b>ABC &amp; NGT</b></td>
+			<td><b>Arts Beat Carnival &amp; <br> <b> Navalites Got Talent </b></b></td>
             <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/">Click Here</a></td>
          </tr>
 	  <tr>
@@ -71,12 +71,12 @@ description: ""
          </tr>
       </tbody></table>
 			
-#### <u>Confident Leader</u>
+#### <u>Confident Leaders</u>
 ![](/images/E%20OPEN%20HOUSE/confident_learners_updated-02.png)
 
 | |  |
 | -------- | -------- | 
-| **CCA**     | Coming Soon     | 
+| **CCA**     | [Click Here](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/cca/permalink/)     | 
 | **PAL**     | Coming Soon     | 
 | **VIA**     | Coming Soon     | 
 | **Student Leadership**     | Coming Soon     |
