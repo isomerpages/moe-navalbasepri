@@ -6,27 +6,27 @@ third_nav_title: Subjects
 ---
 ### OUR APPROACH
 
-We aim to create an enjoyable learning experience for all Navalites as they sail through the journey of mastering their Mother Tongue Languages. This is achieved by inculcating an abiding interest in  Mother Tongue Language, so that students  will continue to use it as a living language after they complete their primary education.  
+We aim to create an enjoyable learning experience for all Navalites as they sail through the journey of mastering their Mother Tongue Languages. This is achieved by inculcating an abiding interest in&nbsp; Mother Tongue Language, so that students&nbsp; will continue to use it as a living language after they complete their primary education.  
 
 ### KEY PROGRAMMES
 
-**<U>Extensive Reading Programme</U>**
+**<u>Extensive Reading Programme</u>**
 
-To cultivate the love for reading among students, we have the Extensive Reading Programme (ERP) which encompasses the following activities: 
+To cultivate the love for reading among students, we have the Extensive Reading Programme (ERP) which encompasses the following activities:&nbsp;
 
   
 
-**<U>i) Class Reading Sessions</U>**
+**<u>i) Class Reading Sessions</u>**
 
-Students read as a class and complete hands-on  post-reading activities regularly.
+Students read as a class and complete hands-on&nbsp; post-reading activities regularly.
 
-**<U>ii) Buddy Reading Sessions</U>**
+**<u>ii) Buddy Reading Sessions</u>**
 
 On Wednesday and Friday mornings, selected students participate in the buddy reading session. These sessions help students to cultivate the reading habit, as well as build up their reading skills and confidence.
 
   
 
-**<U>Mother Tongue Showcase Website</U>**
+**<u>Mother Tongue Showcase Website</u>**
 
 The [Mother Tongue (MT) Showcase Website](https://go.gov.sg/nbps-mt) showcases compositions, book reviews and MT- related performances by our Navalites. Apart from encouraging our Navalites to read widely and fostering a reading culture in the school, the website also serves as a bank of literary inspirations for our Navalites.  
 
@@ -40,9 +40,9 @@ The [Mother Tongue (MT) Showcase Website](https://go.gov.sg/nbps-mt) showcases c
 |    |    |  |     |     |    |
 
 
-**<U>Mother Tongue Language (MTL) Fiesta</U>**
+**<u>Mother Tongue Language (MTL) Fiesta</u>**
 
-Navalites immerse in two fun-filled weeks of school with an array of cultural activities  planned by our MTL teachers during (MTL) Fiesta!
+Navalites immerse in two fun-filled weeks of school with an array of cultural activities&nbsp; planned by our MTL teachers during (MTL) Fiesta!
 
 
 
@@ -50,9 +50,11 @@ Navalites immerse in two fun-filled weeks of school with an array of cultural ac
 | -------- | -------- | -------- |
 | ![](/images/Mother%20Tongue/Mother%20Tongue%204.png)     |![](/images/Mother%20Tongue/Mother%20Tongue%205.png)    |    ![](/images/Mother%20Tongue/Mother%20Tongue%206.png)   |
 
-Primary 4 Navalites also experience the **P4 Mother Tongue Cultural Camp** during these two weeks. In this day camp, Navalites take part in the Amazing Race in multi-racial groups to complete various cultural and language tasks as a team. P4 Navalites also attend a two-hour workshop to develop their appreciation for  their  Mother Tongue language and culture.
+Primary 4 Navalites also experience the **P4 Mother Tongue Cultural Camp** during these two weeks. In this day camp, Navalites take part in the Amazing Race in multi-racial groups to complete various cultural and language tasks as a team. P4 Navalites also attend a two-hour workshop to develop their appreciation for&nbsp; their&nbsp; Mother Tongue language and culture.
 
-**<U>Festival Celebrations (Chinese New Year, Hari Raya Aidilfitri, Deepavali)</U>**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Fb-jIhCexm0" height="315" width="560"></iframe>
+
+**<u>Festival Celebrations (Chinese New Year, Hari Raya Aidilfitri, Deepavali)</u>**
 
 Festival celebrations provide a platform for Navalites to gain a better understanding of the Chinese, Malay and Indian community in Singapore. Through pre-celebration and celebration activities, we hope to strengthen racial harmony while inculcating character and citizenship among students of all races.
 
