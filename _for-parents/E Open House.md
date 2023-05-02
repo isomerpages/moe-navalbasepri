@@ -60,7 +60,8 @@ In the English Admiral's Programme, students explore Literature through reading 
          </tr>
 	  <tr>
             <td><b>Career Seminar</b></td>
-            <td>Coming Soon</td>
+            <td> The Educational Career Guidance (ECG) Programme is a 6-year programme through which students learn about various occupations. Through the programme, students learn to recognise and appreciate different jobs as well as consider what are their own strengths that would lend themselves to each job.&nbsp;
+<br>At NBPS, the ECG Programme culminates in a Career Seminar in Primary 6 where guest speakers share industry experiences, enabling our Navalites to better make informed choices on further education and career paths.<br></td>
          </tr>
 	  <tr>
             <td><b>Coming Soon</b></td>
