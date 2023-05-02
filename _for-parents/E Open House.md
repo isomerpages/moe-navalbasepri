@@ -56,7 +56,7 @@ In the English Admiral's Programme, students explore Literature through reading 
          </tr>
 	  <tr>
             <td><b>Overseas Cultural Learning</b></td>
-            <td><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Co-Curricular-Activities-CCA/Overseas-Cultural-Immersion-Programme/">Click Here</a></td>
+            <td> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Co-Curricular-Activities-CCA/Overseas-Cultural-Immersion-Programme/">here</a> to find out more about overseas cultural learning opportunities in NBPS.</td>
          </tr>
 	  <tr>
             <td><b>Career Seminar</b></td>
