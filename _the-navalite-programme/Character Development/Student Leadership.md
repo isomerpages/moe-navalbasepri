@@ -6,9 +6,9 @@ third_nav_title: Character Development
 ---
 ## Student Leadership
 
-#### CHARACTER
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nEtJxs0yvz4" height="315" width="560"></iframe>
 
-  
+#### CHARACTER
 
 ##### OUR PHILOSOPHY
 
@@ -44,6 +44,6 @@ Students are encouraged to perform everyday responsibilities in these areas:
 \- In the Community
 
  
-Parents can involve their children in some simple tasks to teach their children on how to take care of their shared spaces, so as to develop a sense of responsibility beyond the classroom. 
+Parents can involve their children in some simple tasks to teach their children on how to take care of their shared spaces, so as to develop a sense of responsibility beyond the classroom.&nbsp;
 
-Click on this [link](/files/everyday%20responsibilities.pdf) for some examples.
+Click on this&nbsp;[link](/files/everyday%20responsibilities.pdf) for some examples.
