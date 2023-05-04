@@ -64,13 +64,9 @@ In the English Admiral's Programme, students explore Literature through reading 
 <br>At NBPS, the ECG Programme culminates in a Career Seminar in Primary 6 where guest speakers share industry experiences, enabling our Navalites to better make informed choices on further education and career paths.<br></td>
          </tr>
 	  <tr>
-            <td><b>Coming Soon</b></td>
-            <td>Coming Soon</td>
-         </tr>
-	  <tr>
-            <td><b>Coming Soon</b></td>
-            <td>Coming Soon</td>
-         </tr>
+            <td>
+         </td><td>
+         </td></tr>
       </tbody></table>
 			
 #### <u>Confident Leaders</u>
@@ -110,12 +106,6 @@ In the English Admiral's Programme, students explore Literature through reading 
 
 ![](/images/E%20OPEN%20HOUSE/inviting%20learning%20spaces.png)
 
-|  |  |
-| -------- | -------- | 
-| **Caring Educators**     | Coming Soon     | 
-| **Supportive Partners**     | Coming Soon    | 
-| **After-School Care**     | Coming Soon   | 
-| **Inviting Learning Spaces**     | Coming Soon     |
 
 #### <u>Frequently Asked Question (FAQ)</u>
 ![](/images/E%20OPEN%20HOUSE/frequently%20asked%20question.png)
