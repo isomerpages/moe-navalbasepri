@@ -62,7 +62,7 @@ Breakout <span style="color:red">EDU</span> kits are used to provide students wi
 |      |      | 
 
 
-**<u>Admirals Programme</u>**
+**<u>Admiral's Programme</u>**
 
 **(i) Excellence 2000 Mathematics (E2K Mathematics)**
 
@@ -81,7 +81,7 @@ The E2K Mathematics program is offered to P4 and P5 students who show interest a
 
 **(ii) Math Olympiad**
 
-Math Olympiad workshops are offered to P5 and P6 students who have demonstrated high competence and interest in Mathematics. Students explore advanced mathematical concepts and non-routine questions beyond the syllabus.  Through these workshops, students are better prepared for participation in national math competitions and learn higher-order thinking skills and strategies which allow them to excel academically.
+Math Olympiad workshops are offered to P5 and P6 students who have demonstrated high competence and interest in Mathematics. Students explore advanced mathematical concepts and non-routine questions beyond the syllabus.&nbsp; Through these workshops, students are better prepared for participation in national math competitions and learn higher-order thinking skills and strategies which allow them to excel academically.
 
 
 

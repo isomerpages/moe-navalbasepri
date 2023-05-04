@@ -41,6 +41,10 @@ These are the level programmes in NBPS:
 These are the basic programmes for all NBPS students:
 ![](/images/CCE/CCE%2020x.png)
 
+Navalites are provided with opportunities to take part in other programmes to help groups in their community and live out the value of compassion. For example, in the event “NBPS Cares”, our Primary 5 and Primary 6 Navalites work with their classes to donate and collect food items for nearby needy families and senior citizens.
+
+![](/images/values%20in%20action%202023.png)
+
 **3)** **National Education (NE)**
 
 ##### OUR VISION
@@ -58,7 +62,7 @@ To instil in every child the pride of being a Singaporean
 * Adapt to the present
 * Anticipate the future
 
-##### (A)NE Commemorative events <BR>TOTAL DEFENCE DAY 
+##### (A)NE Commemorative events <br>TOTAL DEFENCE DAY&nbsp;
 
 TOGETHER, WE KEEP SINGAPORE STRONG - that is the key message we hope our Navalites will take away from this year's Total Defence Day commemoration.
 
@@ -73,7 +77,7 @@ Throughout the week, the students were exposed to the various ways in which they
 
 ##### INTERNATIONAL FRIENDSHIP DAY
 
-   
+&nbsp;  
 With an array of in-class activities during Assembly, CCE, English and Social Studies lessons, NBPS strives to ensure that by commemorating International Friendship Day, we can achieve our goals of:
 
 * Being acquainted with the diverse and colourful culture and traditions of the region and the lives of the other ASEAN countries.
@@ -95,7 +99,7 @@ IFD also provided students the opportunity to explore Singapore’s connection t
 After a whole year of hiatus, our school CCA dancers showcased their energy and talent through their dance moves. The song that they danced to has helped many to feel positive. They have lighted it up like Dynamite!
 
 
-##### RACIAL HARMONY DAY 
+##### RACIAL HARMONY DAY&nbsp;
 
 Singapore: Our Multicultural Mosaic
 
@@ -121,7 +125,7 @@ All P1 - P6s gathered at the parade square this morning to experience the Nation
 
 ##### (A) COHORT LEARNING JOURNEYS
 
-As part of CCE 2021, the school plans cohort learning journeys to support the development of citizenship dispositions and national identity for Navalites.
+As part of CCE 2021, the school plans&nbsp;cohort&nbsp;learning&nbsp;journeys&nbsp;to support the development of citizenship dispositions and national identity for Navalites.
 
 The learning journeys are as follows:
 ![](/images/CCE/CCE%2021x.png)

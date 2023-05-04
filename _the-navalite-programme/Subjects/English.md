@@ -27,19 +27,21 @@ KidsREAD is conducted once a week to immerse Primary 1 and 2 students, who exper
 
 #### LA FIESTA
 
-A fun-filled week of games, story-telling, poem creation, songwriting and more, La Fiesta ignites the love in the learning of English in our Navalites. 
+A fun-filled week of games, story-telling, poem creation, songwriting and more, La Fiesta ignites the love in the learning of English in our Navalites.&nbsp;
 
-Our Primary 1 students engage in Show and Tell on their favourite storybook character while those in Primary 2 share the fairy tale which they enjoy the most through storytelling. Our teachers add a special touch by dressing up as famous book characters in a Character Walk during the Primary 1 and 2 recesses! 
+Our Primary 1 students engage in Show and Tell on their favourite storybook character while those in Primary 2 share the fairy tale which they enjoy the most through storytelling. Our teachers add a special touch by dressing up as famous book characters in a Character Walk during the Primary 1 and 2 recesses!&nbsp;
 
 Primary 3 students learn about poetry and recite poems while Primary 4 students try their hands at movie poster creation. Last but not the least, our Primary 5 and 6 Navalites unleash their creativity through poem and song-writing respectively.
 
 ![](/images/English/English%201.png)
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/akFj-VIhHOI" height="315" width="560"></iframe>
+
 #### READING UNDER THE STARS
 
 Reading Under the Stars is a fun night of books, bonding and a lot more at NBPS. In order to ignite the love for reading in P1 students, the night was lined up with an exciting programme for parents and children who came dressed in their pyjamas or a favourite storybook character.
 
-![](/images/English/English%202.png)'
+![](/images/English/English%202.png)
 
 #### LIBRARY RECESS ACTIVITIES
 
