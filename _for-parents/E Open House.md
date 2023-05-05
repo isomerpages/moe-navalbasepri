@@ -194,8 +194,4 @@ Parents may email the teacher directly using the email addresses found on the sc
 
 | ![](/images/E%20OPEN%20HOUSE/via_2023.png) | ![](/images/E%20OPEN%20HOUSE/student%20leadership_2023.png) | 
 | -------- | -------- | 
-| Text     | Text     | 
-
-
-
-
+| Text     | Text     |
