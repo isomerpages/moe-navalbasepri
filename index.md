@@ -9,7 +9,7 @@ notification: Dear visitors, we are currently in the midst of updating the
   understanding and apologise for the inconvenience caused.
 sections:
   - hero:
-      background: /images/Homepage/nbps e-banner_generic.png
+      background: /images/E OPEN HOUSE/nbps-eopen house-banner 2023.png
       key_highlights:
         - title: About Us
           description: ""
