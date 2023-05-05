@@ -4,29 +4,23 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: Agency Name
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 7 Yishun Ave 4
+      - Naval Base Primary School
+      - Singapore 769028
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
       - days: Sat
         time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        description: ""
+    maps_link: https://www.google.com/maps/place/Naval+Base+Primary+School/@1.4160913,103.8367281,17z/data=!3m1!4b1!4m6!3m5!1s0x31da1413f86cca47:0x901b532e5573151b!8m2!3d1.4160913!4d103.8389168!16s%2Fg%2F1tt1q66v
+    title: Main Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6753 7114
+      - email: nbps@moe.edu.sg
+      - other: ""
+    title: General Enquiries & Feedback
 ---
