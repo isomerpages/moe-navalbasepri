@@ -52,3 +52,5 @@ Aligned to our department philosophy, to empower every student to be effective c
 #### ADMIRAL'S PROGRAMME
 
 In the English Admiral's Programme, students explore Literature through reading and discussing storybook classics such as Charlie and the Chocolate Factory (Primary 3), Charlotte’s Web (Primary 4), and advance to appreciating and creating poems in Primary 5.
+
+![](/images/english%20admiral's%20programme_2022.jpeg)
