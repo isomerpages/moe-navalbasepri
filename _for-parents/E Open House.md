@@ -7,7 +7,7 @@ description: ""
 
 #### <u>Principal's Address</u>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/csCJ_jTyDT0" height="415" width="100%"></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/csCJ_jTyDT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 
 #### <u>Virtual School Tour</u>
@@ -16,7 +16,7 @@ description: ""
 
 |  |  | 
 | -------- | -------- | 
-|<img style="width:450px;height:200px;" src="/images/E%20OPEN%20HOUSE/welcome%20to%20e%20open%20house.png">   |   <img style="width:900px;height:200px;" src="/images/E%20OPEN%20HOUSE/virtual%20school%20tour%20banner.png">   | 
+|<img src="/images/E%20OPEN%20HOUSE/welcome%20to%20e%20open%20house.png" style="width:450px;height:200px;">   |   <img src="/images/E%20OPEN%20HOUSE/virtual%20school%20tour%20banner.png" style="width:900px;height:200px;">   | 
 
 ##### Click [here](https://4d.silvrcraft.com/nbpsvst/) for Virtual School Tour
 
@@ -163,3 +163,39 @@ Students are only required to join a CCA from Primary 3. No auditions or trials 
 <b>5.  How can I communicate with my child’s teachers?</b>
 
 Parents may email the teacher directly using the email addresses found on the school website. Alternatively, parents may also contact the school by calling 67537114 or by writing a note in your child’s Navalite Compass (Student handbook). Individual teachers may also use other modes of communication (for example, Google Chat).
+
+
+
+| ![](/images/E%20OPEN%20HOUSE/alp_2023.png) | ![](/images/E%20OPEN%20HOUSE/llp_2023.png) | 
+| -------- | -------- | 
+|  <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/ALP/">Applied Learning Programme</a><br> <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/">Navalites' ALP Games</a> | <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/LLP/">Learning for Life Programme</a>    | 
+
+
+
+| ![](/images/E%20OPEN%20HOUSE/ruts_2023.png) | ![](/images/E%20OPEN%20HOUSE/mtl%20fiesta_2023.png) | 
+| -------- | -------- | 
+| <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/English/">Reading Under The Stars &amp; La' Fiesta</a>     | <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Mother-Tongue/"> MTL Fiesta</a>   | 
+
+| ![](/images/E%20OPEN%20HOUSE/abc_2023.png) | ![](/images/E%20OPEN%20HOUSE/ocl_2023.png) | 
+| -------- | -------- | 
+| <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/">Arts Beat Carnival &amp; Navalites Got Talent</a>      | <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Co-Curricular-Activities-CCA/Overseas-Cultural-Immersion-Programme/">Overseas Cultural Learning</a>    | 
+
+| ![](/images/E%20OPEN%20HOUSE/education%20and%20career%20guidance_2023.png)| ![](/images/E%20OPEN%20HOUSE/admiral's%20programme_2023.png) | 
+| -------- | -------- | 
+| <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Character-Development/CCE/">Education and Career Guidence </a>     | <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/English/">English Admiral's Programme </a><br><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Mathematics/">Math Admiral's Programme </a> <br> <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Science/">Science Admiral's Programme </a>    | 
+
+	
+
+
+| ![](/images/E%20OPEN%20HOUSE/cca_2023.png) | ![](/images/E%20OPEN%20HOUSE/pal_2023.png) | 
+| -------- | -------- | 
+| Text     | Text     | 
+
+
+| ![](/images/E%20OPEN%20HOUSE/via_2023.png) | ![](/images/E%20OPEN%20HOUSE/student%20leadership_2023.png) | 
+| -------- | -------- | 
+| Text     | Text     | 
+
+
+
+
