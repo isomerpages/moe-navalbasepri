@@ -19,6 +19,6 @@ contacts:
   - content:
       - phone: +65 6753 7114
       - email: nbps@moe.edu.sg
-      - other: ""
+      - other: "Fax: 67555355 "
     title: General Enquiries & Feedback
 ---
