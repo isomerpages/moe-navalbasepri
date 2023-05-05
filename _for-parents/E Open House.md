@@ -172,7 +172,7 @@ Parents may email the teacher directly using the email addresses found on the sc
 
 
 
-| ![](/images/E%20OPEN%20HOUSE/ruts_2023.png) | ![](/images/E%20OPEN%20HOUSE/mtl%20fiesta_2023.png) | 
+| <img style="width:1209px;height:340px;" src="/images/E%20OPEN%20HOUSE/ruts_2023.png"> |<img style="width:1250px;height:340px;" src="/images/E%20OPEN%20HOUSE/mtl%20fiesta_2023.png"> | 
 | -------- | -------- | 
 | <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/English/">Reading Under The Stars &amp; La' Fiesta</a>     | <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Mother-Tongue/"> MTL Fiesta</a>   | 
 
@@ -180,18 +180,18 @@ Parents may email the teacher directly using the email addresses found on the sc
 | -------- | -------- | 
 | <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/">Arts Beat Carnival &amp; Navalites Got Talent</a>      | <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Co-Curricular-Activities-CCA/Overseas-Cultural-Immersion-Programme/">Overseas Cultural Learning</a>    | 
 
-| ![](/images/E%20OPEN%20HOUSE/education%20and%20career%20guidance_2023.png)| ![](/images/E%20OPEN%20HOUSE/admiral's%20programme_2023.png) | 
+| <img style="width:1209px;height:340px;" src="/images/E%20OPEN%20HOUSE/education%20and%20career%20guidance_2023.png">| <img style="width:1205px;height:340px;" src="/images/E%20OPEN%20HOUSE/admiral's%20programme_2023.png"> | 
 | -------- | -------- | 
 | <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Character-Development/CCE/">Education and Career Guidence </a>     | <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/English/">English Admiral's Programme </a><br><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Mathematics/">Math Admiral's Programme </a> <br> <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Science/">Science Admiral's Programme </a>    | 
 
 	
 
 
-| ![](/images/E%20OPEN%20HOUSE/cca_2023.png) | ![](/images/E%20OPEN%20HOUSE/pal_2023.png) | 
+|  <img style="width:1209px;height:340px;" src="/images/E%20OPEN%20HOUSE/cca_2023.png"> | <img style="width:1209px;height:340px;" src="/images/E%20OPEN%20HOUSE/pal_2023.png"> | 
 | -------- | -------- | 
 | [Co-Curricular Activities](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/cca/permalink/)       | [Programme for Active Learning](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/character-development/permalink/)   | 
 
 
-| ![](/images/E%20OPEN%20HOUSE/via_2023.png) | ![](/images/E%20OPEN%20HOUSE/student%20leadership_2023.png) | 
+| <img style="width:1209px;height:340px;" src="/images/E%20OPEN%20HOUSE/via_2023.png"> | <img style="width:1180px;height:340px;" src="/images/E%20OPEN%20HOUSE/student%20leadership_2023.png"> | 
 | -------- | -------- | 
 |   [Values-In-Action](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Character-Development/CCE/)      |  [Student Leadership](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Character-Development/Student-Leadership/)       |
