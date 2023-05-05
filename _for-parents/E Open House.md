@@ -7,7 +7,7 @@ description: ""
 
 #### <u>Principal's Address</u>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/csCJ_jTyDT0" height="415" width="100%"></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/csCJ_jTyDT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 
 #### <u>Virtual School Tour</u>
@@ -16,7 +16,7 @@ description: ""
 
 |  |  | 
 | -------- | -------- | 
-|<img style="width:450px;height:200px;" src="/images/E%20OPEN%20HOUSE/welcome%20to%20e%20open%20house.png">   |   <img style="width:900px;height:200px;" src="/images/E%20OPEN%20HOUSE/virtual%20school%20tour%20banner.png">   | 
+|<img src="/images/E%20OPEN%20HOUSE/welcome%20to%20e%20open%20house.png" style="width:450px;height:200px;">   |   <img src="/images/E%20OPEN%20HOUSE/virtual%20school%20tour%20banner.png" style="width:900px;height:200px;">   | 
 
 ##### Click [here](https://4d.silvrcraft.com/nbpsvst/) for Virtual School Tour
 
@@ -25,63 +25,40 @@ description: ""
 #### <u>Engaged Learners</u>
 
 ![](/images/E%20OPEN%20HOUSE/engaged%20learners.png)
-<table>
-         <tbody><tr>
-            <td colspan="2"><center style="margin-bottom: 5px;"><b>School Signature Programmes​</b></center></td>
-         </tr>
-         <tr>
-            <td><b>Applied Learning Programme (ALP)</b></td>
-            <td>Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/ALP/">here</a> to find out more about ALP in NBPS. <br> <br> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/">here</a> to view the games created by Navalites during ALP.</td>
-         </tr>
-	    <tr>
-            <td><b>Learning for Life Programme (LLP)</b></td>
-            <td>Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/LLP/">here</a> to find out more about LLP in NBPS.</td>
-         </tr>
-	    <tr>
-            <td><b>Reading Under the Stars (RUTS) and La' Fiesta</b></td>
-            <td> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/English/">here</a> to find out more about RUTS and La' Fiesta in NBPS.</td>
-         </tr>
-	    <tr>
-            <td><b>Mother Tongue Language Fiesta</b></td>
-            <td> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Mother-Tongue/"> here</a> to find out more about MTL Fiesta in NBPS.</td>
-         </tr>
-	  <tr>
-			<td><b>Arts Beat Carnival (ABC) &amp; <br> <b> Navalites Got Talent (NGT)</b></b></td>
-            <td> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/">here</a> to find out more about ABC and NGT.</td>
-         </tr>
-	  <tr>
-            <td><b>Admiral’s Programme</b></td>
-            <td> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Mathematics/">here </a> to find out more about Math Admiral's Programme. <br> <br>  Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Science/">here </a> to find out more about Science Admiral's Programme. <br> <br> 
-In the English Admiral's Programme, students explore Literature through reading and discussing storybook classics such as Charlie and the Chocolate Factory (Primary 3), Charlotte’s Web (Primary 4), and advance to appreciating and creating poems in Primary 5.</td>
-         </tr>
-	  <tr>
-            <td><b>Overseas Cultural Learning</b></td>
-            <td> Click <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Co-Curricular-Activities-CCA/Overseas-Cultural-Immersion-Programme/">here</a> to find out more about overseas cultural learning opportunities in NBPS.</td>
-         </tr>
-	  <tr>
-            <td><b>Career Seminar</b></td>
-            <td> The Educational Career Guidance (ECG) Programme is a 6-year programme through which students learn about various occupations. Through the programme, students learn to recognise and appreciate different jobs as well as consider what are their own strengths that would lend themselves to each job.&nbsp;
-<br>At NBPS, the ECG Programme culminates in a Career Seminar in Primary 6 where guest speakers share industry experiences, enabling our Navalites to better make informed choices on further education and career paths.<br></td>
-         </tr>
-	  <tr>
-            <td><b>Coming Soon</b></td>
-            <td>Coming Soon</td>
-         </tr>
-	  <tr>
-            <td><b>Coming Soon</b></td>
-            <td>Coming Soon</td>
-         </tr>
-      </tbody></table>
+
+
+| ![](/images/E%20OPEN%20HOUSE/alp_2023.png) | ![](/images/E%20OPEN%20HOUSE/llp_2023.png) | 
+| -------- | -------- | 
+|  <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/ALP/">Applied Learning Programme</a><br> <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/">Navalites' ALP Games</a> | <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/LLP/">Learning for Life Programme</a>    | 
+
+
+
+| <img style="width:1209px;height:340px;" src="/images/E%20OPEN%20HOUSE/ruts_2023.png"> |<img style="width:1250px;height:340px;" src="/images/E%20OPEN%20HOUSE/mtl%20fiesta_2023.png"> | 
+| -------- | -------- | 
+| <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/English/">Reading Under The Stars &amp; La' Fiesta</a>     | <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Mother-Tongue/"> MTL Fiesta</a>   | 
+
+| ![](/images/E%20OPEN%20HOUSE/abc_2023.png) | ![](/images/E%20OPEN%20HOUSE/ocl_2023.png) | 
+| -------- | -------- | 
+| <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/">Arts Beat Carnival &amp; Navalites Got Talent</a>      | <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Co-Curricular-Activities-CCA/Overseas-Cultural-Immersion-Programme/">Overseas Cultural Learning</a>    | 
+
+| <img style="width:1209px;height:340px;" src="/images/E%20OPEN%20HOUSE/education%20and%20career%20guidance_2023.png">| <img style="width:1205px;height:340px;" src="/images/E%20OPEN%20HOUSE/admiral's%20programme_2023.png"> | 
+| -------- | -------- | 
+| <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Character-Development/CCE/">Education and Career Guidence </a>     | <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/English/">English Admiral's Programme </a><br><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Mathematics/">Math Admiral's Programme </a> <br> <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Science/">Science Admiral's Programme </a>    | 
+
+	
 			
 #### <u>Confident Leaders</u>
 ![](/images/E%20OPEN%20HOUSE/confident_learners_updated-02.png)
 
-| |  |
+
+|  <img style="width:1209px;height:340px;" src="/images/E%20OPEN%20HOUSE/cca_2023.png"> | <img style="width:1209px;height:340px;" src="/images/E%20OPEN%20HOUSE/pal_2023.png"> | 
 | -------- | -------- | 
-| **CCA**     | Click [here](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/cca/permalink/) to find out more about CCAs offered in NBPS.    | 
-| **PAL**     | Coming Soon     | 
-| **Values-in-Action (VIA)**     |  Click [here](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Character-Development/CCE/) to find out more about VIA opportunities offered in NBPS.  | 
-| **Student Leadership**     | Click [here](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Character-Development/Student-Leadership/) to find out more about student leadership opportunities offered in NBPS.  |
+| [Co-Curricular Activities](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/cca/permalink/)       | [Programme for Active Learning](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/character-development/permalink/)   | 
+
+
+| <img style="width:1209px;height:340px;" src="/images/E%20OPEN%20HOUSE/via_2023.png"> | <img style="width:1180px;height:340px;" src="/images/E%20OPEN%20HOUSE/student%20leadership_2023.png"> | 
+| -------- | -------- | 
+|   [Values-In-Action](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Character-Development/CCE/)      |  [Student Leadership](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Character-Development/Student-Leadership/)       |
 
 #### <u>Supportive Environment</u>
 ![](/images/E%20OPEN%20HOUSE/suppotive%20enviroment.png)
@@ -110,12 +87,6 @@ In the English Admiral's Programme, students explore Literature through reading 
 
 ![](/images/E%20OPEN%20HOUSE/inviting%20learning%20spaces.png)
 
-|  |  |
-| -------- | -------- | 
-| **Caring Educators**     | Coming Soon     | 
-| **Supportive Partners**     | Coming Soon    | 
-| **After-School Care**     | Coming Soon   | 
-| **Inviting Learning Spaces**     | Coming Soon     |
 
 #### <u>Frequently Asked Question (FAQ)</u>
 ![](/images/E%20OPEN%20HOUSE/frequently%20asked%20question.png)
@@ -174,5 +145,6 @@ Students are only required to join a CCA from Primary 3. No auditions or trials 
 
 Parents may email the teacher directly using the email addresses found on the school website. Alternatively, parents may also contact the school by calling 67537114 or by writing a note in your child’s Navalite Compass (Student handbook). Individual teachers may also use other modes of communication (for example, Google Chat).
 
-##### <u>Contact Us</u>
-COMING SOON..
+
+
+
