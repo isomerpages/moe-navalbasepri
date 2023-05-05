@@ -189,9 +189,9 @@ Parents may email the teacher directly using the email addresses found on the sc
 
 | ![](/images/E%20OPEN%20HOUSE/cca_2023.png) | ![](/images/E%20OPEN%20HOUSE/pal_2023.png) | 
 | -------- | -------- | 
-| Text     | Text     | 
+| [Co-Curricular Activities](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/cca/permalink/)       | [Programme for Active Learning](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/character-development/permalink/)   | 
 
 
 | ![](/images/E%20OPEN%20HOUSE/via_2023.png) | ![](/images/E%20OPEN%20HOUSE/student%20leadership_2023.png) | 
 | -------- | -------- | 
-| Text     | Text     |
+|   [Values-In-Action](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Character-Development/CCE/)      |  [Student Leadership](https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Character-Development/Student-Leadership/)       |
