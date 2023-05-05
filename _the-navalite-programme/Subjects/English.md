@@ -48,3 +48,7 @@ Reading Under the Stars is a fun night of books, bonding and a lot more at NBPS.
 Aligned to our department philosophy, to empower every student to be effective communicators and confident users of the English Language, the Primary 1 and 2 students take turns to tell a story at our school library. This is a platform for our young ones to build up their confidence interacting with an audience. For the P3 to P6 students, they have a chance at showcasing their talent in story-telling, acting and singing every Thursday. Our students look forward to these activities.
 
 ![](/images/English/English%203.png)
+
+#### ADMIRAL'S PROGRAMME
+
+In the English Admiral's Programme, students explore Literature through reading and discussing storybook classics such as Charlie and the Chocolate Factory (Primary 3), Charlotte’s Web (Primary 4), and advance to appreciating and creating poems in Primary 5.
