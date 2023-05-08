@@ -23,4 +23,8 @@ sections:
       url: https://www.facebook.com/NBPS1730/
       image: /images/logo.png
       alt: Facebook
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
