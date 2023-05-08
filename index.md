@@ -24,7 +24,6 @@ sections:
       image: /images/logo.png
       alt: Facebook
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Naval Base Primary School
+      subtitle: "Welcome to "
 ---
