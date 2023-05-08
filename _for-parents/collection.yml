@@ -2,13 +2,13 @@ collections:
   for-parents:
     output: true
     order:
-      - School Bus Vendor.md
       - Useful Links and Resources.md
       - After School Care.md
       - E Open House.md
       - PSLE Information.md
       - MOE Sexuality Education.md
       - Parent Support Group.md
+      - School Bus Vendor.md
       - School Canteen.md
       - Schoolbag Articles.md
       - Group Personal Accident (GPA) Insurance for Students.md
