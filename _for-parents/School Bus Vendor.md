@@ -17,3 +17,4 @@ Email address (if any): enquiry@teoboon.com
 <b>Bus fares applicable from 1 January 2023 to 31 December 2024:</b>
 
 ![](/images/School%20Bus/bus%20fare.PNG)
+
