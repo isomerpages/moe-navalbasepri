@@ -5,4 +5,15 @@ description: ""
 ---
 ## School Bus Vendor
 
-Coming Soon..
+<b>Teo Boon Transport Pte Ltd</b><br>
+1024 Yishun Industrial Park A #02-21
+Singapore 768763<br>
+Contact no.: 67585382<br>
+Contact person.: Ms Lee Kuan<br>
+Email address (if any): enquiry@teoboon.com
+
+##### Daily School Bus Services based on Not to Exceed Price (i.e. fo sending students from home to school and vice versa).
+
+<b>Bus fares applicable from 1 January 2023 to 31 December 2024:</b>
+
+
