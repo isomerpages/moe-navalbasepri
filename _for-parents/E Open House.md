@@ -7,16 +7,13 @@ description: ""
 
 #### <u>Principal's Address</u>
 
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/csCJ_jTyDT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-
-
-| <iframe width="100%" height="415" src="https://www.youtube.com/embed/csCJ_jTyDT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe> | 
+|  | 
 | -------- | 
-| <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dAZMJBGUHbA" height="415" width="100%"></iframe>     | 
+|  | 
 
-
-
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dAZMJBGUHbA" height="415" width="100%"></iframe> 
 
 #### <u>Virtual School Tour</u>
 
