@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Naval Base Primary School
 locations:
   - address:
       - 7 Yishun Ave 4

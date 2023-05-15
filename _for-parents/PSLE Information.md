@@ -1,6 +1,6 @@
 ---
 title: PSLE Information
-permalink: /for-parents/permalink/
+permalink: /for-parents/psle-information/
 description: ""
 ---
 ## PSLE INFORMATION

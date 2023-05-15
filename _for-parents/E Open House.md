@@ -9,6 +9,11 @@ description: ""
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/csCJ_jTyDT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
+|  | 
+| -------- | 
+|  | 
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dAZMJBGUHbA" height="415" width="100%"></iframe> 
 
 #### <u>Virtual School Tour</u>
 
@@ -144,7 +149,3 @@ Students are only required to join a CCA from Primary 3. No auditions or trials 
 <b>5.  How can I communicate with my child’s teachers?</b>
 
 Parents may email the teacher directly using the email addresses found on the school website. Alternatively, parents may also contact the school by calling 67537114 or by writing a note in your child’s Navalite Compass (Student handbook). Individual teachers may also use other modes of communication (for example, Google Chat).
-
-
-
-
