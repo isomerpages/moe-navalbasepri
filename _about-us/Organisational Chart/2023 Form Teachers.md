@@ -28,8 +28,8 @@ third_nav_title: Organisational Chart
 |  P2-SW | TEY SWEE LING | tey_swee_ling@schools.gov.sg | MAZLENNY BTE MOSRAN |  mazlenny_mosran@schools.gov.sg |
 |  P2-UN | SUGITHA D/O SUJITH | sugitha_sujith@schools.gov.sg | SIM JIAK HO | sim_jiak_ho@schools.gov.sg |
 |  P3-CO | IZZATI BINTE IBRAHIM | izzati_ibrahim@schools.gov.sg | LYDIA TEE AI LEEN | lydia_tee_ai_leen@schools.gov.sg |
-|  P3-EN | MARCUS LAI SZE YEN | marcus_lai_sze_yen@schools.gov.sg | SAFIYAH SALMI BINTE OTHMAN | safiyah_salmi_othman@schools.gov.sg | LIM BAO CHENG | lim_bao_cheng@schools.gov.sg |
-|  P3-EX | NG YU CHAN | ng_yu_chan@schools.gov.sg | ROHANI BTE AHMAD ASI | rohani_ahmad_asi@schools.gov.sg  |
+|  P3-EN | MARCUS LAI SZE YEN | marcus_lai_sze_yen@schools.gov.sg | SAFIYAH SALMI BINTE OTHMAN | safiyah_salmi_othman@schools.gov.sg | 
+|  P3-EX | NG YU CHAN | ng_yu_chan@schools.gov.sg | ROHANI BTE AHMAD ASI | rohani_ahmad_asi@schools.gov.sg  | LIM BAO CHENG | lim_bao_cheng@schools.gov.sg |
 |  P3-IN | ANG WEN HUI | ang_wen_hui@schools.gov.sg | ANGELA MI QINGHUA | angela_mi@schools.gov.sg | SUNSHINE ONG SIQI | sunshine_ong_siqi@schools.gov.sg |
 |  P3-PE | NURAISHAH BINTE YUSOFF | nuraishah_yusoff@schools.gov.sg | LIM SOON KEONG JOSEPH | lim_soon_keong_joseph@schools.gov.sg  | ONN KAI FENG | onn_kai_feng@schools.gov.sg  |
 |  P3-RE | NUR SHILAH BINTE J FAISAL | nur_shilah_j_faisal@schools.gov.sg | AW JIA YU EUNICE | aw_jia_yu_eunice@schools.gov.sg | YAMUNA PUVANADERAN | yamuna_puvanaderan@schools.gov.sg |
