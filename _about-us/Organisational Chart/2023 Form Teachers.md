@@ -36,7 +36,7 @@ third_nav_title: Organisational Chart
 |  P3-SF | DAVID TEO KAI MING | david_teo_kai_ming@schools.gov.sg | TAN SEE SAME | tan_see_same@schools.gov.sg | NASHITA BINTE KAMIR | nashita_kamir@schools.gov.sg |
 |  P4-CO | YAP XUE LING | yap_xue_ling@schools.gov.sg | MAKHFADZAH BTE ABU BAKAR |  makhfadzah_abu_bakar@schools.gov.sg | R. ABIRAMI | r_abirami@schools.gov.sg |
 |  P4-EN | POH TING YAN EVELYN | evelyn_poh_ting_yan@schools.gov.sg | LOKE WEI MING |  loke_wei_ming@schools.gov.sg| BRIAN NGUYEN WEI JIEH | brian_nguyen@schools.gov.sg |  
-|  P4-EX | NUR FERISHA BINTE ABBAS | nur_ferisha_abbas@schools.gov.sg | WANG MANLI | wang_manli@schools.gov.sg |
+|  P4-EX | NUR FERISHA BINTE ABBAS | nur_ferisha_abbas@schools.gov.sg | WANG MANLI | wang_manli@schools.gov.sg | LIN WEIHENG VICTOR | lin_weiheng_victor@schools.gov.sg | 
 |  P4-IN | MOHAMMED SHAFIK BIN ENDON | mohammed_shafik_endon@schools.gov.sg | TAY JIN XUAN | tay_jin_xuan@schools.gov.sg |
 |  P4-PE | NURULHUDA BINTE MOHAMAD HALIM | nurulhuda_mohamad_halim@schools.gov.sg | LI MEIJUAN | li_meijuan@schools.gov.sg |
 |  P4-RE | CHOW LING YUN ANNIE  | chow_ling_yun_annie@schools.gov.sg | RALPH PAUL CHAN ZHI WEI | ralph_paul_chan_zhi@schools.gov.sg | JASON LAW | jason_law@schools.gov.sg |
