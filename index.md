@@ -15,12 +15,6 @@ sections:
         - title: MK@NBPS
           description: ""
           url: https://www.navalbasepri.moe.edu.sg/mk-at-nbps/Announcements/
-  - infopic:
-      title: Welcome to NBPS
-      button: Follow us
-      url: https://www.facebook.com/NBPS1730/
-      image: /images/logo.png
-      alt: Facebook
   - resources:
       title: Naval Base Primary School
       subtitle: "Welcome to "

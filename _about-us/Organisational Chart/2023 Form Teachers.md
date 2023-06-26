@@ -9,7 +9,7 @@ third_nav_title: Organisational Chart
 
 | Class | Form Teacher | Email | Form Teacher | Email | 
 |:--------|:--------|:--------|:--------|:--------|
-| P1-CO | CHEN YANQI | chen_yanqi@schools.gov.sg | SERI MUSLIHAH BTE MD NOR | seri_muslihah_md_nor@schools.gov.sg| 
+| P1-CO | CHEN YANQI | chen_yanqi@schools.gov.sg | SERI MUSLIHAH BTE MD NOR | seri_muslihah_md_nor@schools.gov.sg| FATIN SAKINAH BTE AZIZIAN | fatin_sakinah_azizian@schools.gov.sg |
 |  P1-EN | RACHEL LIM CHENG HOON | rachel_lim_cheng_hoon@schools.gov.sg | KUMAR HARINI | kumar_harini@schools.gov.sg |
 |  P1-EX | SARAH YEW | sarah_yew_a@schools.gov.sg | CHEN WEI | chen_wei@schools.gov.sg |
 |  P1-IN | JACELYN TAN YILIN |  jacelyn_tan_yilin@schools.gov.sg | SUTHA KRISHNAN | sutha_krishnan@schools.gov.sg |
@@ -28,24 +28,24 @@ third_nav_title: Organisational Chart
 |  P2-SW | TEY SWEE LING | tey_swee_ling@schools.gov.sg | MAZLENNY BTE MOSRAN |  mazlenny_mosran@schools.gov.sg |
 |  P2-UN | SUGITHA D/O SUJITH | sugitha_sujith@schools.gov.sg | SIM JIAK HO | sim_jiak_ho@schools.gov.sg |
 |  P3-CO | IZZATI BINTE IBRAHIM | izzati_ibrahim@schools.gov.sg | LYDIA TEE AI LEEN | lydia_tee_ai_leen@schools.gov.sg |
-|  P3-EN | MARCUS LAI SZE YEN | marcus_lai_sze_yen@schools.gov.sg | SAFIYAH SALMI BINTE OTHMAN | safiyah_salmi_othman@schools.gov.sg | LIM BAO CHENG | lim_bao_cheng@schools.gov.sg |
-|  P3-EX | NG YU CHAN | ng_yu_chan@schools.gov.sg | ROHANI BTE AHMAD ASI | rohani_ahmad_asi@schools.gov.sg  |
+|  P3-EN | MARCUS LAI SZE YEN | marcus_lai_sze_yen@schools.gov.sg | SAFIYAH SALMI BINTE OTHMAN | safiyah_salmi_othman@schools.gov.sg | 
+|  P3-EX | NG YU CHAN | ng_yu_chan@schools.gov.sg | ROHANI BTE AHMAD ASI | rohani_ahmad_asi@schools.gov.sg  | LIM BAO CHENG | lim_bao_cheng@schools.gov.sg |
 |  P3-IN | ANG WEN HUI | ang_wen_hui@schools.gov.sg | ANGELA MI QINGHUA | angela_mi@schools.gov.sg | SUNSHINE ONG SIQI | sunshine_ong_siqi@schools.gov.sg |
 |  P3-PE | NURAISHAH BINTE YUSOFF | nuraishah_yusoff@schools.gov.sg | LIM SOON KEONG JOSEPH | lim_soon_keong_joseph@schools.gov.sg  | ONN KAI FENG | onn_kai_feng@schools.gov.sg  |
 |  P3-RE | NUR SHILAH BINTE J FAISAL | nur_shilah_j_faisal@schools.gov.sg | AW JIA YU EUNICE | aw_jia_yu_eunice@schools.gov.sg | YAMUNA PUVANADERAN | yamuna_puvanaderan@schools.gov.sg |
 |  P3-SF | DAVID TEO KAI MING | david_teo_kai_ming@schools.gov.sg | TAN SEE SAME | tan_see_same@schools.gov.sg | NASHITA BINTE KAMIR | nashita_kamir@schools.gov.sg |
 |  P4-CO | YAP XUE LING | yap_xue_ling@schools.gov.sg | MAKHFADZAH BTE ABU BAKAR |  makhfadzah_abu_bakar@schools.gov.sg | R. ABIRAMI | r_abirami@schools.gov.sg |
 |  P4-EN | POH TING YAN EVELYN | evelyn_poh_ting_yan@schools.gov.sg | LOKE WEI MING |  loke_wei_ming@schools.gov.sg| BRIAN NGUYEN WEI JIEH | brian_nguyen@schools.gov.sg |  
-|  P4-EX | NUR FERISHA BINTE ABBAS | nur_ferisha_abbas@schools.gov.sg | WANG MANLI | wang_manli@schools.gov.sg |
+|  P4-EX | NUR FERISHA BINTE ABBAS | nur_ferisha_abbas@schools.gov.sg | WANG MANLI | wang_manli@schools.gov.sg | LIN WEIHENG VICTOR | lin_weiheng_victor@schools.gov.sg | 
 |  P4-IN | MOHAMMED SHAFIK BIN ENDON | mohammed_shafik_endon@schools.gov.sg | TAY JIN XUAN | tay_jin_xuan@schools.gov.sg |
-|  P4-PE | NURULHUDA BINTE MOHAMAD HALIM | nurulhuda_mohamad_halim@schools.gov.sg | LI MEIJUAN | li_meijuan@schools.gov.sg |
+|  P4-PE | NURULHUDA BINTE MOHAMAD HALIM | nurulhuda_mohamad_halim@schools.gov.sg | LI MEIJUAN | li_meijuan@schools.gov.sg | NURUL ASHIKIN TAJULARUS | nurul_ashikin_tajularus@schools.gov.sg |
 |  P4-RE | CHOW LING YUN ANNIE  | chow_ling_yun_annie@schools.gov.sg | RALPH PAUL CHAN ZHI WEI | ralph_paul_chan_zhi@schools.gov.sg | JASON LAW | jason_law@schools.gov.sg |
 |  P4-SF | SALINA BINTE MD SHARIF | salina_md_sharif@schools.gov.sg | LEE XUAN | lee_xuan@schools.gov.sg | SAKINAH NAZIHAH BINTE ROSLAN | sakinah_nazihah_roslan@schools.gov.sg |
 |  P5-CO | NADIA IZZATY BINTE HAJI MOHAMED ZAIN | nadia_zain@schools.gov.sg  | PHANG XUE FEN SERINA | phang_xue_fen_serina@schools.gov.sg | 
 |  P5-IN | LEE CHING | lee_ching@schools.gov.sg | GAO QINGFANG | gao_qingfang@schools.gov.sg | MUHAMMAD JAILANI BIN ABU TALIB | muhammad_jailani_abu_talib@schools.gov.sg |
 |  P5-PE | KAYATHRI D/O THIYAGARAJAN | kayathri_thiyagarajan@schools.gov.sg | LAI WEE CHONG | lai_wee_chong@schools.gov.sg |
 |  P5-RE | SIM TAI WEE KITSON | sim_tai_wee_kitson@schools.gov.sg | GLORIA WONG YAN ZHEN | gloria_wong_yan_zhen@schools.gov.sg | MUHAMMAD HAFIZH BIN ABDUL GHANI | muhammad_hafizh_abdul_ghani@schools.gov.sg |
-|  P5-SF | SHANE THAM WENJIE | tham_wenjie@schools.gov.sg | VASAGI KUMARASEN | vasagi_kumarasen@schools.gov.sg |
+|  P5-SF | SHANE THAM WENJIE | tham_wenjie@schools.gov.sg | VASAGI KUMARASEN | vasagi_kumarasen@schools.gov.sg | LIM PEI YIING | lim_pei_yiing@schools.gov.sg |
 |  P5-UN | RATHANA RAVENDRA | rathana_ravendra@schools.gov.sg | SEAH WAN YAN MARY | seah_wan_yan_mary@schools.gov.sg | LEONG ZHENLING, PEARLY | leong_zhenling_pearly@schools.gov.sg | LEONG CHOI YEN AGNES | leong_choi_yen_agnes@schools.gov.sg |
 |  P6-CO | LUM HUNG LING | lum_hung_ling@schools.gov.sg | BALASUBRAMANIAN DEVI | balasubramanian_devi@schools.gov.sg |
 |  P6-EN | CARMEN DOMINIQUE TAN JIA WEN | carmen_dominique_tan@schools.gov.sg  | MUHAMMAD HASYIM BIN MOHAMAD ISA | muhammad_hasyim_mohamad@schools.gov.sg |
