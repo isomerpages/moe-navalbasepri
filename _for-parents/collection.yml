@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - School Uniform Vendor.md
       - Useful Links and Resources.md
       - After School Care.md
       - E Open House.md
@@ -11,5 +10,6 @@ collections:
       - Parent Support Group.md
       - School Bus Vendor.md
       - School Canteen.md
+      - School Uniform Vendor.md
       - Schoolbag Articles.md
       - Group Personal Accident (GPA) Insurance for Students.md
