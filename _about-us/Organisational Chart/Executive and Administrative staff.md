@@ -9,7 +9,7 @@ third_nav_title: Organisational Chart
 |                      |                                                                 |
 |--------------------------------------------------|-------------------------------------------------------------------------------
 | Operations Manager (OM): <br>| Mr Selvaraj S/O Krishnasamy
-| Administrative Manager (AM): <br>| Ms Jennifer Lye
+| Administration Manager (AM): <br>| Ms Jennifer Lye
 |Administrative Executive (AE):<br><br>           | Mdm Lai Me Poh Mabel<br>Ms Rozanah Bte Yusoff<br>Rabiatul Adawiyah Jubri      | 
 | Corporate Support Officer (CSO):<br><br>         | Mr Sanusi Bin Pardi<br>Haslinda Binte Zakaria<br>Siti Aishah Binte Abunor |
 |  ICT Associate:<br><br>           |  Mr Mohamed Ridhwan Bin Mohamed Arop      | 
