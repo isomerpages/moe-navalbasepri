@@ -6,7 +6,7 @@ description: ""
 ## CALENDAR OF EVENTS
 
 ### YEAR 2023 TERM 2
-[Click here to Download](https://drive.google.com/file/d/1DexcSQf0PGjM78Rbf2cZozcKgsZQhZK3/view?usp=share_link)
+[Click Here to Download](/files/School%20Calendar/student%20calendar%20of%20activities%20for%20term%203%202023.pdf)
 
-![](/images/calendar%20t2%201.JPG)
-![](/images/FOR%20STUDENTS/Calendar%20of%20Events/student%20calendar%20of%20event%20tem%202%202023%20page%202.png)
+
+
