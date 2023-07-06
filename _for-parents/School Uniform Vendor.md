@@ -16,7 +16,7 @@ Saturday: 10am to 2pm<br>
 Close on Sunday and Public Holiday<br>
 
 <b><u>Sale in School</u></b><br>
-Business Days: From 7 July 2023 onwards: Every Friday (Excluding public holidays and school holidays)<br>
+Business Days: From <b>7 July 2023 onwards:</b> Every Friday (Excluding public holidays and school holidays)<br>
 Time: 2.00pm. to 3.30pm.
 
 <u><b>Mode of Payment:</b></u><br>
