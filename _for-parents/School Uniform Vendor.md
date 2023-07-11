@@ -20,4 +20,5 @@ Business Days: From <b>7 July 2023 onwards:</b> Every Friday (Excluding public h
 Time: 2.00pm. to 3.30pm.
 
 <u><b>Mode of Payment:</b></u><br>
-Cash, NETs, PayNow &amp; DBS Paylah!
+Cash, PayNow, DBS Paylah &amp; NETs!<br>
+(<b>Note:</b> NETs Payment is available in commercial store only)
