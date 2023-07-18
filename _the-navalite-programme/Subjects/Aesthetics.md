@@ -6,7 +6,7 @@ third_nav_title: Subjects
 ---
 ## Aesthetics
 
-##### OUR APPROACH (Example: philosophy, student outcomes, framework)
+##### OUR APPROACH
 
 ###### “The Arts for Every Child”
 
