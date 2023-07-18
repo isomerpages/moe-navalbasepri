@@ -19,7 +19,6 @@ description: ""
 | Stall 8   | Cold Drinks                               | Mdm Ang Bee Kim |
 
 ### School Canteen Advertisement
-https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
