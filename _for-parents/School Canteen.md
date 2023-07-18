@@ -28,7 +28,7 @@ https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-progra
 ##### Application Procedure
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office. <br>
-[Click Here to download Application Form](/files/School%20Canteen/application%20form%20for%20school%20canteen.pdf)<br>
+[Click Here to download Application Form](/files/School%20Canteen/application%20form%20for%20school%20canteen.pdf)<br><br>
 2. Attached the following documents together with the application form:<br>
 •	Photocopy of the NRIC (front and back)<br>
 •	List of proposed menu and pricing for all items<br>
@@ -39,6 +39,7 @@ https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-progra
 •	Contact No: 6753 7114<br>
 •	Email: nbps@moe.edu.sg<br>
 •	Contact Person: Ms Mabel Lai <br>
+
 <b>How to get there?</b><br>
 •	Nearest MRT: Khatib MRT (NS14 line) – 10 minutes walking distance<br>
 •	Bus number: 811 and 805 - 3 minutes walking distance<br>
