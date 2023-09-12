@@ -7,7 +7,7 @@ description: ""
 
 
 
-| <img style="width:888px;height:220px;" src="/images/School%20Bookshop/casco%201.png">|  |  |
+| |  |  |
 | -------- | -------- | -------- |
 |      |      |      |
 
