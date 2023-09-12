@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - School Bookshop.md
       - Useful Links and Resources.md
       - After School Care.md
       - E Open House.md
@@ -13,5 +12,6 @@ collections:
       - School Canteen Vendor.md
       - School Canteen Advertisement.md
       - School Uniform Vendor.md
+      - School Bookshop.md
       - Schoolbag Articles.md
       - Group Personal Accident (GPA) Insurance for Students.md
