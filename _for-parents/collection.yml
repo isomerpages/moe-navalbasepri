@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Example Title.md
+      - School Bookshop.md
       - Useful Links and Resources.md
       - After School Care.md
       - E Open House.md
