@@ -5,11 +5,8 @@ description: ""
 ---
 ## CALENDAR OF EVENTS
 
-### YEAR 2023 TERM 3
-[Click Here to Download](/files/School%20Calendar/student%20calendar%20of%20activities%20for%20term%203%202023.pdf)
+### YEAR 2023 TERM 4
+[Click Here to download](/files/School%20Calendar/2023/Term%204/term%204%20-%20calendar%20of%20activities%20and%20schedule.pdf)
 
-![](/images/FOR%20STUDENTS/Calendar%20of%20Events/2023%20term%203%20calendar%20pic%201.PNG)
+![](/images/Calendar%20of%20Events/2023/Term%204/term%204%20pic%201.PNG)![](/images/Calendar%20of%20Events/2023/Term%204/term%204%20pic%202.PNG)
 
-![](/images/FOR%20STUDENTS/Calendar%20of%20Events/2023%20term%203%20calendar%20pic%202.PNG)
-
-![](/images/FOR%20STUDENTS/Calendar%20of%20Events/2023%20term%203%20calendar%20pic%203.PNG)
