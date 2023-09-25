@@ -12,7 +12,7 @@ description: ""
 |      |      |      |
 
 <b>Website:</b> [https://cascoedusupply.com.sg ](https://cascoedusupply.com.sg )<br>
-<b>Contact:</b> TBA <br>
+<b>Contact:</b> 63203677 <br>
 <br>
 <b>Opening Hours:</b><br>
 Monday - Friday (School Term)<br>
