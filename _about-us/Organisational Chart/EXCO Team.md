@@ -46,7 +46,7 @@ third_nav_title: Organisational Chart
 |---------------------|--------------------------------------------------------|
 | LH English (EL)     | Mrs Rathana Ravendra <br> rathana_ravendra@schools.gov.sg       |
 | LH English (EL)     | Mrs Liu Choi Yen Agnes <br> leong_choi_yen_agnes@schools.gov.sg |
-| LH Mathematics (MA) | Mrs Serina Wee <br> phang_xue_fern_serina@schools.gov.sg           |
+| LH Mathematics (MA) | Mrs Serina Wee <br> phang_xue_fen_serina@schools.gov.sg           |
 | LH Science (SC)     | Mr Wong Wai Liong <br> wong_wai_liong@schools.gov.sg            |
 | LH Science (SC)     | Mr Jason Law  <br> jason_law@schools.gov.sg            | 
 | LH MT (CL)     | Ms Lua Liwen  <br> lua_li_wen@schools.gov.sg            |
