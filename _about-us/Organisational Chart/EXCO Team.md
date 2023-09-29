@@ -39,6 +39,8 @@ third_nav_title: Organisational Chart
 | SH Student Leadership (SL)   | Mr Kalaiselvan S/O Balasubramaniam <br> kalaiselvan_balasubramaniam@schools.gov.sg |  
 | SH Physical Education (PE) | Mr Lai Wee Chong <br>    lai_wee_chong@schools.gov.sg                       |
 | SH Infocomm Technology (ICT) | Miss Amanda Huang  <br>  amanda_huang_xuanqi@schools.gov.sg                       |
+| SH Aesthetics | Miss Tay Jin Xuan  <br>  tay_jin_xuan@schools.gov.sg	                       |
+
 
 <br>
 
