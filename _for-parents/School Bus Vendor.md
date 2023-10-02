@@ -14,10 +14,10 @@ Email address (if any): enquiry@teoboon.com
 
 ##### Daily School Bus Services based on Not to Exceed Price (i.e. fo sending students from home to school and vice versa).
 
-<b>Bus fares applicable from 1 January 2023 to 31 December 2024:</b>
+<b>Bus fares applicable from 1 January 2024 to 31 December 2024:</b>
 
-![](/images/School%20Bus/bus%20fare.PNG)
+![](/images/School%20Bus/2024/bus%20fare%202024.png)
 
-Click [HERE](/files/School%20Bus/request%20for%20school%20bus%20services_2023.pdf) to request for school Bus Services.
+Click [HERE](/files/School%20Bus/2024/(b-037%20attachment)%20request%20for%20school%20bus%20services_2024.pdf) to request for school Bus Services.
 
 **Note:** Please submit the request form for school bus services to Teo Boon Transport Directly. Thank you.

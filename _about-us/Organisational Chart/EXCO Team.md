@@ -39,6 +39,8 @@ third_nav_title: Organisational Chart
 | SH Student Leadership (SL)   | Mr Kalaiselvan S/O Balasubramaniam <br> kalaiselvan_balasubramaniam@schools.gov.sg |  
 | SH Physical Education (PE) | Mr Lai Wee Chong <br>    lai_wee_chong@schools.gov.sg                       |
 | SH Infocomm Technology (ICT) | Miss Amanda Huang  <br>  amanda_huang_xuanqi@schools.gov.sg                       |
+| SH Art | Miss Tay Jin Xuan  <br>  tay_jin_xuan@schools.gov.sg	                       |
+
 
 <br>
 
@@ -46,7 +48,7 @@ third_nav_title: Organisational Chart
 |---------------------|--------------------------------------------------------|
 | LH English (EL)     | Mrs Rathana Ravendra <br> rathana_ravendra@schools.gov.sg       |
 | LH English (EL)     | Mrs Liu Choi Yen Agnes <br> leong_choi_yen_agnes@schools.gov.sg |
-| LH Mathematics (MA) | Mrs Serina Wee <br> phang_xue_fern_serina@schools.gov.sg           |
+| LH Mathematics (MA) | Mrs Serina Wee <br> phang_xue_fen_serina@schools.gov.sg           |
 | LH Science (SC)     | Mr Wong Wai Liong <br> wong_wai_liong@schools.gov.sg            |
 | LH Science (SC)     | Mr Jason Law  <br> jason_law@schools.gov.sg            | 
 | LH MT (CL)     | Ms Lua Liwen  <br> lua_li_wen@schools.gov.sg            |
