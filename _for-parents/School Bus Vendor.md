@@ -14,7 +14,7 @@ Email address (if any): enquiry@teoboon.com
 
 ##### Daily School Bus Services based on Not to Exceed Price (i.e. fo sending students from home to school and vice versa).
 
-<b>Bus fares applicable from 1 January 2023 to 31 December 2024:</b>
+<b>Bus fares applicable from 1 January 2024 to 31 December 2024:</b>
 
 ![](/images/School%20Bus/2024/bus%20fare%202024.png)
 
