@@ -14,15 +14,17 @@ description: ""
 DigitalAccess@Home provides subsidised broadband and laptops/tablets to lower-income households to support their lifestyle needs, including work and social activities.
 
 For more information about the DigitalAccess@Home, please visit [https://www.imda.gov.sg/how-we-can-help/digital-access-at-home](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home)<br>
+
 |  |  |  |
 | -------- | -------- | -------- |
 |      |      |      |
 
 <b>Who can apply?</b><br>
 Low-income households living in HDB flats with at least one Singapore Citizen are eligible to apply for DigitalAccess@Home. 
-You can check your eligibility at this website [www.go.gov.sg/digitalaccesschecker. ](www.go.gov.sg/digitalaccesschecker. )
+You can check your eligibility at this website [https://go.gov.sg/digitalaccesschecker](https://go.gov.sg/digitalaccesschecker).
 
 Click on [Scheme Details](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home/scheme-details#ef97571b-3546-4a23-83a1-2815b62d1cfc) for more information.<br>
+
 |  |  |  |
 | -------- | -------- | -------- |
 |      |      |      |
@@ -33,6 +35,3 @@ You can apply in two ways: <br>
 * Hard copy submission (by mail): Download and print the [DigitalAccess@Home form here](https://file.go.gov.sg/digitalaccess-application-form.pdf), complete it and mail it to IMDA.<br>
 
 For further enquiries, you may contact IMDA via [https://www.imda.gov.sg/about-imda/contact-us ](https://www.imda.gov.sg/about-imda/contact-us )
-
-
-
