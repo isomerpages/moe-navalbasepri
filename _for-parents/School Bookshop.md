@@ -23,11 +23,8 @@ For Parents: 2.00pm to 3.30pm<br>
 | -------- | -------- | -------- |
 |      |      |      |
 
-<b><u>Booklist</u></b>
+##### <b><u>Booklist</u></b>
 
-| |  |  |
-| -------- | -------- | -------- |
-|      |      |      |
 
 | Primary 1 | Primary 2 | Primary 3 | Primary 4 | Primary 5 | Primary 6 |
 | -------- | -------- | -------- | -------- | -------- | -------- |
@@ -41,5 +38,5 @@ For Parents: 2.00pm to 3.30pm<br>
 
 
 
-<b><u>Sales of Uniform</u></b><br>
+##### <b><u>Sales of Uniform</u></b><br>
 [Click Here](/files/School%20Bookshop/2023/Sale_of_Uniform.pdf)
