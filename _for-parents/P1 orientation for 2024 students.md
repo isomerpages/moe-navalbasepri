@@ -10,4 +10,4 @@ description: ""
 | -------- | -------- | -------- |
 |      |      |      |
 
-Please  to do the survey
+![](/images/P1%20Orientation%202024/P1_Orientation_Survey.PNG)
