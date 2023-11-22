@@ -27,3 +27,6 @@ For Parents: 2.00pm to 3.30pm<br>
 | -------- | -------- | -------- | -------- | -------- | -------- |
 | [](/files/P1_Booklist.pdf)     | [](/files/School%20Bookshop/2023/P2_Booklist.pdf)     | [](/files/School%20Bookshop/2023/P3_Booklist.pdf)    | [](/files/School%20Bookshop/2023/P4_Booklist.pdf)     | [](/files/School%20Bookshop/2023/P5_Booklist.pdf)     | [](/files/School%20Bookshop/2023/P6_Booklist.pdf)     |
 |  |  |  |  | [](/files/School%20Bookshop/2023/P5_Foundation_Booklist.pdf) | [](/files/School%20Bookshop/2023/P6_Foundation_Booklist.pdf) |
+
+<b><u>Sales of Uniform</u></b><br>
+[Please Click Here](/files/School%20Bookshop/2023/Sale_of_Uniform.pdf)
