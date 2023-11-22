@@ -2,10 +2,10 @@ collections:
   for-parents:
     output: true
     order:
-      - DigitalAccess@Home.md
-      - Useful Links and Resources.md
       - After School Care.md
+      - DigitalAccess@Home.md
       - E Open House.md
+      - Group Personal Accident (GPA) Insurance for Students.md
       - PSLE Information.md
       - MOE Sexuality Education.md
       - Parent Support Group.md
@@ -15,4 +15,4 @@ collections:
       - School Uniform Vendor.md
       - School Bookshop.md
       - Schoolbag Articles.md
-      - Group Personal Accident (GPA) Insurance for Students.md
+      - Useful Links and Resources.md
