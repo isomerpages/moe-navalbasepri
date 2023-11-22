@@ -26,7 +26,7 @@ For Parents: 2.00pm to 3.30pm<br>
 | Primary 1 | Primary 2 | Primary 3 | Primary 4 | Primary 5 | Primary 6 |
 | -------- | -------- | -------- | -------- | -------- | -------- |
 | [P1 Booklist](/files/School%20Bookshop/2023/P1_Booklist.pdf)     | [P2 Booklist](/files/School%20Bookshop/2023/P2_Booklist.pdf)     | [P3 Booklist](/files/School%20Bookshop/2023/P3_Booklist.pdf)    | [P4 Booklist](/files/School%20Bookshop/2023/P4_Booklist.pdf)     | [P5 Booklist](/files/School%20Bookshop/2023/P5_Booklist.pdf)     | [P6 Booklist](/files/School%20Bookshop/2023/P6_Booklist.pdf)     |
-|  |  |  |  | [](/files/School%20Bookshop/2023/P5_Foundation_Booklist.pdf) | [](/files/School%20Bookshop/2023/P6_Foundation_Booklist.pdf) |
+|  |  |  |  | [P5 Foundation Booklist](/files/School%20Bookshop/2023/P5_Foundation_Booklist.pdf) | [P6 Foundation Booklist](/files/School%20Bookshop/2023/P6_Foundation_Booklist.pdf) |
 
 <b><u>Sales of Uniform</u></b><br>
 [Please Click Here](/files/School%20Bookshop/2023/Sale_of_Uniform.pdf)
