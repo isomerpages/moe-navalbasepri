@@ -12,4 +12,4 @@ description: ""
 
 ![](/images/P1%20Orientation%202024/P1_Orientation_Survey.PNG)
 
-Click [here](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGwHpPFzlmsfkRCftMmlwJQNlbd?projector=1&messagePartId=0.2) to access to P1 Orientation Slides.
+Click [here](/files/P1%20Orientation%202024/P1_Orientation_2023_schoolwebsite.pdf) to access to P1 Orientation Slides.
