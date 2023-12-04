@@ -3,6 +3,7 @@ title: EXCO Team
 permalink: /about-us/Organisational-Chart/EXCO-team/
 description: ""
 third_nav_title: Organisational Chart
+variant: markdown
 ---
 ## Organisational Chart
 
@@ -60,7 +61,7 @@ third_nav_title: Organisational Chart
 | YH (P1 &amp; P2)   | Ms Siti Zubaidah Binte Rahmat <br> siti_zubaidah_rahmat@schools.gov.sg           | 
 | AYH (P1 &amp; P2)   | Ms Pavitra Ghopinath <br> pavitra_ghopinath@schools.gov.sg                                        |
 | YH (P3 &amp; P4)   | Mr M Anwar <br> m_anwar_my@schools.gov.sg                                       |
-| AYH (P3 &amp; P4)  | Mr Brian Nguyen <br> nguyen_wei_jieh_brian@schools.gov.sg                      |
+| AYH (P3 &amp; P4)  | Mr Brian Nguyen <br> brian_nguyen@schools.gov.sg                      |
 | AYH (P5 &amp; P6)  | Mr Muhammad Jailani Bin Abu Talib <br> muhammad_jailani_abu_talib@schools.gov.sg |
 | AYH (P5 &amp; P6)  | Mrs Angeline Ang <br> zeng_qiufeng_angeline@schools.gov.sg                       |
 
