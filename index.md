@@ -4,7 +4,9 @@ title: Naval Base Primary School
 description: An Isomer site of the Singapore Government
 image: /images/logo.png
 permalink: /
-notification: ""
+notification: "Note: School Bookshop will be close on 22 December 2023 due to
+  power maintenance in the school. We are sorry for any inconvenient. Thank you.
+  "
 sections:
   - hero:
       background: /images/E OPEN HOUSE/nbps-eopen house-banner 2023.png
@@ -17,5 +19,5 @@ sections:
           url: https://www.navalbasepri.moe.edu.sg/mk-at-nbps/Announcements/
   - resources:
       title: Naval Base Primary School
-      subtitle: "Welcome to "
+      subtitle: Welcome to
 ---
