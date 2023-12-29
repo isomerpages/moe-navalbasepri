@@ -14,8 +14,8 @@ variant: markdown
 | SCHOOL LEADERS          |                                                                   |
 |-------------------------|-------------------------------------------------------------------|
 | Principal               | Mrs Sita Singh <br> sita_singh@schools.gov.sg                          |
-| Vice-Principal          | Mr Muhammad Faisal B Pairin <br> muhammad_faisal_pairin@schools.gov.sg |
-| Vice-Principal          | Mdm Lim Wai Choo <br> lim_wai_choo@schools.gov.sg                      |
+| Vice-Principal          | Mdm Lim Wai Choo <br> lim_wai_choo@schools.gov.sg |
+| Vice-Principal          | Mrs Koh Ming Hwee <br> wang_ming_hwee@schools.gov.sg                      |
 | Vice-Principal (Admin)  | Mdm Tham Lai Peng  Agnes <br> agnes_tham@schools.gov.sg                 |
 
 <br>
