@@ -23,7 +23,7 @@ variant: markdown
 | HEAD OF DEPARTMENT (HOD)                      |                                                             |
 |-----------------------------------------------|-------------------------------------------------------------|
 | School Staff Developer (SSD)                  | Mdm Chia Yee Ming, Julia <br> chia_yee_ming_julia@schools.gov.sg     |
-| HOD English (EL)     | Miss Foo En Ting Grace <br> emailTBC@schools.gov.sg       |
+| HOD English (EL)     | Miss Foo En Ting Grace <br> foo_en_ting_grace@schools.gov.sg       |
 |  HOD Mathematics (MA)                          | Mr Tee Junjie <br> tee_junjie@schools.gov.sg                         | 
 | HOD Science (SC)     | Mdm Shameni d/o Nanoo Nagendra Das <br> shameni_nanoo_nagendra_das@schools.gov.sg       |
 | HOD Infocomm Technology (ICT)                 | Mdm Hazel Phua <br> phua_qian_hui@schools.gov.sg                     |
