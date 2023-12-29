@@ -20,7 +20,7 @@ variant: markdown
 |  P1-SW | NADIA BINTE MOOIZ | nadia_mooiz@schools.gov.sg | SIM JIAK HO | sim_jiak_ho@schools.gov.sg |
 |  P2-CO | CHEN YANQI |chen_yanqi@schools.gov.sg | HU XUELING, OLIVIA | hu_xueling_olivia@schools.gov.sg |
 |  P2-EN | RACHEL LIM CHENG HOON | rachel_lim_cheng_hoon@schools.gov.sg | NURULHUDA BINTE MOHAMAD HALIM | urulhuda_mohamad_halim@schools.gov.sg |
-|  P2-EX | SARAH YEW | sarah_yew_a@schools.gov.sg | CHONG SIN YING | emailTBC@schools.gov.sg | KALAISELVAN S/O BALASUBRAMANIAM | kalaiselvan_balasubramaniam@schools.gov.sg	|
+|  P2-EX | SARAH YEW | sarah_yew_a@schools.gov.sg | CHONG SIN YING | chong_sin_ying@moe.edu.sg | KALAISELVAN S/O BALASUBRAMANIAM | kalaiselvan_balasubramaniam@schools.gov.sg	|
 |  P2-IN | JACELYN TAN YILIN | jacelyn_tan_yilin@schools.gov.sg | SUTHA KRISHNAN | sutha_krishnan@schools.gov.sg |
 |  P2-PE | KAVITHA D/O GINANAM | kavitha_ginanam@schools.gov.sg | POON SZE YI	 | poon_sze_yi@schools.gov.sg | 
 |  P2-RE | SAKILAH BTE A KARIM | sakilah_a_karim@schools.gov.sg | LIM KAN BOON | lim_kan_boon@schools.gov.sg |
@@ -42,7 +42,7 @@ variant: markdown
 |  P4-RE | NUR SHILAH BINTE J FAISAL  | nur_shilah_j_faisal@schools.gov.sg | YAMUNA PUVANADERAN | yamuna_puvanaderan@schools.gov.sg | POH ZHI QIN, LIONEL | poh_zhi_qin_lionel@schools.gov.sg |
 |  P4-SF | DAVID TEO KAI MING | david_teo_kai_ming@schools.gov.sg | TAN SEE SAME | 	tan_see_same@schools.gov.sg |
 |  P5-CO | YAP XUE LING | yap_xue_ling@schools.gov.sg | MAKHFADZAH BTE ABU BAKAR | makhfadzah_abu_bakar@schools.gov.sg | Genevieve Chong Yan Ling | genevieve_chong_yan_ling@schools.gov.sg |
-|  P5-EN | NASHITA BINTE KAMIR | nashita_kamir@schools.gov.sg | ZHANG LIJUAN | emailTBC@schools.gov.sg | 
+|  P5-EN | NASHITA BINTE KAMIR | nashita_kamir@schools.gov.sg | ZHANG LIJUAN | zhang_lijuan_a@moe.edu.sg | 
 |  P5-EX | 	LEONG ZHENLING, PEARLY | leong_zhenling_pearly@schools.gov.sg | MUHAMMAD HASYIM BIN MOHAMAD ISA | muhammad_hasyim_mohamad@schools.gov.sg |
 |  P5-IN | NUR FERISHA BINTE ABBAS | nur_ferisha_abbas@schools.gov.sg |CARMEN DOMINIQUE TAN JIA WEN | carmen_dominique_tan@schools.gov.sg | MUHAMMAD HAFIZH BIN ABDUL GHANI | muhammad_hafizh_abdul_ghani@schools.gov.sg |
 |  P5-PE | KAYATHRI D/O THIYAGARAJAN | kayathri_thiyagarajan@schools.gov.sg | GOH MEI JUAN JEAN | goh_mei_juan_jean@schools.gov.sg | JASON LAW | jason_law@schools.gov.sg |
