@@ -11,9 +11,9 @@ variant: markdown
 | Class | Form Teacher | Email | Form Teacher | Email | 
 |:--------|:--------|:--------|:--------|:--------|
 | P1-CO | KAPILA D/O CHANDRA SAGARAN | kapila_chandra_sagaran@schools.gov.sg | LOKE WEI MING |  loke_wei_ming@schools.gov.sg |
-|  P1-EN | RACHEL LIM CHENG HOON | rachel_lim_cheng_hoon@schools.gov.sg | KUMAR HARINI | kumar_harini@schools.gov.sg |
-|  P1-EX | SARAH YEW | sarah_yew_a@schools.gov.sg | CHEN WEI | chen_wei@schools.gov.sg |
-|  P1-IN | JACELYN TAN YILIN |  jacelyn_tan_yilin@schools.gov.sg | SUTHA KRISHNAN | sutha_krishnan@schools.gov.sg |
+|  P1-EN | LIESDA BTE JAMALI | liesda_jamali@schools.gov.sg | TAN YEN LIN JESSICA | tan_yen_lin_jessica@schools.gov.sg |
+|  P1-EX | FATIN NADIAH NASTASHA BINTE KAMSAN | fatin_nnk@schools.gov.sg | LU QIULING | lu_qiuling@schools.gov.sg |
+|  P1-IN | RATHANA RAVENDRA |  rathana_ravendra@schools.gov.sg | SUNSHINE ONG SIQI | sunshine_ong_siqi@schools.gov.sg | Karmila Binte Hussin | karmila_hussin@schools.gov.sg|
 |  P1-PE | KAVITHA D/O GINANAM | kavitha_ginanam@schools.gov.sg | POON SZE YI | poon_sze_yi@schools.gov.sg |
 |  P1-RE | SAKILAH BTE A KARIM |  sakilah_a_karim@schools.gov.sg | LIM KAN BOON | lim_kan_boon@schools.gov.sg |
 |  P1-SF | JOSHVA SUNDARA RAJ JASMINE CELINA | joshva_sundara_raj_jasmine@schools.gov.sg | NUR SYAFIQAH BINTE BAHARUDIN | nur_syafiqah_baharudin@schools.gov.sg |
