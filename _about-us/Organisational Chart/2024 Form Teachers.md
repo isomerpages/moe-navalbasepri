@@ -10,7 +10,7 @@ variant: markdown
 
 | Class | Form Teacher | Email | Form Teacher | Email | 
 |:--------|:--------|:--------|:--------|:--------|
-| P1-CO | CHEN YANQI | chen_yanqi@schools.gov.sg | ERICA FOO JIN MIN | erica_foo_jin_min@moe.edu.sg| FATIN SAKINAH BTE AZIZIAN | fatin_sakinah_azizian@schools.gov.sg |
+| P1-CO | KAPILA D/O CHANDRA SAGARAN | kapila_chandra_sagaran@schools.gov.sg | LOKE WEI MING |  loke_wei_ming@schools.gov.sg |
 |  P1-EN | RACHEL LIM CHENG HOON | rachel_lim_cheng_hoon@schools.gov.sg | KUMAR HARINI | kumar_harini@schools.gov.sg |
 |  P1-EX | SARAH YEW | sarah_yew_a@schools.gov.sg | CHEN WEI | chen_wei@schools.gov.sg |
 |  P1-IN | JACELYN TAN YILIN |  jacelyn_tan_yilin@schools.gov.sg | SUTHA KRISHNAN | sutha_krishnan@schools.gov.sg |
