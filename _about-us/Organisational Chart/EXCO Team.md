@@ -23,15 +23,16 @@ variant: markdown
 | HEAD OF DEPARTMENT (HOD)                      |                                                             |
 |-----------------------------------------------|-------------------------------------------------------------|
 | School Staff Developer (SSD)                  | Mdm Chia Yee Ming, Julia <br> chia_yee_ming_julia@schools.gov.sg     |
-| HOD Mathematics (MA)                          | Mr Tee Junjie <br> tee_junjie@schools.gov.sg                         |
+| HOD English (EL)     | Miss Foo En Ting Grace <br> emailTBC@schools.gov.sg       |
+|  HOD Mathematics (MA)                          | Mr Tee Junjie <br> tee_junjie@schools.gov.sg                         | 
+| HOD Science (SC)     | Mdm Shameni d/o Nanoo Nagendra Das <br> shameni_nanoo_nagendra_das@schools.gov.sg       |
 | HOD Infocomm Technology (ICT)                 | Mdm Hazel Phua <br> phua_qian_hui@schools.gov.sg                     |
 | HOD Mother Tongue (MTL)                       | Mdm Ang Chiao Tyan <br>  ang_chiao_tyan@schools.gov.sg               |
 | HOD Character and Citizenship Education (CCE) | Mdm Siti Fauziah Bte Jasman <br> siti_fauziah_jasman@schools.gov.sg  |
 | HOD Educational Support                       | Mr Mohd Norzaidi Bin Ahmad <br> mohd_norzaidi_b_ahmad@schools.gov.sg |
 | HOD Physical Education (PE) / CCA             | Mr Mohamed Nor B Mohamed Hussain <br> mohamed_nor_mohamed_hussain@schools.gov.sg        |
 | HOD Student Well-being (SWB)                  | Mrs Esther Ng <br> lee_siew_leng_a@schools.gov.sg                    |
-| HOD Special Educational Needs (SEN)           | Mr Thomas Low <br> thomas_low@schools.gov.sg                        |
-
+| HOD Special Educational Needs (SEN)           | Mr Thomas Low <br> thomas_low@schools.gov.sg                        | 
 <br>
 
 | SUBJECT HEAD (SH)            |                                                                           |
@@ -50,7 +51,6 @@ variant: markdown
 | LH English (EL)     | Mrs Rathana Ravendra <br> rathana_ravendra@schools.gov.sg       |
 | LH English (EL)     | Mrs Liu Choi Yen Agnes <br> leong_choi_yen_agnes@schools.gov.sg |
 | LH Mathematics (MA) | Mrs Serina Wee <br> phang_xue_fen_serina@schools.gov.sg           |
-| LH Science (SC)     | Mr Wong Wai Liong <br> wong_wai_liong@schools.gov.sg            |
 | LH Science (SC)     | Mr Jason Law  <br> jason_law@schools.gov.sg            | 
 | LH MT (CL)     | Ms Lua Liwen  <br> lua_li_wen@schools.gov.sg            |
 
@@ -61,9 +61,9 @@ variant: markdown
 | YH (P1 &amp; P2)   | Ms Siti Zubaidah Binte Rahmat <br> siti_zubaidah_rahmat@schools.gov.sg           | 
 | AYH (P1 &amp; P2)   | Ms Pavitra Ghopinath <br> pavitra_ghopinath@schools.gov.sg                                        |
 | YH (P3 &amp; P4)   | Mr M Anwar <br> m_anwar_my@schools.gov.sg                                       |
-| AYH (P3 &amp; P4)  | Mr Brian Nguyen <br> brian_nguyen@schools.gov.sg                      |
-| AYH (P5 &amp; P6)  | Mr Muhammad Jailani Bin Abu Talib <br> muhammad_jailani_abu_talib@schools.gov.sg |
-| AYH (P5 &amp; P6)  | Mrs Angeline Ang <br> zeng_qiufeng_angeline@schools.gov.sg                       |
+| AYH (P3 &amp; P4)  | Mdm Haslila Bte Tahir <br> haslila_tahir@schools.gov.sg                      |
+| YH (P5 &amp; P6)  | Mrs Angeline Ang <br> zeng_qiufeng_angeline@schools.gov.sg  |
+| AYH (P5 &amp; P6)  | Mr Brian Nguyen <br>  brian_nguyen@schools.gov.sg                      |
 
 <br>
 
