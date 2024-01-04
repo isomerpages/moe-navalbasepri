@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/E OPEN HOUSE/nbps-eopen house-banner 2023.png
+      background: /images/Homepage/NBPS_WEB_landingpage_01.png
       key_highlights:
         - title: About Us
           description: ""
