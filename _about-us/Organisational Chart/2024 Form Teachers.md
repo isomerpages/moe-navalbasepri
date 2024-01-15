@@ -44,9 +44,9 @@ variant: markdown
 |  P5-CO | YAP XUE LING | yap_xue_ling@schools.gov.sg | MAKHFADZAH BTE ABU BAKAR | makhfadzah_abu_bakar@schools.gov.sg | Genevieve Chong Yan Ling | genevieve_chong_yan_ling@schools.gov.sg |
 |  P5-EN | NASHITA BINTE KAMIR | nashita_kamir@schools.gov.sg | ZHANG LIJUAN | zhang_lijuan_a@moe.edu.sg | 
 |  P5-EX | 	LEONG ZHENLING, PEARLY | leong_zhenling_pearly@schools.gov.sg | MUHAMMAD HASYIM BIN MOHAMAD ISA | muhammad_hasyim_mohamad@schools.gov.sg |
-|  P5-IN | NUR FERISHA BINTE ABBAS | nur_ferisha_abbas@schools.gov.sg |CARMEN DOMINIQUE TAN JIA WEN | carmen_dominique_tan@schools.gov.sg | MUHAMMAD HAFIZH BIN ABDUL GHANI | muhammad_hafizh_abdul_ghani@schools.gov.sg |
+|  P5-IN | NUR FERISHA BINTE ABBAS | nur_ferisha_abbas@schools.gov.sg |CARMEN DOMINIQUE TAN JIA WEN | carmen_dominique_tan@schools.gov.sg |
 |  P5-PE | KAYATHRI D/O THIYAGARAJAN | kayathri_thiyagarajan@schools.gov.sg | GOH MEI JUAN JEAN | goh_mei_juan_jean@schools.gov.sg | JASON LAW | jason_law@schools.gov.sg |
-|  P5-RE |  LUM HUNG LING | lum_hung_ling@schools.gov.sg | SEAH WAN YAN MARY | seah_wan_yan_mary@schools.gov.sg | LEONG ZHENLING, PEARLY | leong_zhenling_pearly@schools.gov.sg | LEONG CHOI YEN AGNES | leong_choi_yen_agnes@schools.gov.sg |
+|  P5-RE |  LUM HUNG LING | lum_hung_ling@schools.gov.sg | LIM PEI YIING | lim_pei_yiing@schools.gov.sg | 
 | P5-SF | LEE TECK KOON ALEX | lee_teck_koon_alex@schools.gov.sg | ONN KAI FENG | onn_kai_feng@schools.gov.sg | LUA LI WEN | lua_li_wen@schools.gov.sg |
 |  P6-CO | NADIA IZZATY BINTE HAJI MOHAMED ZAIN | nadia_zain@schools.gov.sg | MAZLENNY BTE MOSRAN | mazlenny_mosran@schools.gov.sg | PHANG XUE FEN SERINA | phang_xue_fen_serina@schools.gov.sg |
 |  P6-IN | LEONG CHOI YEN AGNES | leong_choi_yen_agnes@schools.gov.sg |GAO QINGFANG | gao_qingfang@schools.gov.sg | LAL BHARWANI | lal_bharwani@schools.gov.sg |
