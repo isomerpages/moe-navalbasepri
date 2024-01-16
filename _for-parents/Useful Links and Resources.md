@@ -2,6 +2,7 @@
 title: Useful Links and Resources
 permalink: /for-parents/Useful-Links-and-Resources/
 description: ""
+variant: markdown
 ---
 ## USEFUL LINKS AND RESOURCES
 
@@ -34,9 +35,8 @@ Below are some useful links and articles for your reading.
 
 ##### REFERENCES
 
-*   NEU PC Plus Programme, access the website&nbsp;[Here](https://eservice.imda.gov.sg/das/homepage ).  
+*   DigitalAccess@Home - Subsidised &amp; Laptop/Tablets, access the website&nbsp;[Here](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home).  
 
-*   Google Chat Tutorial for Parents, download the PDF [here](/files/Google%20Chat%20Tutorial%20for%20Parents.pdf)
     
 *   NBPS Parents Gateway User Guide, download the PDF&nbsp;[here](/files/NBPS%20Parents%20Gateway%20Userguide.pdf).
 
