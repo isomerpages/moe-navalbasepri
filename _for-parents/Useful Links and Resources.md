@@ -2,6 +2,7 @@
 title: Useful Links and Resources
 permalink: /for-parents/Useful-Links-and-Resources/
 description: ""
+variant: markdown
 ---
 ## USEFUL LINKS AND RESOURCES
 
@@ -22,7 +23,12 @@ Below are some useful links and articles for your reading.
 
 ### INFOCOMM TECHNOLOGY
 
+##### ONLINE ACTIVITIES FOR LOWER PRIMARY STUDENTS TO LEARN TOUCH TYPING SKILLS
+1. NBPS Typing Club [Click here](https://navalbasepri.typingclub.com/)
+<br>**Username**: p2&nbsp;
+<br>**Password**: leave it blank 
 
+2. [Dance Mat Typing](https://www.bbc.co.uk/bitesize/articles/z3c6tfr#zn9s3qt)
 
 ##### PARENT KITS ON&nbsp;CYBER WELLNESS&nbsp;  
 
@@ -34,9 +40,6 @@ Below are some useful links and articles for your reading.
 
 ##### REFERENCES
 
-*   NEU PC Plus Programme, access the website&nbsp;[Here](https://eservice.imda.gov.sg/das/homepage ).  
-
-*   Google Chat Tutorial for Parents, download the PDF [here](/files/Google%20Chat%20Tutorial%20for%20Parents.pdf)
     
 *   NBPS Parents Gateway User Guide, download the PDF&nbsp;[here](/files/NBPS%20Parents%20Gateway%20Userguide.pdf).
 
@@ -58,10 +61,11 @@ Parents must stay logged in to receive Push Notifications
 
 ### SUPPORT ORGANISATIONS
 
-
+*   DigitalAccess@Home - Subsidised Broadband &amp; Laptop/Tablets, access the website&nbsp;[here](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home).  
+*   
 [CDAC](https://www.cdac.org.sg/)  
-[SINDA](http://www.sinda.org.sg/students/step/)  
-[MENDAKI](http://www.mendaki.org.sg/)  
+* [SINDA](http://www.sinda.org.sg/students/step/)  
+* [MENDAKI](http://www.mendaki.org.sg/)  
 
 ### OTHER USEFUL LINKS
 
@@ -71,7 +75,8 @@ Parents must stay logged in to receive Push Notifications
 [Financial Assistance Scheme (FAS)](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 
-**Follow MOE's parenting-focused Instagram account,&nbsp;@parentingwith.moesg&nbsp;for more tips and MOE resources. Scan the QR code to start following!**
+**Follow MOE's parenting-focused Instagram account,&nbsp;@parentingwith.moesg&nbsp;for more tips and MOE resources. 
+<br> Scan the QR code to start following!**
 
 <img style="width: 60%;" src="/images/MOE_IG_FRONT.jpeg" align="center">
 
