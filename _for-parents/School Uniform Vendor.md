@@ -25,3 +25,4 @@ Cash, PayNow, DBS Paylah &amp; NETs!<br>
 (<b>Note:</b> NETs Payment is available in commercial store only)
 
 <u><b>Notice on Jeep Sing Fashion Chinese New Year Closure 2024</b></u><br>
+![](/images/School%20Uniform/CNY_CLOSURE_2024.jpeg)
