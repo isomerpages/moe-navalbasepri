@@ -1,0 +1,35 @@
+collections:
+  the-navalite-programme:
+    output: true
+    order:
+      - Environmental Education.md
+      - Subjects/.keep
+      - Subjects/English.md
+      - Subjects/Mother Tongue.md
+      - Subjects/Mathematics.md
+      - Subjects/Science.md
+      - Subjects/Aesthetics.md
+      - Character Development/.keep
+      - Character Development/Character & Citizenship Education.md
+      - Character Development/Programme for Active Learning (PAL).md
+      - Character Development/Student Leadership.md
+      - Applied Learning Programme (ALP).md
+      - CCA/.keep
+      - CCA/Overview.md
+      - CCA/Boys' Brigade.md
+      - CCA/Girls Brigade.md
+      - CCA/Red Cross.md
+      - CCA/Basketball.md
+      - CCA/Football.md
+      - CCA/Floorball.md
+      - CCA/Taekwondo.md
+      - CCA/Dance Club.md
+      - CCA/Concert Band.md
+      - CCA/Art Club.md
+      - CCA/Infocomm Club.md
+      - CCA/Choir.md
+      - CCA/Drama Club.md
+      - CCA/Netball.md
+      - CCA/Outdoor Appreciation Club.md
+      - InfoComm Technology.md
+      - Overseas Cultural Immersion Programme.md
