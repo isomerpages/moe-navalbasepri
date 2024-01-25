@@ -2,6 +2,7 @@
 title: School Uniform Vendor
 permalink: /for-parents/school-uniform-vendor/
 description: ""
+variant: markdown
 ---
 ### School Uniform Vendor
 ![](/images/School%20Uniform/jeep%20sing%20fashion%20logo.PNG)
@@ -22,3 +23,6 @@ Time: 2.00pm. to 3.30pm.
 <u><b>Mode of Payment:</b></u><br>
 Cash, PayNow, DBS Paylah &amp; NETs!<br>
 (<b>Note:</b> NETs Payment is available in commercial store only)
+
+<u><b>Notice on Jeep Sing Fashion Chinese New Year Closure 2024</b></u><br>
+![](/images/School%20Uniform/CNY_CLOSURE_2024.jpeg)
