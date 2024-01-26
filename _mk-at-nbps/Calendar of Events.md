@@ -4,7 +4,7 @@ permalink: /mk-at-nbps/Calendar-of-Events/
 description: ""
 variant: markdown
 ---
-## Calendar of Events
+
 ![](/images/MK@NBPS/Slide1.JPG)
 
 ![](/images/MK@NBPS/Slide2.JPG)
