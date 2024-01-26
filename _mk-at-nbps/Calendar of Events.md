@@ -6,4 +6,10 @@ variant: markdown
 ---
 ## Calendar of Events
 ![](/images/Slide1.JPG)
-![](/images/Slide2.JPG)![](/images/Slide3.JPG)![](/images/Slide4.JPG)![](/images/Slide5.JPG)
+
+![](/images/Slide2.JPG)
+
+![](/images/Slide3.JPG)
+![](/images/Slide4.JPG)
+
+![](/images/Slide5.JPG)
