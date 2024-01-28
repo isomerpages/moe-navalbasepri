@@ -2,9 +2,9 @@ collections:
   mk-at-nbps:
     output: true
     order:
-      - MK Programme/HI Light.md
-      - MK Programme/Starlight.md
       - MK Programme/.keep
+      - MK Programme/Starlight.md
+      - MK Programme/HI Light.md
       - Announcements.md
       - Calendar of Events.md
       - MK Educators.md
