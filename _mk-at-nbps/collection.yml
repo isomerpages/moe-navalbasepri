@@ -2,10 +2,9 @@ collections:
   mk-at-nbps:
     output: true
     order:
-      - KCare @ Naval Base.md
+      - Information for Parents/.keep
       - Information for Parents/Parents Testimonial.md
       - Information for Parents/Uniform Purchase.md
-      - Information for Parents/.keep
       - Announcements.md
       - Calendar of Events.md
       - MK Educators.md
@@ -16,4 +15,5 @@ collections:
       - MK Programme/Events and Celebrations.md
       - MK Programme/Partnerships.md
       - MK Programme/Primary One Transition Programme.md
+      - KCare @ Naval Base.md
       - Contact Us.md
