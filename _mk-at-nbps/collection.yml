@@ -2,6 +2,7 @@ collections:
   mk-at-nbps:
     output: true
     order:
+      - MK Programme/Outdoors.md
       - MK Programme/.keep
       - MK Programme/Starlight.md
       - MK Programme/HI Light.md
