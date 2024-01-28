@@ -2,6 +2,7 @@ collections:
   mk-at-nbps:
     output: true
     order:
+      - Information for Parents/.keep
       - Announcements.md
       - Calendar of Events.md
       - MK Educators.md
