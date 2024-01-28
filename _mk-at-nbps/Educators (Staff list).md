@@ -8,7 +8,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Leadership and Administration</p>
+<h4>Leadership Team</h4>
 </th>
 </tr>
 <tr>
@@ -20,10 +20,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sitti Fatima Noordin</p>
+<p>Ms Sitti Fatima Noordin</p>
 <p></p>
-<p></p>
-<p>Aw Jie Min Jasmine</p>
+<p>Ms Aw Jie Min Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="sitti_fatima_noordin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sitti_fatima_noordin@schools.gov.sg</a>
@@ -31,6 +30,79 @@ variant: tiptap
 <p></p>
 <p><a href="aw_jie_min_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aw_jie_min_jasmine@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4>English Teachers </h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>K1 Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>K2 Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4>Mother Tongue Language Teachers</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
