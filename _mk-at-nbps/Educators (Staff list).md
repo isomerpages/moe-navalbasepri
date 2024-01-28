@@ -38,7 +38,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4>English Teachers </h4>
+<h4>English Teachers</h4>
 </th>
 </tr>
 <tr>
@@ -107,4 +107,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Reading.png">
+</div>
 <p></p>
