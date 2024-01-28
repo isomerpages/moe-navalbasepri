@@ -45,10 +45,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>K1 Team</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
+<p>Ms Koh Qi En</p>
+<p>Ms Nur Amira Shalini</p>
+<p>Ms Nur Hidayah Aziz</p>
+<p>Ms Nur Jaina Tiara</p>
 <p></p>
 </td>
 </tr>
@@ -56,10 +57,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>K2 Team</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
+<p>Ms Azura Abu</p>
+<p>Ms Lim Jing Yi</p>
+<p>Ms Lin Peishi</p>
+<p>Ms Noraida Ariff</p>
+<p>Ms Suhana Abdul Halim</p>
 <p></p>
 </td>
 </tr>
@@ -76,33 +79,30 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Chinese Language</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Mdm Wang Qichun (Senior Teacher)</p>
+<p>Mdm Chen Baohua</p>
+<p>Mdm Chia Xin Hui</p>
+<p>Mdm Fang Fang</p>
+<p>Mdm Sun Liyang</p>
+<p>Mdm Zhang Huaying</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Malay Language</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Cikgu Nadhirah Rahmat</p>
+<p>Cikgu Nur Fahriyanni Sumarno</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Tamil Language</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Aasiriyaa Nishantha Kesavarajan</p>
 </td>
 </tr>
 </tbody>
