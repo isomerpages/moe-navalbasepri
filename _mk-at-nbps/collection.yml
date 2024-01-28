@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Announcements.md
-      - Calendar of Events.md
       - MK Educators.md
       - MK Programme/.keep
       - MK Programme/Starlight.md
