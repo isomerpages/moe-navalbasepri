@@ -1,7 +1,9 @@
 ---
-title: Uniforms Purchase
-permalink: /mk-at-nbps/Uniforms-Purchase/
+title: Uniform Purchase
+permalink: /mk-at-nbps/uniforms-purchase/
 description: ""
+third_nav_title: Information for Parents
+variant: tiptap
 ---
 ## Uniforms Purchase
 
@@ -43,7 +45,7 @@ description: ""
 
 *   Available size: XS – 5XL, additional charges are applicable for odd sizes (See Annex A for measurements)
 
-<img style="width: 20%;" src="/images/uniform_purchase.png" align = "left" />  **SALES CHANNEL**
+<img style="width: 20%;" src="/images/uniform_purchase.png" align="left">  **SALES CHANNEL**
 
 <br>
 

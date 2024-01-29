@@ -1,7 +1,8 @@
 ---
-title: Contact Us
-permalink: /mk-at-nbps/Contact-Us/
+title: Connect with Us
+permalink: /mk-at-nbps/connect/
 description: ""
+variant: tiptap
 ---
 ## Contact Us
 
