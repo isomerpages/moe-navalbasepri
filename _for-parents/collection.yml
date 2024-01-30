@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parent Briefing Slides.md
       - P1 orientation for 2024 students.md
       - After School Care.md
       - DigitalAccess@Home.md
