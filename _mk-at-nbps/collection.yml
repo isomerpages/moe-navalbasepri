@@ -2,7 +2,7 @@ collections:
   mk-at-nbps:
     output: true
     order:
-      - Announcements.md
+      - Open House 2024.md
       - MK Educators.md
       - MK Programme/.keep
       - MK Programme/Starlight.md
