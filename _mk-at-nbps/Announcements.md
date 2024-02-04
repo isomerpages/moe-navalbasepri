@@ -12,7 +12,4 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/MK_NB_Open_House_2024_Flyer__1_.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/MK_NB_Open_House_2024_Flyer.png">
-</div>
 <p></p>
