@@ -34,6 +34,33 @@ description: ""
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4 Parent Briefing Slide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parent Briefing Slides/2024/2024_P4_parents_briefing_slides_for_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 Parent Briefing Slide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parent Briefing Slides/2024/2024_P5_parents_briefing_slides_for_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 Parent Briefing Slide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parent Briefing Slides/2024/P6parentsbriefingslides_2024_FT_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
