@@ -12,7 +12,7 @@ description: ""
 <p>P1 Parent Briefing Slide</p>
 </td>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Parent Briefing Slides/2024/2024_P1_parents_briefing_slides_for_website_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<p><a href="/files/Parent Briefing Slides/2024/2024_p1_parents_briefing_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 </th>
 </tr>
@@ -21,7 +21,7 @@ description: ""
 <p>P2 Parent Briefing Slide</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parent Briefing Slides/2024/2024_P2_parentsbriefing_slides_for_website_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<p><a href="/files/Parent Briefing Slides/2024/2024_p2_parents_briefing_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -30,7 +30,7 @@ description: ""
 <p>P3 Parent Briefing Slide</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parent Briefing Slides/2024/2024_P3_parents_briefing_slides_for_website_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<p><a href="/files/Parent Briefing Slides/2024/2024_p3_parents_briefing_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -39,7 +39,7 @@ description: ""
 <p>P4 Parent Briefing Slide</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parent Briefing Slides/2024/2024_P4_parents_briefing_slides_for_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<p><a href="/files/Parent Briefing Slides/2024/2024_p4_parents_briefing_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ description: ""
 <p>P5 Parent Briefing Slide</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parent Briefing Slides/2024/2024_P5_parents_briefing_slides_for_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<p><a href="/files/Parent Briefing Slides/2024/2024_p5_parents_briefing_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -57,7 +57,7 @@ description: ""
 <p>P6 Parent Briefing Slide</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parent Briefing Slides/2024/P6parentsbriefingslides_2024_FT_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<p><a href="/files/Parent Briefing Slides/2024/2024_p6_parents_briefing_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
