@@ -12,14 +12,12 @@ Below are some useful links and articles for your reading.
 
 ### PARENTS' BRIEFING
 
-[P1 Parents' Briefing 2023](/files/P1%20Parents%20Briefing%20slides%202023-compressed.pdf)
-<br> [P2 Parents' Briefing 2023](/files/P2%20Parents%20Briefing%20slides%202023-compressed.pdf)
-<br> [P3 Parents' FT Briefing 2023](/files/P3%20Parents%20Briefing%20FT%20slides%202023-compressed.pdf)
-<br> [P3 Parents' Main Briefing 2023](/files/P3%20Parents%20Main%20Briefing%20slides%202023-compressed.pdf)
-<br> [P4 Parents' Briefing 2023](/files/P4%20Parents%20Briefing%20slides%202023-compressed.pdf)
-<br> [P5 Parents' Briefing 2023](/files/P5%20Parents%20Briefing%20slides%202023-compressed.pdf)
-<br> [P6 Parents' Briefing 2023](/files/P6%20Parents%20Briefing%20slides%202023-compressed.pdf)
-<br> [LSP Parents' Briefing 2023](/files/LSP%20Parent%20Briefing%20Slides%202023%20-%20for%20Website.pdf)
+[P1 Parents' Briefing 2024](/files/Parent%20Briefing%20Slides/2024/2024_p1_parents_briefing_slides.pdf)<br>
+[P2 Parents' Briefing 2024](/files/Parent%20Briefing%20Slides/2024/2024_p2_parents_briefing_slides.pdf)<br>
+[P3 Parents' Briefing 2024](/files/Parent%20Briefing%20Slides/2024/2024_p3_parents_briefing_slides.pdf)<br>
+[P4 Parents' Briefing 2024](/files/Parent%20Briefing%20Slides/2024/2024_p4_parents_briefing_slides.pdf)<br>
+[P5 Parents' Briefing 2024](/files/Parent%20Briefing%20Slides/2024/2024_p5_parents_briefing_slides.pdf)<br>
+[P6 Parents' Briefing 2024](/files/Parent%20Briefing%20Slides/2024/2024_p6_parents_briefing_slides.pdf)
 
 ### INFOCOMM TECHNOLOGY
 
