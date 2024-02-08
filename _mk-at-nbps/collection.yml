@@ -2,19 +2,17 @@ collections:
   mk-at-nbps:
     output: true
     order:
-      - Announcements.md
+      - Open House 2024.md
       - MK Educators.md
       - MK Programme/.keep
       - MK Programme/Starlight.md
       - MK Programme/HI Light.md
       - MK Programme/Outdoors.md
       - MK Programme/Events and Celebrations.md
-      - MK Programme/Partnerships.md
+      - MK Programme/Partnership.md
       - MK Programme/Primary One Transition Programme.md
       - KCare.md
       - Information for Parents/.keep
       - Information for Parents/Calendar of Events.md
       - Information for Parents/Uniform Purchase.md
-      - Information for Parents/Parents Testimonial.md
-      - Information for Parents/Parent Support Group.md
       - Connect with Us.md
