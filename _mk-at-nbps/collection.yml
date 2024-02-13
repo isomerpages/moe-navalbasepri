@@ -2,6 +2,7 @@ collections:
   mk-at-nbps:
     output: true
     order:
+      - Open House 2024/.keep
       - Open House Information.md
       - Open House 2024.md
       - MK Educators.md
