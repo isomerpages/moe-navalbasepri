@@ -3,6 +3,7 @@ title: Open House 2024
 permalink: /mk-at-nbps/openhouse2024/
 description: ""
 variant: tiptap
+third_nav_title: Open House 2024
 ---
 <h4>🌈<a href="https://go.gov.sg/mkoh2024" rel="noopener noreferrer nofollow" target="_blank">Sign up for our Open House!</a></h4>
 <div class="isomer-image-wrapper">

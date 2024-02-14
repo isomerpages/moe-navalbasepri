@@ -2,12 +2,16 @@ collections:
   mk-at-nbps:
     output: true
     order:
-      - Open House 2024.md
+      - Open House 2024/.keep
+      - Open House 2024/Open House 2024.md
+      - Open House 2024/A day at our MK.md
       - MK Educators.md
       - MK Programme/.keep
       - MK Programme/Starlight.md
       - MK Programme/HI Light.md
       - MK Programme/Outdoors.md
+      - MK Programme/WoW (Weeks of Wonder).md
+      - MK Programme/Learning Journeys.md
       - MK Programme/Events and Celebrations.md
       - MK Programme/Partnership.md
       - MK Programme/Primary One Transition Programme.md

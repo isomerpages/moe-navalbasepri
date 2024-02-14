@@ -109,6 +109,6 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Storybook.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Staff_Photo_2024.png">
 </div>
 <p></p>
