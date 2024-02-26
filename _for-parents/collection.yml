@@ -2,12 +2,12 @@ collections:
   for-parents:
     output: true
     order:
-      - Positive Parenting Programme (Triple P).md
       - P1 orientation for 2024 students.md
       - After School Care.md
       - DigitalAccess@Home.md
       - E Open House.md
       - Group Personal Accident (GPA) Insurance for Students.md
+      - Positive Parenting Programme (Triple P).md
       - PSLE Information.md
       - MOE Sexuality Education.md
       - Parent Support Group.md
