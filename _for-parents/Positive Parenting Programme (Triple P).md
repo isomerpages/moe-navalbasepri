@@ -30,6 +30,6 @@ learn more about positive parenting.</p>
 <p><strong>Triple P Seminar Schedule 2024</strong>
 </p>
 <p></p>
-<p>Parents can sign up their interest for the Triple P seminar via <a href="https://bit.ly/Fam4Life" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/Fam4Life </a>
+<p>Parents can sign up their interest for the Triple P seminar via <a href="https://bit.ly/Fam4Life" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/Fam4Life</a>
 </p>
 <p></p>
