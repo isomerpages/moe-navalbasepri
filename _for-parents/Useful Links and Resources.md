@@ -17,7 +17,8 @@ Below are some useful links and articles for your reading.
 [P3 Parents' Briefing 2024](/files/Parent%20Briefing%20Slides/2024/2024_p3_parents_briefing_slides.pdf)<br>
 [P4 Parents' Briefing 2024](/files/Parent%20Briefing%20Slides/2024/2024_p4_parents_briefing_slides.pdf)<br>
 [P5 Parents' Briefing 2024](/files/Parent%20Briefing%20Slides/2024/2024_p5_parents_briefing_slides.pdf)<br>
-[P6 Parents' Briefing 2024](/files/Parent%20Briefing%20Slides/2024/2024_p6_parents_briefing_slides.pdf)
+[P6 Parents' Briefing 2024](/files/Parent%20Briefing%20Slides/2024/2024_p6_parents_briefing_slides.pdf)<br>
+[LSP Slides 2024](/files/Useful%20Links%20&amp;%20Resources/2024/LSP_Parent_Briefing_Slides_2024.pdf)
 
 ### INFOCOMM TECHNOLOGY
 
