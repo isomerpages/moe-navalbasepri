@@ -2,6 +2,7 @@ collections:
   mk-at-nbps:
     output: true
     order:
+      - A Day at Our MK/.keep
       - A Day at Our MK.md
       - MK Educators.md
       - MK Programme/.keep
