@@ -2,16 +2,16 @@ collections:
   mk-at-nbps:
     output: true
     order:
-      - Open House 2024.md
       - A Day at Our MK.md
-      - MK Educators.md
       - MK Programme/.keep
       - MK Programme/MK Programme.md
       - MK Programme/MK Curriculum.md
       - MK Programme/Events and Celebrations.md
       - KCare.md
-      - Information for Parents/Fees and Financial Assistance.md
       - Information for Parents/.keep
+      - Information for Parents/Fees and Financial Assistance.md
       - Information for Parents/Calendar of Events.md
       - Information for Parents/Uniform Purchase.md
+      - Open House 2024.md
+      - MK Educators.md
       - Connect with Us.md
