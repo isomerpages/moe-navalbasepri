@@ -3,8 +3,10 @@ title: Connect with Us
 permalink: /mk-at-nbps/connect/
 description: ""
 variant: tiptap
+third_nav_title: Connect with Us
 ---
 <blockquote>
+<h4><strong>MK@ Naval Base accepts enrolment all-year-round. Contact us to indicate your interest to enrol or be placed on a waitlist!</strong></h4>
 <p>☎️Telephone:&nbsp;62570443</p>
 <p>🖥️Email:&nbsp;mk_navalbase@moe.edu.sg</p>
 <p>📷Instagram: @moekindergarten_navalbase</p>

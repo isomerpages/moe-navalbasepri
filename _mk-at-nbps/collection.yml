@@ -2,17 +2,19 @@ collections:
   mk-at-nbps:
     output: true
     order:
-      - MK @ Naval Base/Open House 2024.md
-      - MK @ Naval Base/A Day at Our MK.md
-      - MK @ Naval Base/.keep
+      - Our Happenings/Open House 2024.md
+      - Our Happenings/A Day at Our MK.md
+      - Our Happenings/.keep
       - MK Educators.md
       - MK Programme/.keep
       - MK Programme/MK Programme.md
       - MK Programme/MK Curriculum.md
       - MK Programme/Events and Celebrations.md
       - KCare.md
-      - Information for Parents/Fees and Financial Assistance.md
+      - Connect with Us/.keep
+      - Connect with Us/Partnered Early Years Centres.md
+      - Connect with Us/Connect with Us.md
       - Information for Parents/.keep
+      - Information for Parents/Fees and Financial Assistance.md
       - Information for Parents/Calendar of Events.md
       - Information for Parents/Uniform Purchase.md
-      - Connect with Us.md
