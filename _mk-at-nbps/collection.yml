@@ -2,6 +2,7 @@ collections:
   mk-at-nbps:
     output: true
     order:
+      - MK @ Naval Base/.keep
       - A Day at Our MK.md
       - Open House 2024/.keep
       - Open House 2024/Open House 2024.md
