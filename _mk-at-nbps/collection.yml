@@ -2,9 +2,9 @@ collections:
   mk-at-nbps:
     output: true
     order:
-      - Our Happenings/Open House 2024.md
-      - Our Happenings/A Day at Our MK.md
       - Our Happenings/.keep
+      - Our Happenings/A Day at Our MK.md
+      - Our Happenings/Open House 2024.md
       - MK Educators.md
       - MK Programme/.keep
       - MK Programme/MK Programme.md
