@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Happenings/.keep
-      - A Day at Our MK.md
       - MK Educators.md
       - MK Programme/.keep
       - MK Programme/MK Programme.md
