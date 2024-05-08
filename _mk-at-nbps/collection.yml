@@ -2,6 +2,7 @@ collections:
   mk-at-nbps:
     output: true
     order:
+      - Connect with Us/Connect with Us.md
       - Connect with Us/.keep
       - A Day at Our MK.md
       - MK Programme/.keep
