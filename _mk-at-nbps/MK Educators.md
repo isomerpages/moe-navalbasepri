@@ -4,24 +4,29 @@ permalink: /mk-at-nbps/mk-educators/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Staff_Photo_2024.png">
+</div>
 <h4>Leadership Team</h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Centre Head</p>
-<p></p>
-<p></p>
 <p>Level Head</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sitti Fatima Noordin</p>
-<p></p>
 <p>Ms Aw Jie Min Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -34,7 +39,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -46,6 +56,7 @@ variant: tiptap
 <p>K1 Team</p>
 </td>
 <td rowspan="1" colspan="2">
+<p>Ms Gladys Yong</p>
 <p>Ms Koh Qi En</p>
 <p>Ms Nur Amira Shalini</p>
 <p>Ms Nur Hidayah Aziz</p>
@@ -59,6 +70,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Ms Azura Abu</p>
+<p>Ms Chen Liting Lydia</p>
+<p>Ms Chia Jia Min krystal</p>
 <p>Ms Lim Jing Yi</p>
 <p>Ms Lin Peishi</p>
 <p>Ms Noraida Ariff</p>
@@ -68,7 +81,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -86,6 +104,7 @@ variant: tiptap
 <p>Mdm Fang Fang</p>
 <p>Mdm Sun Liyang</p>
 <p>Mdm Zhang Huaying</p>
+<p>Mdm Ye Mei</p>
 </td>
 </tr>
 <tr>
@@ -102,13 +121,10 @@ variant: tiptap
 <p>Tamil Language</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Aasiriyaa Nishantha Kesavarajan</p>
+<p>Aasiriye Nishantha Kesavarajan</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Staff_Photo_2024.png">
-</div>
 <p></p>
