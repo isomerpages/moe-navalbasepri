@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Happenings
 ---
+<h4>For a strong start, MK @ Naval Base work closely with Naval Base Primary School! We celebrate some events together and our children also experience what it's like being Primary One for a smooth transition to Primary School!</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -12,6 +13,45 @@ third_nav_title: Our Happenings
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Having conversations with our Principal, Mrs Sita Singh!</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_K2_Transition_17_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>International Friendship Day</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_IFD_4_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Navalites Discovery Day</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Navalites_Discovery_Day.jpg">
+</div>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Warming up to PE!</p>
@@ -22,7 +62,7 @@ third_nav_title: Our Happenings
 <th rowspan="1" colspan="1">
 <p>Experiencing Lessons!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_K2_Transition_4_.jpg">
+<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/2023_K2_Transition_4_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -31,28 +71,6 @@ third_nav_title: Our Happenings
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_K2_Transition_21_.jpg">
 </div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
