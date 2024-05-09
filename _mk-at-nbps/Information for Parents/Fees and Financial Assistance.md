@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Information for Parents
 ---
-<h2><strong>Fees</strong></h2>
+<h3><strong>Fees</strong></h3>
 <p><strong>The monthly fee for MK in 2024 is:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -38,7 +38,6 @@ more about <a href="https://www.navalbasepri.moe.edu.sg/mk-at-nbps/kcare-naval-b
 <tr></tr>
 </tbody>
 </table>
-<p></p>
 <h3><strong>Financial Assistance</strong></h3>
 <p>If your child is a Singapore Citizen, they may qualify for financial assistance
 under the <a href="https://www.ecda.gov.sg/parents/subsidies-financial-assistance#KIFAS" rel="noopener noreferrer nofollow" target="_blank">Kindergarten Fee Assistance Scheme (KiFAS)</a>.
