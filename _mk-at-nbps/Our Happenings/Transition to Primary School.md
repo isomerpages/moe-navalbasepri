@@ -29,7 +29,7 @@ third_nav_title: Our Happenings
 <p><strong>Having conversations with our Principal, Mrs Sita Singh!</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_K2_Transition_17_.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2023_K2_Transition_17_.jpg">
 </div>
 </td>
 </tr>
@@ -42,13 +42,17 @@ third_nav_title: Our Happenings
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Chinese New Year</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 79%;" height="auto" width="100%" alt="" src="/images/2020_CNY.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Navalites Discovery Day</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Navalites_Discovery_Day.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2023_Navalites_Discovery_Day.jpg">
 </div>
 </td>
 </tr>
@@ -56,17 +60,17 @@ third_nav_title: Our Happenings
 <th rowspan="1" colspan="1">
 <p>Warming up to PE!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_K2_Transition.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2023_K2_Transition.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p>Experiencing Lessons!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/2023_K2_Transition_4_.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2023_K2_Transition_4_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Buying food at the canteen!</p>
+<p>Buying canteen food!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_K2_Transition_21_.jpg">
 </div>
