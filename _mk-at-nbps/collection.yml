@@ -2,10 +2,10 @@ collections:
   mk-at-nbps:
     output: true
     order:
-      - Our Happenings/Transition to Primary School.md
-      - Our Happenings/Calendar of Events.md
       - Our Happenings/.keep
       - Our Happenings/A Day at Our MK.md
+      - Our Happenings/Calendar of Events.md
+      - Our Happenings/Transition to Primary School.md
       - Our Happenings/Open House 2024.md
       - MK Educators.md
       - MK Programme/.keep
