@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Happenings
 ---
-<h4>For a strong start, MK @ Naval Base work closely with Naval Base Primary School! We celebrate some events together and our children also experience what it's like being Primary One for a smooth transition to Primary School!</h4>
+<h4>For a strong start, MK @ Naval Base work closely with Naval Base Primary School. We celebrate some events together and our children also experience what it's like being Primary One for a smooth transition to Primary School.</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -14,19 +14,14 @@ third_nav_title: Our Happenings
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p><strong>Here is a sneakpeak of some of the experiences our children have done!</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Having conversations with our Principal, Mrs Sita Singh!</strong>
+<p><strong>Meeting our Principal, Mrs Sita Singh!</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2023_K2_Transition_17_.jpg">
