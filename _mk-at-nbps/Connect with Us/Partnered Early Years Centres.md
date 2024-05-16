@@ -5,7 +5,32 @@ variant: tiptap
 description: ""
 third_nav_title: Connect with Us
 ---
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>MK@Naval Base partners with two Early Years Centres. There is also a one-day orientation experience at our school for a smooth transition to Kindergarten!</strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_6096028696361158750_y.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_6096028696361158730_y.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -13,6 +38,17 @@ third_nav_title: Connect with Us
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="3">
 <h3><strong>PCF Sparkletots @ Nee Soon South Blk 852</strong></h3>
@@ -42,7 +78,7 @@ third_nav_title: Connect with Us
 </p>
 </li>
 <li>
-<p><strong>Contact Number: +65 6852 0576 </strong>
+<p><strong>Contact Number: +65 6852 0576</strong>
 </p>
 </li>
 <li>

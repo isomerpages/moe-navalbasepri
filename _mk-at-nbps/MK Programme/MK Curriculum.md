@@ -15,4 +15,5 @@ third_nav_title: MK Programme
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Slide5.PNG">
 </div>
+<p>For more information, you can visit the main <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment" rel="noopener noreferrer nofollow" target="_blank">MOE MK Curriculum page</a>.</p>
 <p></p>
