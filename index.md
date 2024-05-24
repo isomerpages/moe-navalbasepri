@@ -14,7 +14,7 @@ sections:
           url: https://www.navalbasepri.moe.edu.sg/about-us/Vision-Mission-Values/
         - title: MK@NBPS
           description: ""
-          url: https://www.navalbasepri.moe.edu.sg/mk-at-nbps/Announcements/
+          url: mk-at-nbps/welcomevideo/
   - resources:
       title: Naval Base Primary School
       subtitle: Welcome to
