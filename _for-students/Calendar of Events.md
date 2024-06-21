@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>CALENDAR OF EVENTS</h2>
-<h3>YEAR 2023 TERM 4</h3>
+<h3>YEAR 2024 TERM 3</h3>
 <p><a href="/files/School Calendar/2024/Term 3/Student_Calendar_Term_3_2024v4.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here to Download</a>
 </p>
 <p></p>
