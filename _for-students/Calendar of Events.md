@@ -6,12 +6,14 @@ variant: tiptap
 ---
 <h2>CALENDAR OF EVENTS</h2>
 <h3>YEAR 2023 TERM 4</h3>
-<p><a href="/files/School Calendar/2024/Term 3/Student_Calendar_Term_3_2024v4.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here to download</a>
+<p><a href="/files/School Calendar/2024/Term 3/Student_Calendar_Term_3_2024v4.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here to Download</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:1000px;height:1000px;" height="auto" width="100%" src="/images/Calendar%20of%20Events/2023/Term%204/term%204%20pic%201.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="School Calendar 2024 Term 3 Page 1" src="/images/FOR STUDENTS/Calendar of Events/NBPS_Sch_Cal_2024_Term3a.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:1000px;height:1000px;" height="auto" width="100%" src="/images/Calendar%20of%20Events/2023/Term%204/term%204%20pic%202.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="School Calendar 2024 Term 3 Page 2" src="/images/FOR STUDENTS/Calendar of Events/NBPS_Sch_Cal_2024_Term3b.jpg">
 </div>
 <p></p>
