@@ -3,6 +3,7 @@ title: English
 permalink: /the-navalite-programme/Subjects/English/
 description: ""
 third_nav_title: Subjects
+variant: markdown
 ---
 ## English
 
@@ -35,7 +36,6 @@ Primary 3 students learn about poetry and recite poems while Primary 4 students 
 
 ![](/images/English/English%201.png)
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/akFj-VIhHOI" height="315" width="560"></iframe>
 
 #### READING UNDER THE STARS
 
