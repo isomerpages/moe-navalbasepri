@@ -3,10 +3,9 @@ title: Student Leadership
 permalink: /the-navalite-programme/Character-Development/Student-Leadership/
 description: ""
 third_nav_title: Character Development
+variant: markdown
 ---
 ## Student Leadership
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nEtJxs0yvz4" height="315" width="560"></iframe>
 
 ##### OUR PHILOSOPHY
 
