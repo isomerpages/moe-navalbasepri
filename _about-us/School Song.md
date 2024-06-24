@@ -2,6 +2,7 @@
 title: School Song
 permalink: /about-us/School-Song/
 description: ""
+variant: markdown
 ---
 ## School Song
 
@@ -24,4 +25,4 @@ We'll do our best for out Nation
 **Lyrics by : Mrs Wee Bian Hua** <br>
 **Score by : Mdm Ho Kim Geok**
 
-br&gt;<img style="width:400px;height:520px;" src="/images/school%20song.jpeg">
+<img style="width:400px;height:520px;" src="/images/school%20song.jpeg">
