@@ -3,6 +3,7 @@ title: Mother Tongue
 permalink: /the-navalite-programme/Subjects/Mother-Tongue/
 description: ""
 third_nav_title: Subjects
+variant: markdown
 ---
 ### OUR APPROACH
 
@@ -52,7 +53,6 @@ Navalites immerse in two fun-filled weeks of school with an array of cultural ac
 
 Primary 4 Navalites also experience the **P4 Mother Tongue Cultural Camp** during these two weeks. In this day camp, Navalites take part in the Amazing Race in multi-racial groups to complete various cultural and language tasks as a team. P4 Navalites also attend a two-hour workshop to develop their appreciation for&nbsp; their&nbsp; Mother Tongue language and culture.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Fb-jIhCexm0" height="315" width="560"></iframe>
 
 **<u>Festival Celebrations (Chinese New Year, Hari Raya Aidilfitri, Deepavali)</u>**
 

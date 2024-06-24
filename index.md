@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/NBPS_Banner2024_ForWeb.png
+      background: /images/Homepage/nbps e-banner_generic.png
       key_highlights:
         - title: About Us
           description: ""

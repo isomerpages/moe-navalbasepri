@@ -3,12 +3,11 @@ title: Overview
 permalink: /the-navalite-programme/cca/permalink/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
 <img src="/images/Picture2.jpg" style="width:420px;height:300px;">
 
 In Naval Base Primary, CCA is based on the philosophy and principles that are aligned to the school’s mission and vision. CCA is an important and integral part of a Navalite’s education.
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/VH82By6zbT8" height="315" width="560"></iframe>
 
 ### PHILOSOPHY
 * Every Navalite will be a confident person and a self-directed learner with leadership skills.

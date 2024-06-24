@@ -3,10 +3,9 @@ title: Programme for Active Learning (PAL)
 permalink: /the-navalite-programme/character-development/permalink/
 description: ""
 third_nav_title: Character Development
+variant: markdown
 ---
 ## Programme for Active Learning (PAL)
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vTmh1PpZ36M" height="315" width="560"></iframe>
 
 In PAL, lower primary Navalites experience fun and varied activities related to the domains of Outdoor Education, Visual Arts, Performing Arts, and Sports &amp; Games. It offers a balance between the academic and non-academic areas in the school, and facilitates holistic and well-rounded development of the pupils. Students learn socio-emotional competencies such as self and social awareness, self and relationship management and responsible decision making.
 
