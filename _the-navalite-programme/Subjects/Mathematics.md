@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /the-navalite-programme/Subjects/Mathematics/
 description: ""
 third_nav_title: Subjects
+variant: markdown
 ---
 ## Mathematics
 
@@ -14,7 +15,7 @@ We believe that every Navalite can excel in the learning and application of Math
 ### KEY PROGRAMMES
 --------------
 
-<u>**Concrete-Pictorial-Abstract Approach (CPA Approach)**</u>
+**<u>Concrete-Pictorial-Abstract Approach (CPA Approach)</u>**
 
 Across all levels, students have access to a wide variety of <span style="color:red">mathematical</span> manipulatives that are used in class to introduce mathematical concepts in a concrete and tangible manner. Students then progress on to pictorial representations before learning to solve abstract mathematical equations and problems.
 
@@ -90,7 +91,7 @@ Math Olympiad workshops are offered to P5 and P6 students who have demonstrated 
 |      |      | 
 
 
-<u>**Learning Support For Mathematics (LSM)**</u>
+**<u>Learning Support For Mathematics (LSM)</u>**
 
 Identified P1 to P4 students to enrol in the LSM programme to develop basic numeracy skills and confidence in Mathematics. Lessons are conducted in small groups for students to receive more individual attention and support from specially trained teachers.
 
