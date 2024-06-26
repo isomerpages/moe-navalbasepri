@@ -3,6 +3,7 @@ title: Science
 permalink: /the-navalite-programme/Subjects/Science/
 description: ""
 third_nav_title: Subjects
+variant: markdown
 ---
 ## Science
 ---
@@ -29,9 +30,9 @@ From Data Loggers to Science Toys to Individual Science Kits, Naval Base Primary
 | --- | ---- | ---- | 
 |   |  | | 
 
-###### **<U>LEARNING BEYOND THE CLASSROOM</U>**
+###### **<u>LEARNING BEYOND THE CLASSROOM</u>**
 
-Primary 3 to 6 students go on learning journeys, such as tto the Singapore Zoo and the Science Centre where they engage in hands-on experiences with the vast resources from both organisations. 
+Primary 3 to 6 students go on learning journeys, such as to the Singapore Zoo and the Science Centre where they engage in hands-on experiences with the vast resources from both organisations.&nbsp;
 
 P5 students also have the opportunity to attend a Terrarium Workshop to understand and apply the concepts of the Water Cycle. Beyond external organisations, Navalites also get to connect with their surroundings through our Outdoor Education Learning area and Edible garden to cultivate their love and curiosity for nature and the environment.
 
