@@ -2,6 +2,7 @@
 title: E Open House
 permalink: /for-parents/eopenhouse/
 description: ""
+variant: markdown
 ---
 ## E-Open House
 
@@ -34,7 +35,7 @@ description: ""
 
 | ![](/images/E%20OPEN%20HOUSE/alp_2023.png) | ![](/images/E%20OPEN%20HOUSE/llp_2023.png) | 
 | -------- | -------- | 
-|  <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/ALP/">Applied Learning Programme</a><br> <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/">Navalites' ALP Games</a> | <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/LLP/">Learning for Life Programme</a>    | 
+|  <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/ALP/">Applied Learning Programme</a><br> <a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/">Navalites' ALP Games</a> | <a href="https://navalbasepri.moe.edu.sg/learning-for-life-programme-llp/">Learning for Life Programme</a>    | 
 
 
 
