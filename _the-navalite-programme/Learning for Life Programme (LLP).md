@@ -17,7 +17,17 @@ exposed to a wide variety of outdoor experiences and sports activities
 such as mini tennis and football. Highlights include the annual Primary
 4 and 5 Outdoor Adventure Camps.</p>
 <p></p>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/LLP4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/LLP_1.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/LLP3.jpg">
+</div>
 <p></p>
