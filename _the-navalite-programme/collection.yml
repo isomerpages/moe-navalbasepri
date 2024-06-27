@@ -2,7 +2,6 @@ collections:
   the-navalite-programme:
     output: true
     order:
-      - Learning for Life Programme (LLP).md
       - Environmental Education.md
       - Subjects/.keep
       - Subjects/English.md
@@ -15,6 +14,7 @@ collections:
       - Character Development/Programme for Active Learning (PAL).md
       - Character Development/Student Leadership.md
       - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md
       - CCA/.keep
       - CCA/Overview.md
       - CCA/Boys' Brigade.md
