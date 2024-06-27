@@ -24,7 +24,8 @@ variant: tiptap
 <p>Student Learning Space (SLS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://vle.learning.moe.edu.sg/login</p>
+<p><a href="https://vle.learning.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +42,7 @@ variant: tiptap
 <p>Mother Tongue Resources</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ezhishi.net/Contents/" rel="noopener noreferrer nofollow" target="_blank">eZhisi （知识网）</a> 
+<p><a href="https://www.ezhishi.net/Contents/" rel="noopener noreferrer nofollow" target="_blank">eZhisi （知识网）</a>
 </p>
 </td>
 </tr>
@@ -50,7 +51,8 @@ variant: tiptap
 <p>Google Classroom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://edu.google.com/workspace-for-education/classroom/</p>
+<p><a href="https://edu.google.com/workspace-for-education/classroom/" rel="noopener noreferrer nofollow" target="_blank">https://edu.google.com/workspace-for-education/classroom/</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +60,8 @@ variant: tiptap
 <p>NDD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://sites.google.com/moe.edu.sg/ndd2023students</p>
+<p><a href="https://sites.google.com/moe.edu.sg/ndd2023students" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/ndd2023students</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +87,8 @@ variant: tiptap
 <p>SchoolBag</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://www.schoolbag.edu.sg/</p>
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/https://www.schoolbag.edu.sg/</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +96,8 @@ variant: tiptap
 <p>McOnline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>www.mconline.sg</p>
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/</a>
+</p>
 </td>
 </tr>
 </tbody>
