@@ -13,7 +13,7 @@ be found in the ‘<a href="https://www.navalbasepri.moe.edu.sg/about-us/organis
 page.</p>
 <p><strong>3. I wish to contact the bookshop / uniform supplier / school bus vendor? Where can I get their contact&nbsp;information?</strong>
 </p>
-<p>You may look for their contact information via the “<a href="https://www.navalbasepri.moe.edu.sg/for-parents/" rel="noopener noreferrer nofollow" target="_blank">For Parents</a>”
+<p>You may look for their contact information via the “<a href="https://www.navalbasepri.moe.edu.sg/for-parents/school-bus-vendor/" rel="noopener noreferrer nofollow" target="_blank">For Parents</a>”
 tab on the school website. Our school’s contact&nbsp;information and operating
 hours can also be found on the same page.</p>
 <p><strong>4. I wish to share some feedback with the school. Who should I contact?</strong>
