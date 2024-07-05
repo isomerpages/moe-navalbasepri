@@ -16,11 +16,6 @@ variant: tiptap
 <p></p>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <div class="iframe-wrapper">
@@ -34,23 +29,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:450px;height:200px;" height="auto" width="100%" src="/images/E%20OPEN%20HOUSE/welcome%20to%20e%20open%20house.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:900px;height:200px;" height="auto" width="100%" src="/images/E%20OPEN%20HOUSE/virtual%20school%20tour%20banner.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://4d.silvrcraft.com/nbpsvst/"><img style="width:900px;height:200px;" height="auto" width="100%" src="/images/E%20OPEN%20HOUSE/virtual%20school%20tour%20banner.png"></a>
 </td>
 </tr>
 </tbody>
