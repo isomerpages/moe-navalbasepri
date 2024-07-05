@@ -5,10 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>E-Open House</h2>
-<h4><u>Principal's Address</u></h4>
-<div class="iframe-wrapper">
-<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/csCJ_jTyDT0"></iframe>
-</div>
+<h4>Welcome to Naval Base Primary School</h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
