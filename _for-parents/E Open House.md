@@ -286,7 +286,7 @@ explore the virtual tour of NBPS.
 <p><strong>1. When and how can I register my child for Primary 1?</strong>
 </p>
 <p>The registration for Singapore Citizen and Permanent Resident children
-will tentatively take place from end June to August 2023. Please visit
+will tentatively take place from end June to August each year. Please visit
 the <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">MOE Primary 1 Registration Website</a> for
 the latest updates and&nbsp; announcements. You may also join the mailing
 list to receive an email alert when registration information updates are
