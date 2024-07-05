@@ -5,10 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>E-Open House</h2>
-<h4><u>Principal's Address</u></h4>
-<div class="iframe-wrapper">
-<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/csCJ_jTyDT0"></iframe>
-</div>
+<h4>Welcome to Naval Base Primary School</h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -18,11 +15,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
@@ -37,23 +29,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:450px;height:200px;" height="auto" width="100%" src="/images/E%20OPEN%20HOUSE/welcome%20to%20e%20open%20house.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:900px;height:200px;" height="auto" width="100%" src="/images/E%20OPEN%20HOUSE/virtual%20school%20tour%20banner.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://4d.silvrcraft.com/nbpsvst/"><img style="width:900px;height:200px;" height="auto" width="100%" src="/images/E%20OPEN%20HOUSE/virtual%20school%20tour%20banner.png"></a>
 </td>
 </tr>
 </tbody>
@@ -74,23 +55,17 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/E%20OPEN%20HOUSE/alp_2023.png">
 </div>
+<p><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/ALP/" rel="noopener noreferrer nofollow" target="_blank">Applied Learning Programme</a>
+<br><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/" rel="noopener noreferrer nofollow" target="_blank">Navalites' ALP Games</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/E%20OPEN%20HOUSE/llp_2023.png">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/ALP/" rel="noopener noreferrer nofollow" target="_blank">Applied Learning Programme</a>
-<br><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/" rel="noopener noreferrer nofollow" target="_blank">Navalites' ALP Games</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.navalbasepri.moe.edu.sg/learning-for-life-programme-llp/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme</a>
 </p>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
@@ -311,7 +286,7 @@ explore the virtual tour of NBPS.
 <p><strong>1. When and how can I register my child for Primary 1?</strong>
 </p>
 <p>The registration for Singapore Citizen and Permanent Resident children
-will tentatively take place from end June to August 2023. Please visit
+will tentatively take place from end June to August each year. Please visit
 the <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">MOE Primary 1 Registration Website</a> for
 the latest updates and&nbsp; announcements. You may also join the mailing
 list to receive an email alert when registration information updates are
