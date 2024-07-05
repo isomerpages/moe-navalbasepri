@@ -55,23 +55,17 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/E%20OPEN%20HOUSE/alp_2023.png">
 </div>
+<p><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/ALP/" rel="noopener noreferrer nofollow" target="_blank">Applied Learning Programme</a>
+<br><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/" rel="noopener noreferrer nofollow" target="_blank">Navalites' ALP Games</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/E%20OPEN%20HOUSE/llp_2023.png">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/ALP/" rel="noopener noreferrer nofollow" target="_blank">Applied Learning Programme</a>
-<br><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/Aesthetics/" rel="noopener noreferrer nofollow" target="_blank">Navalites' ALP Games</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.navalbasepri.moe.edu.sg/learning-for-life-programme-llp/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme</a>
 </p>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
