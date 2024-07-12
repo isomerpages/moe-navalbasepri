@@ -64,8 +64,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Sanusi Bin Pardi
 <br>Ms Haslinda Binte Zakaria
-<br>Ms Siti Aishah Binte Abunor</p>
-<p>Ms Lam Shui Cheen Jenny</p>
+<br>Ms Siti Aishah Binte Abunor
+<br>Ms Lam Shui Cheen Jenny</p>
 </td>
 </tr>
 <tr>
@@ -87,10 +87,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zakiyyan Zharfan Bin Zainol</p>
-<p>Mr Vijay Nagalingam
-<br>
-</p>
+<p>Mr Zakiyyan Zharfan Bin Zainol
+<br>Mr Vijay Nagalingam</p>
 </td>
 </tr>
 <tr>
