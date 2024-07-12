@@ -462,11 +462,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST Lower Primary</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Norfadilah Binte Kamsha
-<br>norfadilah_kamsha@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>
