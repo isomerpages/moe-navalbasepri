@@ -255,24 +255,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH English (EL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Rathana Ravendra
-<br>rathana_ravendra@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LH English (EL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Liu Choi Yen Agnes
-<br>leong_choi_yen_agnes@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LH Mathematics (MA)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -462,11 +444,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST Lower Primary</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Norfadilah Binte Kamsha
-<br>norfadilah_kamsha@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>
