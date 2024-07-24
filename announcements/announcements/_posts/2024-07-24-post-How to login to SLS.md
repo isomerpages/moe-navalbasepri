@@ -10,7 +10,7 @@ variant: tiptap
 <h1><strong>How to login to Students Learning Space (SLS)</strong></h1>
 <p><em>&nbsp;</em>
 </p>
-<p><em>The URL for the main login page is            </em><strong><em><a rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg</a></em></strong><em>.</em>
+<p><em>The URL for the main login page is </em><strong><em><a href="https://vle.learning.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg</a></em></strong><em>.</em>
 </p>
 <p>&nbsp;There are <strong>2 methods</strong> to login.</p>
 <p></p>
