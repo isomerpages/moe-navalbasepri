@@ -50,7 +50,7 @@ variant: markdown
 | P5-SF | LEE TECK KOON ALEX | lee_teck_koon_alex@schools.gov.sg | ONN KAI FENG | onn_kai_feng@schools.gov.sg | LUA LI WEN | lua_li_wen@schools.gov.sg |
 |  P6-CO | NADIA IZZATY BINTE HAJI MOHAMED ZAIN | nadia_zain@schools.gov.sg | MAZLENNY BTE MOSRAN | mazlenny_mosran@schools.gov.sg | PHANG XUE FEN SERINA | phang_xue_fen_serina@schools.gov.sg |
 |  P6-IN | GAO QINGFANG | gao_qingfang@schools.gov.sg | LAL BHARWANI | lal_bharwani@schools.gov.sg |
-P6-PE |  LAI WEE CHONG | lai_wee_chong@schools.gov.sg |
+P6-PE | TAY JIN XUAN | tay_jin_xuan@schools.gov.sg | LAI WEE CHONG | lai_wee_chong@schools.gov.sg |
 |  P6-RE | GLORIA WONG YAN ZHEN | gloria_wong_yan_zhen@schools.gov.sg | NURUL ASHIKIN TAJULARUS | nurul_ashikin_tajularus@schools.gov.sg | HO PEAK YEN | ho_peak_yen@schools.gov.sg |
 |  P6-SF | SHANE THAM WENJIE | 	tham_wenjie@schools.gov.sg | VASAGI KUMARASEN | vasagi_kumarasen@schools.gov.sg  |
 |  P6-UN | SEAH WAN YAN MARY | seah_wan_yan_mary@schools.gov.sg  | AMANDA HUANG XUANQI | amanda_huang_xuanqi@schools.gov.sg | LIM SOON KEONG JOSEPH	| lim_soon_keong_joseph@schools.gov.sg |
