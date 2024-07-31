@@ -11,7 +11,7 @@ variant: markdown
 |-------------------------------------------------------------------------------|
 | Mr Wong Xuan Ji Jeremy<br>Mdm Rinihartini <br> Ms Liu Mei'en |
 | **SPECIAL EDUCATION NEEDS OFFICER (SENO) AND ASSISTANT TEACHERS** |
-| Mdm Rafidah Binte Zulkifie<br>Miss Rebecca Annabel Nathan<br>Ms A P Priya Lathaa<br>Ms Christina Lau<br>Ms Grace Wong Mi Ling |
+| Mdm Rafidah Binte Zulkifle<br>Miss Rebecca Annabel Nathan<br>Ms A P Priya Lathaa<br>Ms Christina Lau<br>Ms Grace Wong Mi Ling |
 | **Student Welfare Officer**  |
 | Nurhafizah Mohamad |
 | **NON-FORM TEACHERS**  |
