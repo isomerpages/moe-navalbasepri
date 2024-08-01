@@ -43,7 +43,7 @@ variant: markdown
 |  P4-SF | DAVID TEO KAI MING | david_teo_kai_ming@schools.gov.sg | TAN SEE SAME | 	tan_see_same@schools.gov.sg |
 |  P5-CO | YAP XUE LING | yap_xue_ling@schools.gov.sg | MAKHFADZAH BTE ABU BAKAR | makhfadzah_abu_bakar@schools.gov.sg | 
 |  P5-EN | NASHITA BINTE KAMIR | nashita_kamir@schools.gov.sg | ZHANG LIJUAN | zhang_lijuan_a@moe.edu.sg | 
-|  P5-EX | 	LEONG ZHENLING, PEARLY | leong_zhenling_pearly@schools.gov.sg | NUR FADHILLAH BINTE MUSA | nur_fadhillah_musa@schools.gov.sg|
+|  P5-EX | 	LEONG ZHENLING, PEARLY | leong_zhenling_pearly@schools.gov.sg |  FADHILLAH MD HUSSIN | fadhillah_md_hussin@schools.gov.sg |
 |  P5-IN | NUR FERISHA BINTE ABBAS | nur_ferisha_abbas@schools.gov.sg |CARMEN DOMINIQUE TAN JIA WEN | carmen_dominique_tan@schools.gov.sg |
 |  P5-PE | KAYATHRI D/O THIYAGARAJAN | kayathri_thiyagarajan@schools.gov.sg | GOH MEI JUAN JEAN | goh_mei_juan_jean@schools.gov.sg | JASON LAW | jason_law@schools.gov.sg |
 |  P5-RE |  LUM HUNG LING | lum_hung_ling@schools.gov.sg | LIM PEI YIING | lim_pei_yiing@schools.gov.sg | 
