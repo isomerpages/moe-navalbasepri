@@ -16,7 +16,7 @@ variant: tiptap
 <p>Wave after wave, we will go
 <br>Till we hear the shouts of ‘Land Ahoy'
 <br>Firm on the anchor of Education
-<br>We'll do our best for out Nation</p>
+<br>We'll do our best for our Nation</p>
 <p><strong>Lyrics by : Mrs Wee Bian Hua</strong> 
 <br><strong>Score by : Mdm Ho Kim Geok</strong>
 <br><strong>Rearranged: Mr Joseph Lim and Mr Victor Lin</strong>
