@@ -93,8 +93,8 @@ variant: tiptap
 <p>HOD English (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Foo En Ting Grace
-<br>foo_en_ting_grace@schools.gov.sg</p>
+<p>Mdm Foo En Ting, Grace
+<br>grace_foo@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
