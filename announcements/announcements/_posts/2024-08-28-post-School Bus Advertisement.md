@@ -15,7 +15,8 @@ Procedure below.</p>
 <p>&nbsp;</p>
 <p><strong>Service Requirements</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">[Call for Proposal]</a><a href="#_msocom_2" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[YT2]</a>&nbsp;</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.navalbasepri.moe.edu.sg/media/files/mediaDirectory/files%2FSchool%20Bus%2F2024/CallforProposal.pdf" rel="noopener noreferrer nofollow" target="_blank">[Call for Proposal]</a>
+<a href="https://www.navalbasepri.moe.edu.sg/media/files/mediaDirectory/files%2FSchool%20Bus%2F2024/CallforProposal.pdf" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[YT2]</a>&nbsp;</p>
 <p>&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">[Terms and Conditions for School Bus Operator to Provide School Bus Services]</a>
 <a href="#_msocom_3" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[YT3]</a>&nbsp;</p>
