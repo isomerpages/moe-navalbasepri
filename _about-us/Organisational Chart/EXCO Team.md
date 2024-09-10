@@ -264,15 +264,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH Science (SC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jason Law
-<br>jason_law@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LH MT (CL)</p>
 </td>
 <td rowspan="1" colspan="1">
