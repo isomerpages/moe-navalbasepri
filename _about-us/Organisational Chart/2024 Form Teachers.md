@@ -45,7 +45,7 @@ variant: markdown
 |  P5-EN | NASHITA BINTE KAMIR | nashita_kamir@schools.gov.sg | ZHANG LIJUAN | zhang_lijuan_a@moe.edu.sg | 
 |  P5-EX | 	LEONG ZHENLING, PEARLY | leong_zhenling_pearly@schools.gov.sg |  FADHILLAH MD HUSSIN | fadhillah_md_hussin@schools.gov.sg |
 |  P5-IN | NUR FERISHA BINTE ABBAS | nur_ferisha_abbas@schools.gov.sg |CARMEN DOMINIQUE TAN JIA WEN | carmen_dominique_tan@schools.gov.sg |
-|  P5-PE | KAYATHRI D/O THIYAGARAJAN | kayathri_thiyagarajan@schools.gov.sg | GOH MEI JUAN JEAN | goh_mei_juan_jean@schools.gov.sg | JASON LAW | jason_law@schools.gov.sg |
+|  P5-PE | KAYATHRI D/O THIYAGARAJAN | kayathri_thiyagarajan@schools.gov.sg | GOH MEI JUAN JEAN | goh_mei_juan_jean@schools.gov.sg |
 |  P5-RE |  LUM HUNG LING | lum_hung_ling@schools.gov.sg | LIM PEI YIING | lim_pei_yiing@schools.gov.sg | 
 | P5-SF | LEE TECK KOON ALEX | lee_teck_koon_alex@schools.gov.sg | ONN KAI FENG | onn_kai_feng@schools.gov.sg | LUA LI WEN | lua_li_wen@schools.gov.sg |
 |  P6-CO | NADIA IZZATY BINTE HAJI MOHAMED ZAIN | nadia_zain@schools.gov.sg | MAZLENNY BTE MOSRAN | mazlenny_mosran@schools.gov.sg | PHANG XUE FEN SERINA | phang_xue_fen_serina@schools.gov.sg |
