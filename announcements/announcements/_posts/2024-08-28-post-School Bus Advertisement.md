@@ -9,7 +9,8 @@ variant: tiptap
 ---
 <p><a rel="noopener noreferrer nofollow" target="_blank">School Bus Advertisement</a>
 </p>
-<p>&nbsp;Teo Boon Transport Pte Ltd</p>
+<p><strong>Teo Boon Transport Pte Ltd</strong>
+</p>
 <p>Please contact Lee Kuan on School Bus transport matters.</p>
 <p>Tel No: 67585382</p>
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">Enquiry@teoboon.com</a>
