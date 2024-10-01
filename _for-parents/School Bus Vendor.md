@@ -23,4 +23,6 @@ Email address (if any): enquiry@teoboon.com
 
 Click [HERE](/files/School%20Bus/2025/Request%20for%20School%20Bus%20Service.pdf) to request for school Bus Services.
 
-**Note:** Please submit the request form for school bus services to Teo Boon Transport Directly. Thank you.
+**Note:** <br>
+Please submit the request form for school bus services to **Teo Boon Transport** directly. <br>
+Thank you.
