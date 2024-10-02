@@ -2,6 +2,7 @@
 title: School Bus Vendor
 permalink: /for-parents/school-bus-vendor/
 description: ""
+variant: markdown
 ---
 ## School Bus Vendor
 
@@ -18,6 +19,10 @@ Email address (if any): enquiry@teoboon.com
 
 ![](/images/School%20Bus/2024/bus%20fare%202024.png)
 
-Click [HERE](/files/School%20Bus/2024/(b-037%20attachment)%20request%20for%20school%20bus%20services_2024.pdf) to request for school Bus Services.
+![School Bus Rate for 2025 - 2026](/images/SchBus2025.jpg)
 
-**Note:** Please submit the request form for school bus services to Teo Boon Transport Directly. Thank you.
+Click [HERE](/files/School%20Bus/2025/Request%20for%20School%20Bus%20Service.pdf) to request for school Bus Services.
+
+**Note:** <br>
+Please submit the request form for school bus services to **Teo Boon Transport** directly. <br>
+Thank you.
