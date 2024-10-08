@@ -21,7 +21,7 @@ Email address (if any): enquiry@teoboon.com
 
 ![School Bus Rate for 2025 - 2026](/images/SchBus2025.jpg)
 
-Click [HERE](/files/School%20Bus/2025/Request%20for%20School%20Bus%20Service.pdf) to request for school Bus Services.
+Click [[HERE]](/files/School%20Bus/2025/Request_for_School_Bus_Service.pdf)  to request for school Bus Services.
 
 **Note:** <br>
 Please submit the request form for school bus services to **Teo Boon Transport** directly. <br>
