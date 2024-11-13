@@ -20,7 +20,7 @@ variant: tiptap
 <br>Close on Sunday and Public Holiday
 <br>
 </p>
-<p><a href="/files/School Bookshop/2025/Sale_of_School_Attire.pdf" rel="noopener nofollow" target="_blank">CLICK HERE for </a>
+<p><a href="/files/School Bookshop/2025/Sale_of_School_Attire.pdf" rel="noopener nofollow" target="_blank">CLICK HERE for</a>
 </p>
 <p><a href="/files/School Bookshop/2025/Sale_of_School_Attire.pdf" rel="noopener nofollow" target="_blank">END-OF-YEAR Year 2024 SALE OF SCHOOL ATTIRE FOR NAVAL BASE PRIMARY SCHOOL</a>
 </p>
