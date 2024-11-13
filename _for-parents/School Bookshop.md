@@ -189,5 +189,5 @@ variant: tiptap
 </tbody>
 </table>
 <h5><strong><u>Sales of Uniform</u></strong><br></h5>
-<p><a href="/files/School%20Bookshop/2023/Sale_of_Uniform.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<p><a href="/files/School Bookshop/2025/Sale_of_School_Attire.pdf" rel="noopener nofollow" target="_blank">Click Here for Sales of School Uniform</a>
 </p>
