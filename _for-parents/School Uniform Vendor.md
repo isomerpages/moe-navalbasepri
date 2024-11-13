@@ -20,11 +20,9 @@ variant: tiptap
 <br>Close on Sunday and Public Holiday
 <br>
 </p>
-<p><strong><u>Sale in School</u></strong>
-<br>Business Days: From <strong>7 July 2023 onwards:</strong> Every Friday (Excluding
-public holidays and school holidays)
-<br>Time: 2.00pm. to 3.30pm.</p>
-<p><strong><u>Mode of Payment:</u></strong>
-<br>Cash, PayNow, DBS Paylah &amp; NETs!
-<br>(<strong>Note:</strong> NETs Payment is available in commercial store only)</p>
+<p><a href="/files/School Bookshop/2025/Sale_of_School_Attire.pdf" rel="noopener nofollow" target="_blank">CLICK HERE for </a>
+</p>
+<p><a href="/files/School Bookshop/2025/Sale_of_School_Attire.pdf" rel="noopener nofollow" target="_blank">END-OF-YEAR Year 2024 SALE OF SCHOOL ATTIRE FOR NAVAL BASE PRIMARY SCHOOL</a>
+</p>
+<p></p>
 <p></p>
