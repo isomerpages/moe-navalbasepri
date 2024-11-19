@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Interview with 2023 Alumni.md
       - After School Care.md
       - DigitalAccess@Home.md
       - E Open House.md
@@ -10,7 +11,6 @@ collections:
       - P1 orientation for 2024 students.md
       - Parent Support Group.md
       - Positive Parenting Programme (Triple P).md
-      - PSLE Information.md
       - School Bus Vendor.md
       - School Canteen Vendor.md
       - School Uniform Vendor.md
