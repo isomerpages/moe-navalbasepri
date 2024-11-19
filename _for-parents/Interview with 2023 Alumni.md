@@ -4,5 +4,7 @@ permalink: /interview-with-2023-alumni/
 variant: tiptap
 description: ""
 ---
-<p><a href="https://youtu.be/k5wv2Wla58w" rel="noopener nofollow" target="_blank">Interview with 2023 NBPS Alumni</a>
-</p>
+<div class="iframe-wrapper">
+<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/k5wv2Wla58w"></iframe>
+</div>
+<p></p>
