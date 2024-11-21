@@ -7,5 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><a href="/files/P1 Orientation 2025/P1_Orientation_2025_all_presentation_14_Nov2024_website_compressed.pdf" rel="noopener nofollow" target="_blank">2025 P1 Orientation Presentation</a>
+<p></p>
+<p>Click on the link below to access the slides</p>
+<p><strong><a href="/files/P1 Orientation 2025/P1_Orientation_2025_all_presentation_14_Nov2024_website_compressed.pdf" rel="noopener nofollow" target="_blank">2025 P1 Orientation Presentation</a></strong>
 </p>
