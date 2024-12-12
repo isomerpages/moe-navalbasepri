@@ -301,15 +301,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH (P1 &amp; P2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Pavitra Ghopinath
-<br>pavitra_ghopinath@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>YH (P3 &amp; P4)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -333,15 +324,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Angeline Ang
 <br>zeng_qiufeng_angeline@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>AYH (P5 &amp; P6)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Brian Nguyen
-<br>brian_nguyen@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
