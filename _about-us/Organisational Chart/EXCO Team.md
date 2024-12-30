@@ -84,8 +84,8 @@ variant: tiptap
 <p>School Staff Developer (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Yee Ming, Julia
-<br>chia_yee_ming_julia@schools.gov.sg</p>
+<p>Ms Lee Kai Sin
+<br>lee_kai_sin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -117,15 +117,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Infocomm Technology (ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Hazel Phua
-<br>phua_qian_hui@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD Mother Tongue (MTL)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,8 +129,8 @@ variant: tiptap
 <p>HOD Character and Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Fauziah Bte Jasman
-<br>siti_fauziah_jasman@schools.gov.sg</p>
+<p>Mrs Esther Ng
+<br>lee_siew_leng_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -200,15 +191,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Student Leadership (SL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kalaiselvan S/O Balasubramaniam
-<br>kalaiselvan_balasubramaniam@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH Physical Education (PE)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -255,6 +237,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH English (EL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Pavitra Ghopinath
+<br>pavitra_ghopinath@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LH Mathematics (MA)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -264,11 +255,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH Science (SC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Gloria Wong</p>
+<p>gloria_wong_yan_zhen@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LH MT (CL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lua Liwen
 <br>lua_li_wen@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH MT (ML)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Fadhillah Binte Musa</p>
+<p>nur_fadhillah_musa@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -301,20 +310,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH (P1 &amp; P2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Pavitra Ghopinath
-<br>pavitra_ghopinath@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>YH (P3 &amp; P4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr M Anwar
-<br>m_anwar_my@schools.gov.sg</p>
+<p>Mdm Siti Fauziah Bte Jasman
+<br>siti_fauziah_jasman@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -333,15 +333,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Angeline Ang
 <br>zeng_qiufeng_angeline@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>AYH (P5 &amp; P6)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Brian Nguyen
-<br>brian_nguyen@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -363,24 +354,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LT English (EL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Jennifer Devadass
-<br>jennifer_devadass_neo@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST English (EL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Teck Koon Alex
-<br>lee_teck_koon_alex@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ST English (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -394,7 +367,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Loke Wei Ming (Grace)
-<br>loke_wei_ming@schools.gov.sg</p>
+<br>grace_loke@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -431,14 +404,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Lydia Tee Ai Leen
 <br>lydia_tee_ai_leen@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
