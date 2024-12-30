@@ -56,12 +56,12 @@ variant: tiptap
 <p>K1 Team</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Gladys Yong</p>
-<p>Ms Koh Qi En</p>
-<p>Ms Nur Amira Shalini</p>
-<p>Ms Nur Hidayah Aziz</p>
-<p>Ms Nur Jaina Tiara</p>
-<p></p>
+<p>Ms Nur Hidayah (Senior Teacher - Child Development)</p>
+<p>Ms Nur Amira</p>
+<p>Ms Lin Peishi</p>
+<p>Ms Suhana</p>
+<p>Ms Lydia Chen</p>
+<p>Ms Ezabella</p>
 </td>
 </tr>
 <tr>
@@ -69,14 +69,12 @@ variant: tiptap
 <p>K2 Team</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Azura Abu</p>
-<p>Ms Chen Liting Lydia</p>
-<p>Ms Chia Jia Min krystal</p>
+<p>Ms Jasmine Aw</p>
 <p>Ms Lim Jing Yi</p>
-<p>Ms Lin Peishi</p>
-<p>Ms Noraida Ariff</p>
-<p>Ms Suhana Abdul Halim</p>
-<p></p>
+<p>Ms Nur Jaina</p>
+<p>Ms Hardeena</p>
+<p>Ms Krystal Chia</p>
+<p>Ms Gladys Yong</p>
 </td>
 </tr>
 </tbody>
@@ -122,6 +120,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Aasiriye Nishantha Kesavarajan</p>
+<p>Aasiriye Selvakumari Shanmugam</p>
 </td>
 </tr>
 </tbody>

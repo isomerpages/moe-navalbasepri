@@ -5,15 +5,16 @@ description: ""
 variant: tiptap
 ---
 <h2>CALENDAR OF EVENTS</h2>
-<h3>YEAR 2024 TERM 3</h3>
-<p><a href="/files/School Calendar/2024/Term 3/Student_Calendar_Term_3_2024v4.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here to Download</a>
+<h3>YEAR 2025 TERM 1</h3>
+<p><a href="/files/School Calendar/2025/StudentCalendar2025Term1v2.pdf" rel="noopener nofollow" target="_blank">Click here to download.</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School Calendar 2024 Term 3 Page 1" src="/images/FOR STUDENTS/Calendar of Events/NBPS_Sch_Cal_2024_Term3a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Term 1 Page 1" src="/images/Calendar of Events/2025/StudentCalendar2025Term1a.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School Calendar 2024 Term 3 Page 2" src="/images/FOR STUDENTS/Calendar of Events/NBPS_Sch_Cal_2024_Term3b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Term 1 Page 2" src="/images/Calendar of Events/2025/StudentCalendar2025Term1b.jpg">
 </div>
+<p></p>
 <p></p>
