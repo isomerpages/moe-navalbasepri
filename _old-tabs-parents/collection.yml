@@ -1,5 +1,5 @@
 collections:
-  parents:
+  old-tabs-parents:
     output: true
     order:
       - Principal's Message.md
