@@ -1,7 +1,8 @@
 collections:
-  parents:
+  old-tabs-parents:
     output: true
     order:
+      - Principal's Message.md
       - P1 orientation for 2024 students.md
       - PSLE Information.md
       - School Canteen Advertisement.md

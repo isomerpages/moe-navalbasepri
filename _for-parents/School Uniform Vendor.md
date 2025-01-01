@@ -20,6 +20,11 @@ variant: tiptap
 <br>Close on Sunday and Public Holiday
 <br>
 </p>
+<p><strong>Opening Hours in Naval Base Primary School:</strong>
+<br>Every Friday (School Term excluding public holidays)
+<br>For Parents and students: 2.00pm to 3.30pm</p>
+<p></p>
+<p></p>
 <p>Click below:-</p>
 <p><a href="/files/School Bookshop/2025/Sale_of_School_Attire.pdf" rel="noopener nofollow" target="_blank">END-OF-YEAR Year 2024 SALE OF SCHOOL ATTIRE FOR NAVAL BASE PRIMARY SCHOOL</a>
 </p>
