@@ -27,8 +27,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Selvaraj S/O Krishnasamy
-<br>Mr Lin Yu Heng</p>
+<p>Mr Lin Yu Heng</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +71,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>ICT Manager:
 <br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,7 +80,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer (DE):
-<br>
 <br>
 </p>
 </td>
