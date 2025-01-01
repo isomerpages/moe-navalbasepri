@@ -29,9 +29,8 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Richard Chia
-<br><a href="mailto:Richard_CHIA@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Richard_CHIA@schools.gov.sg</a>
-</p>
+<p>Mr Richard Chia</p>
+<p>Richard_chia@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
