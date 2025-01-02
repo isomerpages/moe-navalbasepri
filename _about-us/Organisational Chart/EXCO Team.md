@@ -216,6 +216,15 @@ variant: tiptap
 <br>tay_jin_xuan@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH MT (ML)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Fadhillah Binte Musa</p>
+<p>nur_fadhillah_musa@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
@@ -269,15 +278,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Lua Liwen
 <br>lua_li_wen@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LH MT (ML)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur Fadhillah Binte Musa</p>
-<p>nur_fadhillah_musa@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
