@@ -29,8 +29,8 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Richard Chia</p>
-<p>Richard_chia@schools.gov.sg</p>
+<p>Mr Richard Chia
+<br>richard_chia@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -258,7 +258,7 @@ variant: tiptap
 <p>LH Science (SC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Gloria Wong</p>
+<p>Mrs Gloria Lim</p>
 <p>gloria_wong_yan_zhen@schools.gov.sg</p>
 </td>
 </tr>
