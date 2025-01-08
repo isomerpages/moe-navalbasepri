@@ -264,11 +264,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH Mathematics (MA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lin Yanqi
+<br>chen_yanqi@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LH Science (SC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Gloria Lim</p>
-<p>gloria_wong_yan_zhen@schools.gov.sg</p>
+<p>Mrs Gloria Lim
+<br>gloria_wong_yan_zhen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
