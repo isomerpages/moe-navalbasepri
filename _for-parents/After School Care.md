@@ -63,5 +63,5 @@ Closed</p>
 us at:</p>
 <p>Centre Number: 80310578</p>
 <p>Email:&nbsp;admission_cls_nbps@commitlearning.com.sg</p>
-<p><strong>Please find the Orientation Information&nbsp;<a href="/files/SCC%20Orientation%20Information.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
+<p><strong>Please find the Orientation Information&nbsp;<a href="/files/Commit_Learning_SchoolHouse___Naval_Base_Primary_School_2025_SCC_Orientation_Information.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
