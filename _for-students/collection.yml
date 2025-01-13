@@ -1,6 +1,0 @@
-collections:
-  for-students:
-    output: true
-    order:
-      - Calendar of Events.md
-      - Learning Resources.md

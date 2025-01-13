@@ -1,6 +1,6 @@
 ---
-title: Learning Resources
-permalink: /for-students/learning-resources/
+title: Student Learning Resources
+permalink: /the-navalite-programme/learning-resources/
 description: ""
 variant: tiptap
 ---
