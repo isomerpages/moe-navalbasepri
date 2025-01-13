@@ -25,14 +25,13 @@ communities in Singapore on sexuality issues.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <strong>Goals</strong> of Sexuality Education
 are:
 <br>(a) Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships.</p>
-<p>(b) Guide students to make wise, informed and responsible decisions on
+changes as they grow up and develop safe and healthy relationships.
+<br>(b) Guide students to make wise, informed and responsible decisions on
 sexuality matters.
 <br>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
-that are premised on the family as the basic unit of society.
-<br>
-</p>
+that are premised on the family as the basic unit of society.</p>
+<p></p>
 </li>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <strong>Key Messages</strong> of Sexuality
@@ -123,5 +122,7 @@ This form will be communicated&nbsp; to parents at the start of the year
 and is also downloadable <a href="/files/Sexuality Education/Annex_A.pdf" rel="noopener nofollow" target="_blank">here</a> ).
 The completed opt-out form is to be submitted by 24/01/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 67537114
-for discussion or to seek clarification about the school’s Sexuality Education
+or email at <a href="mailto:nbps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nbps@moe.edu.sg </a>for
+discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
+<p></p>
