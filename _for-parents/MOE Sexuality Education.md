@@ -50,7 +50,7 @@ more information on MOE Sexuality Education.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>OVERVIEW OF NAVAL BASE PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong>
+<p><strong>OVERVIEW OF NAVAL BASE PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
 <br>
 </p>
 <ol start="4" data-tight="true" class="tight">
