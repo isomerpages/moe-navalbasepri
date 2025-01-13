@@ -2,7 +2,6 @@ collections:
   the-navalite-programme:
     output: true
     order:
-      - Learning Resources.md
       - Environmental Education.md
       - Subjects/.keep
       - Subjects/English.md
@@ -35,3 +34,4 @@ collections:
       - CCA/Outdoor Appreciation Club.md
       - InfoComm Technology.md
       - Overseas Cultural Immersion Programme.md
+      - Learning Resources.md
