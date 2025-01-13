@@ -4,11 +4,11 @@ links:
     collection: about-us
   - title: The Navalite Programme
     collection: the-navalite-programme
-  - title: School Calendar
-    collection: school-calendar
   - title: For Parents
     collection: for-parents
   - title: Mk at NBPS
     collection: mk-at-nbps
+  - title: School Calendar
+    url: /School-Calendar
   - title: Contact Us
     url: /contact-us/
