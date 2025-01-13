@@ -2,7 +2,7 @@
 title: MOE Sexuality Education
 permalink: /for-parents/moesexualityeducation/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h2>MOE SEXUALITY EDUCATION IN SCHOOLS</h2>
 <p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
@@ -18,8 +18,8 @@ on the importance of the family as the basic unit of society. This means
 encouraging healthy, heterosexual marriages and stable nuclear family units
 with extended family support. The teaching and learning of SEd is based
 on respect for the values and beliefs of the different ethnic and religious
-communities in Singapore on sexuality issues.
-</p><p></p>
+communities in Singapore on sexuality issues.</p>
+<p></p>
 </li>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <strong>Goals</strong> of Sexuality Education
@@ -30,8 +30,8 @@ changes as they grow up and develop safe and healthy relationships.
 sexuality matters.
 <br>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
-that are premised on the family as the basic unit of society.
-</p><p></p>
+that are premised on the family as the basic unit of society.</p>
+<p></p>
 </li>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The <strong>Key Messages</strong> of Sexuality
@@ -121,5 +121,8 @@ out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated&nbsp; to parents at the start of the year
 and is also downloadable <a href="/files/Sexuality Education/Annex_A.pdf" rel="noopener nofollow" target="_blank">here</a> ).
 The completed opt-out form is to be submitted by 24/01/2025.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 67537114 or email at nbps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education
-programme.</p><p></p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 67537114
+or email at <a href="mailto:nbps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nbps@moe.edu.sg </a>for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
+<p></p>
