@@ -1,5 +1,0 @@
-collections:
-  school-calendar:
-    output: true
-    order:
-      - School Calendar.md
