@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Services In School/School Uniform Vendor.md
       - Services In School/School Canteen Vendor.md
       - Services In School/School Bus Vendor.md
       - Services In School/.keep
