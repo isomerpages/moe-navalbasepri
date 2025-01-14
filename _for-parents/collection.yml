@@ -2,11 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Services In School/School Bookshop.md
-      - Services In School/School Uniform Vendor.md
-      - Services In School/School Canteen Vendor.md
-      - Services In School/School Bus Vendor.md
-      - Services In School/.keep
       - Parents Engagement.md
       - Interview with 2023 Alumni.md
       - After School Care.md
@@ -17,4 +12,9 @@ collections:
       - Parent Support Group.md
       - Positive Parenting Programme (Triple P).md
       - Schoolbag Articles.md
+      - Services In School/.keep
+      - Services In School/School Bookshop.md
+      - Services In School/School Uniform Vendor.md
+      - Services In School/School Canteen Vendor.md
+      - Services In School/School Bus Vendor.md
       - Useful Links and Resources.md
