@@ -27,12 +27,7 @@ learn more about positive parenting.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WS1eZhVkRHc?si=q6ZetcUniGff3w2r"></iframe>
 </div>
-<p><strong>Triple P Seminar Schedule 2024</strong>
-</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Triple P/2024/Triple_P.png">
-</div>
-<p>Parents can sign up their interest for the Triple P seminar via <a href="https://bit.ly/Fam4Life" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/Fam4Life</a>
-</p>
 <p></p>
+<p>If you are interested in any of the programmes, please drop us an email
+at <a href="mailto:famforlife@allkin.org.sg" rel="noopener noreferrer nofollow" target="_blank">famforlife@allkin.org.sg</a>.</p>
