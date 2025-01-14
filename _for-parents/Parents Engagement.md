@@ -11,5 +11,8 @@ description: ""
 </p>
 <p></p>
 <h4><strong>P1 Orientation 2025</strong></h4>
-<p></p>
+<p><a href="/files/Parents Engagement/2025/P1_Orientation_2025_all_presentation_14_Nov2024_website_compressed.pdf" rel="noopener nofollow" target="_blank">P1 Orientation 2025 Presentation</a>
+</p>
+<p><a href="/files/Parents Engagement/2025/2025_NBPS_P1_Parent_Engagement_by_School_Leaders.pdf" rel="noopener nofollow" target="_blank">2025 NBPS P1 Parent Engagement by School Leaders</a>
+</p>
 <p></p>
