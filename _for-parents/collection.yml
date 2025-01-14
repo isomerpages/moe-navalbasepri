@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Services In School/.keep
       - Parents Engagement.md
       - Interview with 2023 Alumni.md
       - After School Care.md
