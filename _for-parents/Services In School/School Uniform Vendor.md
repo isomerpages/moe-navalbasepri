@@ -3,6 +3,7 @@ title: School Uniform Vendor
 permalink: /for-parents/school-uniform-vendor/
 description: ""
 variant: tiptap
+third_nav_title: Services In School
 ---
 <h3>School Uniform Vendor</h3>
 <div class="isomer-image-wrapper">
