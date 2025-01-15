@@ -3,7 +3,7 @@ title: School Bus Vendor
 permalink: /for-parents/school-bus-vendor/
 description: ""
 variant: tiptap
-third_nav_title: Services In School
+third_nav_title: SERVICES IN SCHOOL
 ---
 <h2>School Bus Vendor</h2>
 <p><strong>Teo Boon Transport Pte Ltd</strong>

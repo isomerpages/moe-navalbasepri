@@ -3,7 +3,7 @@ title: School Bookshop
 permalink: /for-parents/school-bookshop/
 description: ""
 variant: tiptap
-third_nav_title: Services In School
+third_nav_title: SERVICES IN SCHOOL
 ---
 <h3>CASCO EDUCATIONAL SUPPLY PTE LTD</h3>
 <table style="minWidth: 75px">

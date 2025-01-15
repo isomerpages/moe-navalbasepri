@@ -3,7 +3,7 @@ title: School Canteen Vendor
 permalink: /for-parents/school-canteen-vendor/
 description: ""
 variant: tiptap
-third_nav_title: Services In School
+third_nav_title: SERVICES IN SCHOOL
 ---
 <h2>School Canteen Vendor</h2>
 <table style="minWidth: 75px">
