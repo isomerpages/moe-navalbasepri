@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Parents Engagement.md
-      - Services In School/.keep
-      - Services In School/School Bookshop.md
-      - Services In School/School Uniform Vendor.md
-      - Services In School/School Canteen Vendor.md
-      - Services In School/School Bus Vendor.md
+      - SERVICES IN SCHOOL/.keep
+      - SERVICES IN SCHOOL/School Bookshop.md
+      - SERVICES IN SCHOOL/School Uniform Vendor.md
+      - SERVICES IN SCHOOL/School Canteen Vendor.md
+      - SERVICES IN SCHOOL/School Bus Vendor.md
       - E Open House.md
       - Interview with 2023 Alumni.md
       - Group Personal Accident (GPA) Insurance for Students.md
