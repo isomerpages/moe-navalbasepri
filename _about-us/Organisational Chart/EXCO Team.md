@@ -153,24 +153,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Student Well-being (SWB)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Esther Ng
-<br>lee_siew_leng_a@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD Special Educational Needs (SEN)</p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Thomas Low
 <br>thomas_low@schools.gov.sg</p>
-<p></p>
-<p></p>
 </td>
 </tr>
 </tbody>
