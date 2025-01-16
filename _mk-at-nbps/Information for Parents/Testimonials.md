@@ -19,10 +19,14 @@ third_nav_title: Information for Parents
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p></p>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Testimonial_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Luke_s_and_Lexx_s_Testimonial.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Aaiza_s_testimonial.png">
 </div>
 </td>
 </tr>
