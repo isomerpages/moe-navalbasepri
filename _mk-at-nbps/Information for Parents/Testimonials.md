@@ -12,9 +12,11 @@ third_nav_title: Information for Parents
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<h3>Some Appreciation Messages from Parents</h3>
-</th>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Hear_what_our_parents_have_to_say_.png">
+</div>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
