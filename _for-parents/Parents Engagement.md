@@ -11,7 +11,7 @@ description: ""
 </p>
 <p><a href="/files/Parents Engagement/2025/2025_P3_parents_briefing_main_slides.pdf" rel="noopener nofollow" target="_blank">P3 Parents Engagement - 16 Jan 2025</a>
 </p>
-<p><a href="/files/Parents Engagement/2025/2025_P4_parents_briefing_main_slides.pdf" rel="noopener nofollow" target="_blank">P4 Parents Engagement - 16 Jan 2025</a>
+<p><a href="/files/Parents Engagement/2025/2025_P4_parents_briefing_main_slides_r1.pdf" rel="noopener nofollow" target="_blank">P4 Parents Engagement - 16 Jan 2025</a>
 </p>
 <p></p>
 <h4><strong>P1 Orientation 2025</strong></h4>
