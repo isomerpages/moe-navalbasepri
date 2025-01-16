@@ -10,7 +10,5 @@ third_nav_title: Our Happenings
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Parent_s_Choice.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/MKOH_2025_IG_Post.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/67440d2352ba8c426f31566e"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/MKOH_2025_IG_Post__1_.png"></a>
 <p></p>
