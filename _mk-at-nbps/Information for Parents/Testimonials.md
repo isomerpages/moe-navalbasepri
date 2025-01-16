@@ -17,6 +17,14 @@ third_nav_title: Information for Parents
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Testimonial_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Testimonial_Quote__1_.png">
