@@ -8,7 +8,12 @@ third_nav_title: Our Happenings
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/MK_to_Primary_Transition.png">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_144740.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_144944.png">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
