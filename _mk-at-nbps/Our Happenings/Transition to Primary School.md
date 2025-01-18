@@ -8,12 +8,26 @@ third_nav_title: Our Happenings
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/MK_to_Primary_Transition.png">
 </div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_144740.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_150514.png">
 </div>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_144944.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_150002.png">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
