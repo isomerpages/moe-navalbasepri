@@ -37,7 +37,7 @@ third_nav_title: Our Happenings
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Chinese New Year</strong>
+<p><strong>Celebrating Chinese New Year</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 79%;" height="auto" width="100%" alt="" src="/images/2020_CNY.jpg">
@@ -59,13 +59,13 @@ third_nav_title: Our Happenings
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Experiencing Lessons!</p>
+<p>Lessons!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2023_K2_Transition_4_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Buying canteen food!</p>
+<p>Canteen Time!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_K2_Transition_21_.jpg">
 </div>
