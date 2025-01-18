@@ -51,7 +51,7 @@ third_nav_title: Our Happenings
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Celebrating Chinese New Year</strong>
+<p><strong>Celebrating CNY</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 79%;" height="auto" width="100%" alt="" src="/images/2020_CNY.jpg">
