@@ -1,5 +1,5 @@
 ---
-title: MK Programme
+title: MK@NB Programme
 permalink: /mk-at-nbps/mk-programme/mkprog/
 variant: tiptap
 description: ""

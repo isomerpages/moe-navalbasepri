@@ -1,5 +1,5 @@
 ---
-title: Partnered Early Years Centres
+title: Partner Early Years Centres
 permalink: /partner-early-years-centres/
 variant: tiptap
 description: ""

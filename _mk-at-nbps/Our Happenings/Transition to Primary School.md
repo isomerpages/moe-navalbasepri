@@ -5,7 +5,33 @@ variant: tiptap
 description: ""
 third_nav_title: Our Happenings
 ---
-<h4>For a strong start, MK @ Naval Base work closely with Naval Base Primary School. We celebrate some events together and our children also experience what it's like being Primary One for a smooth transition to Primary School.</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/MK_to_Primary_Transition.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_150514.png">
+</div>
+<p><a href="/files/MK@NB/MKNB___Ready_Child.pdf" rel="noopener nofollow" target="_blank">Ready Child</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_150002.png">
+</div>
+<p><a href="/files/MK@NB/MKNB___Ready_Family_and_Ready_School.pdf" rel="noopener nofollow" target="_blank">Ready Family and School</a>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -14,20 +40,12 @@ third_nav_title: Our Happenings
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong>Here is a sneakpeak of some of the experiences our children have done!</strong>
+<td rowspan="2" colspan="3">
+<p><strong>Here is a sneak peek of some collaborations with Naval Base Primary!</strong>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Meeting our Principal, Mrs Sita Singh!</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2023_K2_Transition_17_.jpg">
-</div>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>International Friendship Day</strong>
@@ -37,7 +55,7 @@ third_nav_title: Our Happenings
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Chinese New Year</strong>
+<p><strong>Celebrating CNY</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 79%;" height="auto" width="100%" alt="" src="/images/2020_CNY.jpg">
@@ -59,17 +77,39 @@ third_nav_title: Our Happenings
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Experiencing Lessons!</p>
+<p>Lessons!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2023_K2_Transition_4_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Buying canteen food!</p>
+<p>Canteen Time!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_K2_Transition_21_.jpg">
 </div>
 </th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Resources for Parents</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---starting-your-primary-1-journey.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_134052.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_140859.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/special-education/preparing-your-child-for-a-new-school---a-resource-kit-for-parents-of-children-with-additional-needs.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_140924.png"></a>
+</td>
 </tr>
 </tbody>
 </table>

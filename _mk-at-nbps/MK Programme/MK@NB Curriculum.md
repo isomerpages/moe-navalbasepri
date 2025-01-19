@@ -1,5 +1,5 @@
 ---
-title: MK Curriculum
+title: MK@NB Curriculum
 permalink: /mk-at-nbps/mk-programme/mkcurriculum/
 variant: tiptap
 description: ""
