@@ -50,6 +50,18 @@ such as leadership, teamwork, passion and resilience. Students have the
 opportunity to participate in various events and competitions through their
 CCAs such as the Singapore Youth Festival, Zonal, Divisional and National
 competitions. More information of each CCA can be found <a href="https://sites.google.com/moe.edu.sg/nbpsccafair/cca-catalogue" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA3.jpg">
+</div>
 <p>
 <br>
 </p>
