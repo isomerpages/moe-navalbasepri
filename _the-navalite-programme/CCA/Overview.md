@@ -54,15 +54,10 @@ competitions. More information of each CCA can be found <a href="https://sites.g
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA3.jpg">
 </div>
-<p>
-<br>
-</p>
 <p></p>
