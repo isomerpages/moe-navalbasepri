@@ -27,7 +27,4 @@ such as mini tennis and football. Highlights include the annual Primary
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/LLP3.jpg">
-</div>
 <p></p>
