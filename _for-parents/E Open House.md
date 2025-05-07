@@ -216,7 +216,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Character-Development/Student-Leadership/" rel="noopener noreferrer nofollow" target="_blank">Student Leadership</a>
+<p><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/character-development/student-leadership/" rel="noopener noreferrer nofollow" target="_blank">Student Leadership</a>
 </p>
 </td>
 </tr>
