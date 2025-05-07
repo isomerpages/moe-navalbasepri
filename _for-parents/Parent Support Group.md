@@ -14,12 +14,24 @@ their foundational years. This partnership has benefited their children
 through their involvement in various school activities.</p>
 <h4>NBPS PSG EXCO 2024-2025</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG2.jpg">
+</div>
+<p><em>(from left to right) </em> Ms Angeline Chia (Event Lead), Mdm Siti
+Hajar (Secretary &amp; Treasurer), Ms Khin Dawi (Voices’ Corner Head),
+Mrs Amy Jow (Teacher IC), Mdm Siti Zarina (Co-Chairman), Mdm Siti Fauziah
+(Teacher IC), Ms Mari Anne (Co-Chairman) and Mdm Rohani (Teacher IC)</p>
 <p></p>
 <h4>MISSION</h4>
 <p>To create an environment of harmony and to support and encourage team
 spirit amongst parents, staff and students.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG%202023_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG3.jpg">
 </div>
 <h2><strong>ROLES OF PSG</strong></h2>
 <h5>1. SUPPORTIVE PARTNER IN EDUCATION</h5>
@@ -30,15 +42,7 @@ well-being and learning.</p>
 <p>The PSG gathers parents’ feedback on school operations, practices and
 programmes, and provides them to the school. The PSG also facilitates the
 school’s communications to parents.</p>
-<h4>MORNING GATE TRAFFIC</h4>
-<p>Parent volunteers assist the school personnel in welcoming the students
-and ensuring their safety.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG3.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG4.jpeg">
-</div>
+<p></p>
 <h4>Voices' Corner</h4>
 <p>Recess time is very precious to both students and the PSG. This is where
 the Parent Volunteers support and bond with the students</p>
@@ -57,9 +61,7 @@ the Parent Volunteers support and bond with the students</p>
 <p>Ensuring safety in the canteen and outdoor areas</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG%202023_3.png">
-</div>
+<p></p>
 <h4>PSG Bonding Activities and Workshops</h4>
 <p>Our parent volunteers participate in bonding activities and workshops.
 Examples of such events:</p>
@@ -82,14 +84,43 @@ Examples of such events:</p>
 <li>
 <p>Appreciation Lunch</p>
 </li>
+<li>
+<p>Bag-Making Workshop</p>
+</li>
+<li>
+<p>Terrarium-Making Workshop</p>
+</li>
+<li>
+<p>Appreciation Breakfast/Lunch</p>
+</li>
 </ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG%202023_5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG4.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG5.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>PSG Involvement In Major School Events</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chinese New Year Celebrations</p>
+<p>Festivals</p>
 </li>
 <li>
 <p>Total Defence Day</p>
@@ -101,10 +132,13 @@ Examples of such events:</p>
 <p>Racial Harmony Day</p>
 </li>
 <li>
+<p>National Day Celebrations</p>
+</li>
+<li>
 <p>Arts Beat Carnival</p>
 </li>
 <li>
-<p>Hari Raya Celebrations</p>
+<p>English Language &amp; Mother Tongue Language Fiesta</p>
 </li>
 <li>
 <p>Teachers’ Day</p>
@@ -115,11 +149,42 @@ Examples of such events:</p>
 <li>
 <p>P1 Orientation</p>
 </li>
-<li>
-<p>Deepavali Celebrations</p>
-</li>
 </ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG%202023_6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG6.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG7.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG8.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG9.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
