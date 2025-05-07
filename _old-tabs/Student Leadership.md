@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /the-navalite-programme/Character-Development/Student-Leadership/
+permalink: /the-navalite-programme/old/student-leadership/
 description: ""
 variant: tiptap
 ---
