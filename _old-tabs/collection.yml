@@ -1,5 +1,5 @@
 collections:
-  old-tabs-parents:
+  old-tabs:
     output: true
     order:
       - Student Leadership.md
