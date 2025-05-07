@@ -59,9 +59,12 @@ Monday to Fridays: &nbsp;&nbsp;&nbsp; 1.30pm – 7.00p.m</p>
 Monday to Fridays: &nbsp;&nbsp;&nbsp; 7.30am – 7.00p.m</p>
 <p>Saturdays, Sunday and Public Holidays: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Closed</p>
+<p></p>
 <p>For any clarifications on programmes, services and fees, kindly contact
 us at:</p>
 <p>Centre Number: 80310578</p>
 <p>Email:&nbsp;admission_cls_nbps@commitlearning.com.sg</p>
 <p><strong>Please find the Orientation Information&nbsp;<a href="/files/Commit_Learning_SchoolHouse___Naval_Base_Primary_School_2025_SCC_Orientation_Information.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
+<p></p>
+<p></p>
