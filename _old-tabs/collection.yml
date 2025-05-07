@@ -1,7 +1,8 @@
 collections:
-  old-tabs-parents:
+  old-tabs:
     output: true
     order:
+      - Student Leadership.md
       - Calendar of Events.md
       - Principal's Message.md
       - P1 orientation for 2024 students.md

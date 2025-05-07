@@ -29,10 +29,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:450px;height:200px;" height="auto" width="100%" src="/images/E%20OPEN%20HOUSE/welcome%20to%20e%20open%20house.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://4d.silvrcraft.com/nbpsvst/"><img style="width:450px;height:200px;" height="auto" width="100%" src="/images/E%20OPEN%20HOUSE/welcome%20to%20e%20open%20house.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://4d.silvrcraft.com/nbpsvst/"><img style="width:900px;height:200px;" height="auto" width="100%" src="/images/E%20OPEN%20HOUSE/virtual%20school%20tour%20banner.png"></a>
 </td>
@@ -230,32 +227,31 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/E%20OPEN%20HOUSE/suppotive%20enviroment.png">
 </div>
 <p><strong>Caring Educators</strong>
-<br>At NBPS, our staff are passionate in nurturing each Navalite’s love for
-learning. Innovative teaching strategies and continued Professional Development
-are championed by our Teacher Leader Council and they guide our dedicated
-team of teachers in reflecting and designing appropriate learning interventions
-to suit the needs of our Navalites. Every teacher plays the role of a caring
-and nurturing educator, and a structured framework allows teachers to build
-a strong rapport with each individual Navalite under their care.
+<br>At NBPS, our caring teachers are dedicated to nurturing every Navalite
+and sparking a lifelong love of learning in all Navalites. Guided by our
+Teacher Leader Council and with continued Professional development, we
+use innovative teaching strategies to meet the unique needs of each student.
+With a strong support framework, our teachers build meaningful connections
+with each Navalite under their care to create a joyful, nurturing environment
+for all.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E%20OPEN%20HOUSE/every%20teacher%20a%20caring%20educator%201.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E OPEN HOUSE/CaringEducators.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E%20OPEN%20HOUSE/every%20teacher%20a%20caring%20educator%202.png">
-</div>
+<p></p>
 <p><strong>Supportive Partners</strong>
 <br><u>Every Parent a Supportive Partner</u>
-<br>Robust collaboration between parents and teachers ensures that every Navalite
-is well supported in their holistic learning and development at NBPS. Some
-key outreach platforms to parents include the Parent-Teacher-Student Conference,
-Positive Parenting Programme seminars and subject-specific parent workshops
-(E.g. Parent Workshops for Mathematics and Science).</p>
+<br>At NBPS, we believe a strong partnership between teachers and parents
+is key to every Navalite’s well-being and holistic growth. Through regular
+touchpoints like engagement sessions, parenting seminars and subject-specific
+workshops, we work closely with parents to support each Navalite’s holistic
+development.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E%20OPEN%20HOUSE/every%20parent%20a%20supportive%20partner.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E OPEN HOUSE/SupportiveParents.jpg">
 </div>
-<p><u>Parent Support Group</u>
+<p></p>
+<p><strong><u>Parent Support Group</u></strong>
 <br>Click <a href="https://www.navalbasepri.moe.edu.sg/for-parents/Parent-Support-Group/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about NBPS' Parent Support Group.</p>
 <p><strong>After School Care</strong>
