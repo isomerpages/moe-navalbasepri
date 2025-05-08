@@ -17,8 +17,7 @@ various subjects and levels and will:</p>
 a creative <strong>producer</strong> of games.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALP for each level" src="/images/NavaliteProgramme/ALP1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NavaliteProgramme/ALP_Infographic_pdf.png">
 </div>
-<p></p>
-<p><a href="https://sites.google.com/moe.edu.sg/p6alpgames?usp=sharing" rel="noopener nofollow" target="_blank">CLICK HERE TO PLAY!</a>
+<p><strong><a href="https://sites.google.com/moe.edu.sg/p6alpgames?usp=sharing" rel="noopener nofollow" target="_blank">CLICK HERE TO PLAY!</a></strong>
 </p>
