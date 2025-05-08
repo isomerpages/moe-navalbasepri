@@ -75,18 +75,18 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:1209px;height:340px;" height="auto" width="100%" src="/images/E%20OPEN%20HOUSE/ruts_2023.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E OPEN HOUSE/EL_Fiesta_Logo.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:1250px;height:340px;" height="auto" width="100%" src="/images/E%20OPEN%20HOUSE/mtl%20fiesta_2023.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E OPEN HOUSE/MTL_Fiesta_Logo.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/English/" rel="noopener noreferrer nofollow" target="_blank">Reading Under The Stars &amp; La' Fiesta</a>
+<p><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Subjects/English/" rel="noopener noreferrer nofollow" target="_blank">English Fiesta</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,7 +146,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Character-Development/CCE/" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidence</a>
+<p><a href="https://www.navalbasepri.moe.edu.sg/the-navalite-programme/Character-Development/CCE/" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidance</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -233,13 +233,10 @@ Teacher Leader Council and with continued Professional development, we
 use innovative teaching strategies to meet the unique needs of each student.
 With a strong support framework, our teachers build meaningful connections
 with each Navalite under their care to create a joyful, nurturing environment
-for all.
-<br>
-</p>
+for all.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E OPEN HOUSE/CaringEducators.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E OPEN HOUSE/Caring_educators.png">
 </div>
-<p></p>
 <p><strong>Supportive Partners</strong>
 <br><u>Every Parent a Supportive Partner</u>
 <br>At NBPS, we believe a strong partnership between teachers and parents
@@ -248,9 +245,8 @@ touchpoints like engagement sessions, parenting seminars and subject-specific
 workshops, we work closely with parents to support each Navalite’s holistic
 development.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E OPEN HOUSE/SupportiveParents.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E OPEN HOUSE/Supportive_partners.png">
 </div>
-<p></p>
 <p><strong><u>Parent Support Group</u></strong>
 <br>Click <a href="https://www.navalbasepri.moe.edu.sg/for-parents/Parent-Support-Group/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about NBPS' Parent Support Group.</p>
