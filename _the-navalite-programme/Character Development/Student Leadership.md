@@ -20,7 +20,7 @@ Social-Emotional Learning (SEL), our programme shapes students into thoughtful
 leaders who care deeply, work cooperatively, and lead courageously.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Leadership1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/Student_Leadership_Frame.png">
 </div>
 <h3><strong>A Leadership Journey in Four Stages</strong></h3>
 <p>Our Student Leadership Framework follows a <strong>four-stage developmental cycle</strong>:
@@ -81,12 +81,11 @@ to serve, a journey of self-discovery, and a path to becoming future-ready
 leaders of character. Together, we <strong>care deeply</strong>, <strong>collaborate meaningfully</strong>,
 and <strong>empower confidently</strong>—because leadership begins with
 the heart.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Leadership2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/Student_Leadership_Collage_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Leadership3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/Student_Leadership_Collage_2.png">
 </div>
 <p></p>
