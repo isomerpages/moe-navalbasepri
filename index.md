@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/nbps e-banner_generic.png
+      background: /images/Every_Navalite_A_Leader_Self_Discipline__Integrity_Respect__Compassion__Learning.png
       key_highlights:
         - title: About Us
           description: ""
