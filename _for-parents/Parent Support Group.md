@@ -15,7 +15,7 @@ through their involvement in various school activities.</p>
 <h4>NBPS PSG EXCO 2024-2025</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG_2025_Term_1_Meeting_26_Feb.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
