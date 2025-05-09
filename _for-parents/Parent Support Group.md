@@ -19,9 +19,9 @@ through their involvement in various school activities.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG_shot.jpg">
 </div>
-<p><em>(from left to right) </em> Ms Angeline Chia (Event Lead), Mdm Siti
+<p><em>(from left to right) </em>Ms Angeline Chia (Event Lead), Mdm Siti
 Hajar (Secretary &amp; Treasurer), Ms Khin Dawi (Voices’ Corner Head),
 Mrs Amy Jow (Teacher IC), Mdm Siti Zarina (Co-Chairman), Mdm Siti Fauziah
 (Teacher IC), Ms Mari Anne (Co-Chairman) and Mdm Rohani (Teacher IC)</p>
@@ -31,7 +31,7 @@ Mrs Amy Jow (Teacher IC), Mdm Siti Zarina (Co-Chairman), Mdm Siti Fauziah
 spirit amongst parents, staff and students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG_shot_with_children.jpg">
 </div>
 <h2><strong>ROLES OF PSG</strong></h2>
 <h5>1. SUPPORTIVE PARTNER IN EDUCATION</h5>
