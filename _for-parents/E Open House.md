@@ -19,7 +19,7 @@ variant: tiptap
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dAZMJBGUHbA"></iframe>
+<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LuphEfnSONE"></iframe>
 </div>
 <h4><u>Virtual School Tour</u></h4>
 <table style="minWidth: 50px">
