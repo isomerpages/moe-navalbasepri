@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage Banner.gif
+      background: /images/Homepage/NBPS_WEB_landingpage_01.png
       key_highlights:
         - title: About Us
           description: ""
