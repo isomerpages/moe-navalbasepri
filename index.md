@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Every_Navalite_A_Leader_Self_Discipline__Integrity_Respect__Compassion__Learning.png
+      background: /images/Homepage Banner.gif
       key_highlights:
         - title: About Us
           description: ""
