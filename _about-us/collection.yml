@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our CCE Journey 2025.md
       - Vision, Mission, Values.md
       - Organisational Chart/.keep
       - Organisational Chart/EXCO Team.md
