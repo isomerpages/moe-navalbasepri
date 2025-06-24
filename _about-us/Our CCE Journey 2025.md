@@ -9,3 +9,6 @@ description: ""
 building character, and creating meaningful connections. Through care,
 collaboration, and empowerment, our Navalites grow into confident individuals
 with strong hearts and minds—ready to make a difference.</p>
+<p></p>
+<p><a href="https://youtu.be/UQaA4RVJbGk" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/UQaA4RVJbGk</a>
+</p>
