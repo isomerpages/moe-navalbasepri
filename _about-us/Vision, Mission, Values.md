@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CURIOSITY</p>
+<p>Curiosity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -34,7 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RESPONSIBILITY</p>
+<p>Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EMPATHY</p>
+<p>Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -50,7 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DETERMINATION</p>
+<p>Determination</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -58,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>INNOVATION</p>
+<p>Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -66,7 +66,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TEAMWORK</p>
+<p>Teamwork</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
