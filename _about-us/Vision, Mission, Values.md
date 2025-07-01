@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>VISION, MISSION, VALUES</h2>
 <h3>VISION</h3>
-<p>Confident Learner, Compassionate Leaders</p>
+<p>Confident Learners, Compassionate Leaders</p>
 <h3>MISSION</h3>
 <p>We Care, We Collaborate, We Empower</p>
 <h3>SCHOOL VALUES</h3>
