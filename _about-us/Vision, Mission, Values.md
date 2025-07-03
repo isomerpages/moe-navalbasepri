@@ -17,16 +17,8 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>School Values</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Curiosity</p>
+<p><strong>C</strong>uriosity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -34,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Responsibility</p>
+<p><strong>R</strong>esponsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -42,7 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Empathy</p>
+<p><strong>E</strong>mpathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -50,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Determination</p>
+<p><strong>D</strong>etermination</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -58,7 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Innovation</p>
+<p><strong>I</strong>nnovation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -66,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teamwork</p>
+<p><strong>T</strong>eamwork</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
