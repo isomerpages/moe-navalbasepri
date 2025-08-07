@@ -15,8 +15,8 @@ sections:
         - title: Spotlight
           description: Our CCE Journey
           url: /our-cce-journey-2025/
-        - title: MK@NBPS
-          description: ""
+        - title: Check us out
+          description: on Social Media!
           url: https://www.navalbasepri.moe.edu.sg/mk-at-nbps/welcomevideo/
   - resources:
       title: Naval Base Primary School
