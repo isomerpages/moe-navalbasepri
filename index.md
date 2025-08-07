@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: Our Values
           description: Vision Mission Values
-          url: https://www.navalbasepri.moe.edu.sg/about-us/Vision-Mission-Values/
-        - title: About Us
-          description: ""
           url: /about-us/Vision-Mission-Values/
-        - title: MK@NBPS
-          description: ""
-          url: https://www.navalbasepri.moe.edu.sg/mk-at-nbps/welcomevideo/
+        - title: Spotlight
+          description: Our CCE Journey
+          url: /our-cce-journey-2025/
+        - title: Check us out
+          description: on Social Media!
+          url: /nbps-social-media/
   - resources:
       title: Naval Base Primary School
       subtitle: Welcome to
