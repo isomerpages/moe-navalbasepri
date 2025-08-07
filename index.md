@@ -17,7 +17,7 @@ sections:
           url: /our-cce-journey-2025/
         - title: Check us out
           description: on Social Media!
-          url: https://www.navalbasepri.moe.edu.sg/mk-at-nbps/welcomevideo/
+          url: /nbps-social-media/
   - resources:
       title: Naval Base Primary School
       subtitle: Welcome to
