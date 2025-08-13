@@ -14,8 +14,9 @@ third_nav_title: SERVICES IN SCHOOL
 <h5>Daily School Bus Services based on Not to Exceed Price (i.e. fo sending students from home to school and vice versa).</h5>
 <p><strong>Bus fares applicable from 1 January 2025 to 31 December 2026:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School Bus Rate for 2025 - 2026" src="/images/SchBus2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Bus/SchBus2025.jpg">
 </div>
 <p>Click <a href="/files/School%20Bus/2025/Request_for_School_Bus_Service.pdf" rel="noopener noreferrer nofollow" target="_blank">[HERE]</a> to
 request for school Bus Services.</p>
