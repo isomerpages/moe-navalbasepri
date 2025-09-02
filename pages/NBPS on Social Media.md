@@ -26,5 +26,5 @@ description: ""
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/@NBPS-ICT"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Media/yt_logo_fullcolor_almostblack_digital.png"></a>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://t.me/+jrv8GZRyMNcxMTVl"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Social Media/Logo.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://t.me/+jrv8GZRyMNcxMTVl"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Social Media/Logo.png"></a>
 <p></p>
