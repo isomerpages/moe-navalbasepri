@@ -67,12 +67,9 @@ holistic development of their children.</p>
 the website&nbsp;<a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
-<p></p>
-</li>
-</ul>
 <p><a href="https://www.cdac.org.sg/" rel="noopener noreferrer nofollow" target="_blank">CDAC</a>
 </p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p><a href="http://www.sinda.org.sg/students/step/" rel="noopener noreferrer nofollow" target="_blank">SINDA</a>
 </p>
@@ -83,8 +80,7 @@ the website&nbsp;<a href="https://www.imda.gov.sg/how-we-can-help/digital-access
 </li>
 </ul>
 <h3>OTHER USEFUL LINKS</h3>
-<p><a href="https://www.moe.gov.sg/primary" rel="noopener noreferrer nofollow" target="_blank">MOE Primary School Information</a>
-<a href="https://www.moe.gov.sg/education/edusave" rel="noopener noreferrer nofollow" target="_blank">Edusave</a>
+<p><a href="https://www.moe.gov.sg/financial-matters/edusave-account" rel="noopener nofollow" target="_blank">Edusave Account</a>
 <br><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance Scheme (FAS)</a>
 </p>
 <p><strong>Follow MOE's parenting-focused Instagram account,&nbsp;@parentingwith.moesg&nbsp;for more tips and MOE resources. <br>Scan the QR code to start following!</strong>
