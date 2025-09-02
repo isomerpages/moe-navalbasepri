@@ -34,7 +34,8 @@ variant: tiptap
 <br>Miss Rebecca Annabel Nathan
 <br>Ms A P Priya Lathaa
 <br>Ms Christina Lau
-<br>Ms Grace Wong Mi Ling</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
