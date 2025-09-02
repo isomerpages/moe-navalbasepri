@@ -307,10 +307,11 @@ variant: tiptap
 <p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Jia Hui (Mrs Carol Chow)</p>
+<p>Ng Ling Yi Jolyna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_jia_hui@schools.gov.sg</p>
+<p><a href="mailto:ng_ling_yi_jolyna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ling_yi_jolyna@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
