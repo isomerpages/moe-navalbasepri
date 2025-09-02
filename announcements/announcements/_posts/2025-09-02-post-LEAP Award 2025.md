@@ -13,8 +13,8 @@ variant: tiptap
 <iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LJGfBLFzQJM"></iframe>
 </div>
 <p></p>
-<p>Congratulations to Mrs Leong Peak Yen, proud recipient of the LEAP Award
-2025!</p>
+<p>Congratulations to Mrs Leong-Ho Peak Yen, proud recipient of the LEAP
+Award 2025!</p>
 <p>On 29 August, Mrs Leong was honoured at the 14th LEAP Award Presentation
 Ceremony by Minister for Education, Mr Desmond Lee. Out of 329 nominations
 nationwide, she was recognised as one of just 20 outstanding educators
@@ -32,6 +32,7 @@ here: <a href="https://youtu.be/LJGfBLFzQJM?si=0faYnvadyeglh96G" rel="noopener n
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LEAP_Award.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/LEAP_Award.jpg">
 </div>
-<p></p>
+<p><a href="https://www.zaobao.com.sg/news/singapore/story20250829-7432802" rel="noopener nofollow" target="_blank">Read the Lianhe Zaobao article featured here</a>
+</p>
