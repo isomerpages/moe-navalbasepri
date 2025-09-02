@@ -9,7 +9,9 @@ variant: tiptap
 ---
 <h1><strong>飞跃教师奖 LEAP Award 2025</strong></h1>
 <p></p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="415" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LJGfBLFzQJM"></iframe>
+</div>
 <p></p>
 <p>Congratulations to Mrs Leong Peak Yen, proud recipient of the LEAP Award
 2025!</p>
