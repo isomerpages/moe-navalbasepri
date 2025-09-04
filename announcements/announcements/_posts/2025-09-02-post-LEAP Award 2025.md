@@ -32,6 +32,10 @@ here: <a href="https://youtu.be/LJGfBLFzQJM?si=0faYnvadyeglh96G" rel="noopener n
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_03_at_18_22_26.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/LEAP_Award.jpg">
 </div>
 <p><a href="https://www.zaobao.com.sg/news/singapore/story20250829-7432802" rel="noopener nofollow" target="_blank">Read the Lianhe Zaobao article featured here</a>
