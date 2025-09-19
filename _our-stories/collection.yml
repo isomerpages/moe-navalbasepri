@@ -2,4 +2,5 @@ collections:
   our-stories:
     output: true
     order:
+      - LEAP Award 2025.md
       - "Our MOE Kindergarten: Where Trust Nurtures Growth.md"
