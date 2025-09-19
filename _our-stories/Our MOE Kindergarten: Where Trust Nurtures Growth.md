@@ -4,7 +4,7 @@ permalink: /ourstories/
 variant: tiptap
 description: ""
 ---
-<h3>Our MOE Kindergarten: Where Trust Nurtures Growth</h3>
+<h3>NBPS MOE Kindergarten: Where Trust Nurtures Growth</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK.png">
