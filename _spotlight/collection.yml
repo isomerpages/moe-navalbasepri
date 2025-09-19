@@ -2,4 +2,4 @@ collections:
   spotlight:
     output: true
     order:
-      - Spotlight.md
+      - Our Stories.md
