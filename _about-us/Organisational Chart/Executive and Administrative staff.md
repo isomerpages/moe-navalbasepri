@@ -27,7 +27,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lin Yu Heng</p>
+<p>Mr Lin Yuheng</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Lai Me Poh Mabel
 <br>Ms Rozanah Bte Yusoff
-<br>Rabiatul Adawiyah Jubri</p>
+<br>Ms Rabiatul Adawiyah Jubri</p>
 </td>
 </tr>
 <tr>
