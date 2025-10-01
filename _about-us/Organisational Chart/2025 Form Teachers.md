@@ -239,20 +239,9 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P2-CO</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kapila D/O Chandra Sagaran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kapila_chandra_sagaran@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
@@ -310,8 +299,7 @@ variant: tiptap
 <p>Ng Ling Yi Jolyna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_ling_yi_jolyna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ling_yi_jolyna@schools.gov.sg</a>
-</p>
+<p>ng_ling_yi_jolyna@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -355,13 +343,13 @@ variant: tiptap
 <p>P2-PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;</p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chen Wei</p>
+<p>Chen Yanqi (Mrs Lin Yanqi)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chen_wei@schools.gov.sg</p>
+<p>chen_yanqi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -486,7 +474,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P3-EN</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -508,6 +496,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tian_xiao@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sivasakthiy D/O Gunasegaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sivasakthiy_gunasegaran</p>
 </td>
 </tr>
 <tr>
@@ -732,7 +731,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P4-IN</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -754,6 +753,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ralph_paul_chan_zhi@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chen_wei@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -842,7 +852,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P5-CO</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -864,6 +874,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>nurulhuda_mohamad_halim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rathana Ravendra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rathana_ravendra@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
