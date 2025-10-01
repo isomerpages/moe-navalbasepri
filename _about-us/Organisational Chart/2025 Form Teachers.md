@@ -161,10 +161,10 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jacelyn Tan Yilin</p>
+<p>Pavitra Ghopinath</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jacelyn_tan_yilin@schools.gov.sg</p>
+<p>pavitra_ghopinath@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -183,13 +183,13 @@ variant: tiptap
 <p>P1-SW</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chen Yanqi (Mrs Lin Yanqi)</p>
+<p>Grace Yong En Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chen_yanqi@schools.gov.sg</p>
+<p>grace_yong_en_hui@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -257,7 +257,7 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Loke Wei Ming Grace</p>
+<p>Grace Loke Wei Ming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>grace_loke@schools.gov.sg</p>
