@@ -12,7 +12,8 @@ variant: tiptap
 </p>
 <p><em>The URL for the main login page is </em><strong><em><a href="https://vle.learning.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg</a></em></strong><em>.</em>
 </p>
-<p>&nbsp;There are <strong>2 methods</strong> to login.</p>
+<p>&nbsp;There are <strong>2 methods</strong> to login, however, <em>please use method 2.</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS01.jpg">
@@ -21,13 +22,12 @@ variant: tiptap
 <p></p>
 <h4><strong>Method 1</strong>:&nbsp; Using the SLS username</h4>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLSA2.jpg">
 </div>
 <p></p>
 <p></p>
-<h4><strong>Method 2</strong>:&nbsp; Using the MIMS account.</h4>
+<h4><strong>Method 2</strong>:&nbsp; Using the MIMS account. (Preferred method)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLSB2.jpg">
