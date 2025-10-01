@@ -160,6 +160,22 @@ variant: tiptap
 <br>thomas_low@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD EdTech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Amanda Huang amanda_huang_xuanqi@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -183,15 +199,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Lai Wee Chong
 <br>lai_wee_chong@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Infocomm Technology (ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Amanda Huang
-<br>amanda_huang_xuanqi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -232,12 +239,18 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>LH English (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Pavitra Ghopinath
 <br>pavitra_ghopinath@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Rathana Ravendra
+<br>rathana_revendra@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
