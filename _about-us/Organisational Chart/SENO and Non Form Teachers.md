@@ -19,7 +19,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Wong Xuan Ji Jeremy
-<br>Mdm Rinihartini</p>
+<br>Mdm Rinihartini Binte Md Ibrahim</p>
 </td>
 </tr>
 <tr>
@@ -57,15 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Salamah Junied
-<br>Mr Mohd Hanif
-<br>Mdm Rupiah Bte Hamzah
-<br>Mdm Nurhairiah Bte Abdul Malik
-<br>Mdm Thanmolie d/o K Vellasamy
-<br>Mdm Saripah Bte Mohamad
-<br>Mdm Lim Mei Ling Christine
-<br>Miss Tham Sui Ching
-<br>Mrs Goh Kim Yen</p>
+<p></p>
 </td>
 </tr>
 </tbody>
