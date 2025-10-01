@@ -239,9 +239,15 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>LH English (EL)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Ms Pavitra Ghopinath
+<br>pavitra_ghopinath@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Rathana Ravendra
 <br>rathana_revendra@schools.gov.sg</p>
