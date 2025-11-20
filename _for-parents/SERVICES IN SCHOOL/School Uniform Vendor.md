@@ -25,5 +25,5 @@ third_nav_title: SERVICES IN SCHOOL
 <br>Every Friday (School Term excluding public holidays)
 <br>For Parents and students: 2.00pm to 3.30pm</p>
 <p></p>
-<p></p>
+<h3><strong><a href="/files/School Bookshop/2026/School_Attire_Sale_Schedule_EY25.pdf" rel="noopener nofollow" target="_blank">2025 END-OF-YEAR SALE OF SCHOOL ATTIRE</a></strong></h3>
 <p></p>
