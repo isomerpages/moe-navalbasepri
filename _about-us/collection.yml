@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Vision, Mission, Values.md
-      - Organisational Chart/2026 Form Teachers.md
       - Organisational Chart/.keep
       - Organisational Chart/EXCO Team.md
+      - Organisational Chart/2026 Form Teachers.md
       - Organisational Chart/2025 Form Teachers.md
       - Organisational Chart/SENO and Non Form Teachers.md
       - Organisational Chart/Executive and Administrative staff.md
