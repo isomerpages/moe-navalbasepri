@@ -29,29 +29,40 @@ third_nav_title: Organisational Chart
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P1-CR</p>
 <p>Curiosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Jael Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chia_jael@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Fadhillah Bte Md Hussin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>fadhillah_md_hussin@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Jia Hui (Mrs Carol Chow)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_jia_hui@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -60,24 +71,24 @@ third_nav_title: Organisational Chart
 <p>Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Liesda Bte Jamali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>liesda_jamali@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ong Xin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ong_xin_yi_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -86,24 +97,24 @@ third_nav_title: Organisational Chart
 <p>Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>R Abirami</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>r_abirami@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gao Qingfang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>gao_qingfang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -112,24 +123,24 @@ third_nav_title: Organisational Chart
 <p>Determination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Kapila D/O Chandra Sagaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>kapila_chandra_sagaran@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mazlenny Bte Mosran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>mazlenny_mosran@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -138,24 +149,24 @@ third_nav_title: Organisational Chart
 <p>Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Salina Binte Md Sharif</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>salina_md_sharif@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chen Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chen_wei@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -164,24 +175,24 @@ third_nav_title: Organisational Chart
 <p>Teamwork</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tey Swee Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tey_swee_ling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nooraidah Bte Mohd Nasir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nooraidah_mohd_nasir@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -190,24 +201,24 @@ third_nav_title: Organisational Chart
 <p>Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nadia Binte Mooiz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nadia_mooiz@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Grace Loke Wei Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>grace_loke@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -216,24 +227,24 @@ third_nav_title: Organisational Chart
 <p>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Grace Yong En Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>grace_yong_en_hui@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan Yen Lin Jessica (Mrs Jessica Pang)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_yen_lin_jessica@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
