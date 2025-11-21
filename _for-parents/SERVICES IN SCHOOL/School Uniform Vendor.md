@@ -24,6 +24,5 @@ third_nav_title: SERVICES IN SCHOOL
 <p><strong>Opening Hours in Naval Base Primary School:</strong>
 <br>Every Friday (School Term excluding public holidays)
 <br>For Parents and students: 2.00pm to 3.30pm</p>
-<p></p>
-<h3><strong><a href="/files/School Bookshop/2026/School_Attire_Sale_Schedule_EY25.pdf" rel="noopener nofollow" target="_blank">2025 END-OF-YEAR SALE OF SCHOOL ATTIRE</a></strong></h3>
+<h3><strong><em><a href="/files/For Parents/School_Attire_Sale_Schedule_EY25.pdf" rel="noopener nofollow" target="_blank">2025 END-OF-YEAR SALE OF SCHOOL ATTIRE</a></em></strong></h3>
 <p></p>
