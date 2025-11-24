@@ -887,13 +887,13 @@ third_nav_title: Organisational Chart
 <p>Curiosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lim Pei Yiing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_pei_yiing@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -901,7 +901,7 @@ third_nav_title: Organisational Chart
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Low Yihui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -913,24 +913,24 @@ third_nav_title: Organisational Chart
 <p>Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ang Wen Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ang_wen_hui@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Makhfadzah Bte Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>makhfadzah_abu_bakar@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -939,24 +939,24 @@ third_nav_title: Organisational Chart
 <p>Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nashita Binte Kamir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nashita_kamir@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chen Yanqi (Mrs Lin Yanqi)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chen_yanqi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -965,24 +965,24 @@ third_nav_title: Organisational Chart
 <p>Determination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sugitha D/O Sujith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sugitha_sujith@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Goh Mei Juan Jean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>goh_mei_juan_jean@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -991,24 +991,24 @@ third_nav_title: Organisational Chart
 <p>Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nurul Ashikin Bte Tajularus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nurul_ashikin_tajularus@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lim Soon Keong Joseph</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_soon_keong_joseph@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1017,24 +1017,24 @@ third_nav_title: Organisational Chart
 <p>Teamwork</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Kayathri D/O Thiyagarajan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>kayathri_thiyagarajan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ralph Paul Chan Zhi Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ralph_paul_chan_zhi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1043,49 +1043,24 @@ third_nav_title: Organisational Chart
 <p>Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lum Hung Ling (Mrs Teo Hung Ling)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lum_hung_ling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Zhang Lijuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>zhang_lijuan_a@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
