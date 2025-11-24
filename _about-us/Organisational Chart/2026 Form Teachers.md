@@ -657,31 +657,6 @@ third_nav_title: Organisational Chart
 <p>genevieve_chong_yan_ling@schools.gov.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 100px">
@@ -698,24 +673,24 @@ third_nav_title: Organisational Chart
 <p>Curiosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lim Bao Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_bao_cheng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ji Xiaomei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ji_xiaomei@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -724,50 +699,61 @@ third_nav_title: Organisational Chart
 <p>Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Joshva Sundara Raj Jasmine Celina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>joshva_sundara_raj_jasmine@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lua Li Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lua_li_wen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P4-EP</p>
 <p>Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Onn Kai Feng (Mr Glenn Onn)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>onn_kai_feng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sunshine Ong Siqi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sunshine_ong_siqi@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chin Dao Zhen Ckrystal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chin_Dao_Zhen_Ckrystal@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -776,24 +762,24 @@ third_nav_title: Organisational Chart
 <p>Determination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sakinah Nazihah Binte Roslan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sakinah_nazihah_roslan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lai Wee Chong Aaron</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lai_wee_chong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -802,24 +788,24 @@ third_nav_title: Organisational Chart
 <p>Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ho Koon Min Martin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ho_koon_min_martin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Rohani Bte Ahmad Asi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>rohani_ahmad_asi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -828,75 +814,61 @@ third_nav_title: Organisational Chart
 <p>Teamwork</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nuraishah Binte Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nuraishah_yusoff@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tian Xiao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tian_xiao@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P4-CF</p>
 <p>Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ng Yu Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_yu_chan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lin Weiheng Victor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>lin_weiheng_victor@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nur Syafiqah Binte Baharudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nur_syafiqah_baharudin@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
