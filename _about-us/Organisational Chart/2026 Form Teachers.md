@@ -1079,24 +1079,24 @@ third_nav_title: Organisational Chart
 <p>Curiosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>David Teo Kai Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>david_teo_kai_ming@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan See Same</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_see_same@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1105,24 +1105,24 @@ third_nav_title: Organisational Chart
 <p>Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Shane Tham Wenjie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tham_wenjie@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Safiyah Salmi Binte Othman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>safiyah_salmi_othman@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1131,24 +1131,24 @@ third_nav_title: Organisational Chart
 <p>Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gloria Wong Yan Zhen (Mrs Gloria Lim)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>gloria_wong_yan_zhen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Vasagi D/O Vadivel (Mrs Kumar)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>vasagi_kumarasen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1157,24 +1157,24 @@ third_nav_title: Organisational Chart
 <p>Determination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tay Jin Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tay_jin_xuan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Seah Wan Yan Mary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>seah_wan_yan_mary@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1183,50 +1183,61 @@ third_nav_title: Organisational Chart
 <p>Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yamuna D/O Puvanaderan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>yamuna_puvanaderan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lydia Tee Ai Leen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lydia_tee_ai_leen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P6-TW</p>
 <p>Teamwork</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Marcus Lai Sze Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>marcus_lai_sze_yen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nurulhuda Binte Mohamad Halim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nurulhuda_mohamad_halim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rathana Kumari d/o Somasundram Mrs Rathana Ravendra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rathana_ravendra@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1235,49 +1246,24 @@ third_nav_title: Organisational Chart
 <p>Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ho Peak Yen (Mrs Leong)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ho_peak_yen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Phang Xue Fen Serina (Mrs Serina Wee)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>phang_xue_fen_serina@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
