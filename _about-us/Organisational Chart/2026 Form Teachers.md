@@ -263,24 +263,24 @@ third_nav_title: Organisational Chart
 <p>Curiosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Rachel Lim Cheng Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>rachel_lim_cheng_hoon@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Muhammad Hafeez Bin Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>muhammad_hafeez_hassan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -289,24 +289,24 @@ third_nav_title: Organisational Chart
 <p>Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sakilah Bte A Karim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sakilah_a_karim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lim Kan Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_kan_boon@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -315,24 +315,24 @@ third_nav_title: Organisational Chart
 <p>Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sarah Yew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sarah_yew_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Poon Sze Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>poon_sze_yi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -341,24 +341,24 @@ third_nav_title: Organisational Chart
 <p>Determination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Kavitha D/O Ginanam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>kavitha_ginanam@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sim Chee Kuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sim_chee_kuan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -367,24 +367,24 @@ third_nav_title: Organisational Chart
 <p>Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lee Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lee_ching@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Norfadilah Binte Kamsha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>norfadilah_kamsha@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -393,24 +393,24 @@ third_nav_title: Organisational Chart
 <p>Teamwork</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Pavitra Ghopinath</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>pavitra_ghopinath@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Safila Afreen Basheer Ahamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>safila_afreen_basheer_ahamed@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -419,24 +419,24 @@ third_nav_title: Organisational Chart
 <p>Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ng Ling Yi Jolyna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_ling_yi_jolyna@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sim Jiak Ho (Mrs Amy Jow)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sim_jiak_ho@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -445,24 +445,24 @@ third_nav_title: Organisational Chart
 <p>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Izzati Binte Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>izzati_ibrahim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yeo Jessie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>yeo_jessie@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
