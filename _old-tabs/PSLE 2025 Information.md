@@ -5,6 +5,42 @@ description: ""
 variant: tiptap
 ---
 <h2>PSLE 2025 INFORMATION</h2>
+<h4><a href="/files/For Parents/Admin_Brief_2025_PSLE_Slides_for_parents.pdf" rel="noopener nofollow" target="_blank">Admin Briefing 2025 on PSLE Result Release Day (25-11-2025)</a></h4>
+<p></p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>Submission of secondary school choices</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>From: 11.30am on Tuesday, 25 November 2025<br>To: 4.30pm on Monday, 1 December 2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moe.gov.sg/secondary/s1-posting/how-to-choose/shortlisting-schools" rel="noopener noreferrer nofollow" target="_blank"><u>Learn how to shortlist suitable schools for your child</u></a>.
+Use all 6 options and submit them in order of preference.</p>
+</li>
+<li>
+<p>When ready, <a href="https://www.moe.gov.sg/secondary/s1-posting/school-choices/submit-option-form" rel="noopener noreferrer nofollow" target="_blank"><u>submit your child's school choices through the S1 Portal</u></a>.
+Complete your submission and any amendments before the deadline.</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>USEFUL LINKS</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -25,7 +61,7 @@ variant: tiptap
 <p>SG Examinations and Assessment Board - PSLE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/home/examinations/psle" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/home/examinations/psle</a>
+<p><a href="https://www.seab.gov.sg/psle" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/psle</a>
 </p>
 </td>
 </tr>
