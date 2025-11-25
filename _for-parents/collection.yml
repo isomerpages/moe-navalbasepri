@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - PSLE 2025 Information.md
       - Parents Engagement.md
       - SERVICES IN SCHOOL/.keep
       - SERVICES IN SCHOOL/School Bookshop.md
