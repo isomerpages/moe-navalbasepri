@@ -2,12 +2,13 @@ collections:
   for-parents:
     output: true
     order:
-      - Parents Engagement.md
       - SERVICES IN SCHOOL/.keep
       - SERVICES IN SCHOOL/School Bookshop.md
       - SERVICES IN SCHOOL/School Uniform Vendor.md
       - SERVICES IN SCHOOL/School Canteen Vendor.md
       - SERVICES IN SCHOOL/School Bus Vendor.md
+      - PSLE 2025 Information.md
+      - Parents Engagement.md
       - E Open House.md
       - Interview with 2023 Alumni.md
       - Group Personal Accident (GPA) Insurance for Students.md
