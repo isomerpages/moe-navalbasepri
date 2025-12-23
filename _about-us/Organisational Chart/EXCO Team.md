@@ -49,6 +49,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Koh Ming Hwee
 <br>wang_ming_hwee@schools.gov.sg</p>
+<p>Mr Rajinder Singh s/o Piara Singh rajinder_singh_piara_singh@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -56,8 +57,8 @@ variant: tiptap
 <p>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tham Lai Peng Agnes
-<br>agnes_tham@schools.gov.sg</p>
+<p>Mdm Tham Lai Peng Agnes agnes_tham@schools.gov.sg</p>
+<p>Mr Phua Yong Swee phua_yong_swee@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
