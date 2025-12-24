@@ -8,6 +8,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/Afterschoolcare.png">
 </div>
+<p>Click here for: <strong><a href="https://form.gov.sg/617a28c31770f60015442a56" rel="noopener nofollow" target="_blank">Student Care Registration of Interest form</a> </strong>
+</p>
+<p></p>
 <h5>Commit Learning School House Profile Description</h5>
 <p>Committing to a better tomorrow and excel beyond expectations. Commit
 Learning SchoolHouse (CLS) is committed to design an interactive, participative
@@ -63,9 +66,10 @@ Closed</p>
 <p>For any clarifications on programmes, services and fees, kindly contact
 us at:</p>
 <p>Centre Number: 80310578</p>
-<p>Email:&nbsp;admission_cls_nbps@commitlearning.com.sg</p>
-<p><strong>Please find the Orientation Information&nbsp;<a href="/files/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC____2026_FAQs_NBPS.pdf" rel="noopener nofollow" target="_blank">here</a></strong>
-<a href="/files/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC____2026_FAQs_NBPS.pdf" rel="noopener nofollow" target="_blank">.</a><strong>.</strong>
+<p>Email:&nbsp;<a href="mailto:admission_cls_nbps@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">admission_cls_nbps@commitlearning.com.sg</a>
+</p>
+<p></p>
+<p><strong>Please find the Orientation Information&nbsp;</strong><a href="/files/For Parents/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC____2026_FAQs_NBPS.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p></p>
 <p></p>
