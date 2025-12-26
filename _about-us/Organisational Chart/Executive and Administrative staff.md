@@ -28,6 +28,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lin Yuheng</p>
+<p>Mr Chng Song Peng</p>
 </td>
 </tr>
 <tr>
