@@ -218,8 +218,17 @@ variant: tiptap
 <p>SH MT (ML)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Fadhillah Binte Musa</p>
-<p>nur_fadhillah_musa@schools.gov.sg</p>
+<p>Mdm Nur Fadhillah Binte Musa
+<br>nur_fadhillah_musa@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH English and Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Low Yihui
+<br>low_yihui</p>
 </td>
 </tr>
 </tbody>
