@@ -57,10 +57,10 @@ variant: tiptap
 <p>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tham Lai Peng Agnes</p>
-<p>agnes_tham@schools.gov.sg</p>
-<p>Mr Phua Yong Swee</p>
-<p>phua_yong_swee@schools.gov.sg</p>
+<p>Mdm Tham Lai Peng Agnes
+<br>agnes_tham@schools.gov.sg</p>
+<p>Mr Phua Yong Swee
+<br>phua_yong_swee@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
