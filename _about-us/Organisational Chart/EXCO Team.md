@@ -57,10 +57,10 @@ variant: tiptap
 <p>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tham Lai Peng Agnes</p>
-<p>agnes_tham@schools.gov.sg</p>
-<p>Mr Phua Yong Swee</p>
-<p>phua_yong_swee@schools.gov.sg</p>
+<p>Mdm Tham Lai Peng Agnes
+<br>agnes_tham@schools.gov.sg</p>
+<p>Mr Phua Yong Swee
+<br>phua_yong_swee@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -218,8 +218,17 @@ variant: tiptap
 <p>SH MT (ML)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Fadhillah Binte Musa</p>
-<p>nur_fadhillah_musa@schools.gov.sg</p>
+<p>Mdm Nur Fadhillah Binte Musa
+<br>nur_fadhillah_musa@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH English and Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Low Yihui
+<br>low_yihui</p>
 </td>
 </tr>
 </tbody>
