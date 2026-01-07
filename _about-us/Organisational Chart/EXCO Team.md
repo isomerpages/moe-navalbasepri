@@ -47,8 +47,6 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Koh Ming Hwee
-<br>wang_ming_hwee@schools.gov.sg</p>
 <p>Mr Rajinder Singh s/o Piara Singh rajinder_singh_piara_singh@schools.gov.sg</p>
 </td>
 </tr>
@@ -224,11 +222,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH English and Maths</p>
+<p>SH 21CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Low Yihui
-<br>low_yihui</p>
+<br>low_yihui@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -372,15 +370,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST English (EL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nooraidah Mohd Nasir
-<br>nooraidah_mohd_nasir@schools.gov.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
