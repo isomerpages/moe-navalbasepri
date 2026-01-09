@@ -80,17 +80,12 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <p>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P5 Lesson 1" src="/images/SEXUALITY EDUCATION /SE_Lesson_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="P5" src="/images/SEXUALITY EDUCATION /SexEd_P5.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P5 Lesson 2" src="/images/SEXUALITY EDUCATION /SE_Lesson_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="P6" src="/images/SEXUALITY EDUCATION /SexEd_P6.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P6 Lesson" src="/images/SEXUALITY EDUCATION /SE_Lesson_3.jpg">
-</div>
-<p></p>
 <p></p>
 <p><strong>Information for Parents</strong>
 </p>
@@ -100,10 +95,8 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also available <u>here</u> (please upload parents opt-out
-form found in <strong>Annex</strong>  <strong>A</strong> and insert a hyperlink
-for parents to access the form). The completed opt-out form is to be submitted
-by 26/01/2026.</p>
+of the year and is also available <a href="/files/For Parents/Sexuality Education/MOE_SE_Annex_A.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by <strong>26/01/2026</strong>.</p>
 <p>&nbsp;</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6753 7114
 or email at <a rel="noopener noreferrer nofollow" target="_blank">nbps@moe.edu.sg</a> for
