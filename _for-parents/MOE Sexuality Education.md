@@ -99,6 +99,6 @@ of the year and is also available <a href="/files/For Parents/Sexuality Educatio
 The completed opt-out form is to be submitted by <strong>26/01/2026</strong>.</p>
 <p>&nbsp;</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6753 7114
-or email at <a rel="noopener noreferrer nofollow" target="_blank">nbps@moe.edu.sg</a> for
+or email at <a href="mailto:nbps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nbps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
