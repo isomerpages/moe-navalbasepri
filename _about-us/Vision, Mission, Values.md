@@ -18,10 +18,32 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>What it means to the students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>C</strong>uriosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>I can:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ask questions</p>
+</li>
+<li>
+<p>create new things</p>
+</li>
+<li>
+<p>try out new things</p>
+</li>
+<li>
+<p>discover things around me</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -29,7 +51,27 @@ variant: tiptap
 <p><strong>R</strong>esponsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>I will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>reflect and improve</p>
+</li>
+<li>
+<p>take pride in my work</p>
+</li>
+<li>
+<p>take care of self and others</p>
+</li>
+<li>
+<p>choose to do the right thing</p>
+</li>
+<li>
+<p>be motivated, independent and take initiative</p>
+</li>
+<li>
+<p>understand my strengths and areas for growth</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -37,7 +79,27 @@ variant: tiptap
 <p><strong>E</strong>mpathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>I will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>include others</p>
+</li>
+<li>
+<p>help others in need</p>
+</li>
+<li>
+<p>be sensitive to others</p>
+</li>
+<li>
+<p>show care and concern</p>
+</li>
+<li>
+<p>listen and show respect</p>
+</li>
+<li>
+<p>be kind in words and actions</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -45,7 +107,24 @@ variant: tiptap
 <p><strong>D</strong>etermination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>I will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>never give up</p>
+</li>
+<li>
+<p>dare to speak up</p>
+</li>
+<li>
+<p>show confidence in my own ability</p>
+</li>
+<li>
+<p>have courage to overcome challenges</p>
+</li>
+<li>
+<p>try my best even when something is difficult</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -53,7 +132,21 @@ variant: tiptap
 <p><strong>I</strong>nnovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>I can:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>adjust when things change</p>
+</li>
+<li>
+<p>consider different viewpoints</p>
+</li>
+<li>
+<p>check facts and make good decisions</p>
+</li>
+<li>
+<p>think of new ideas to do things or solve problem</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -61,7 +154,21 @@ variant: tiptap
 <p><strong>T</strong>eamwork</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>I can:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>communicate clearly</p>
+</li>
+<li>
+<p>share and contribute ideas</p>
+</li>
+<li>
+<p>work effectively with others</p>
+</li>
+<li>
+<p>listen and clarify to understand</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
