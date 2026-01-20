@@ -21,7 +21,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>What it means to the students</p>
+<p><strong>What it means to the students</strong>
+</p>
 </td>
 </tr>
 <tr>
