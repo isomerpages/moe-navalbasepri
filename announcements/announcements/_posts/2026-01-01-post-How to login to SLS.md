@@ -1,7 +1,7 @@
 ---
 title: How to login to SLS
 permalink: /how-to-login-to-sls/
-date: 2024-07-24
+date: 2026-01-01
 layout: post
 description: How to login to SLS
 image: ""
