@@ -22,23 +22,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager (OM):
-<br>
-</p>
+<p>Administration Manager (AM):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lin Yuheng
-<br>Mr Chng Song Peng</p>
+<p>Ms Jennifer Lye</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager (AM):
-<br>
-</p>
+<p>Operations Manager (OM):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jennifer Lye</p>
+<p>Mr Lin Yuheng
+<br>Mr Chng Song Peng</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +91,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Halimah Mohd Maidin
-<br>Ms Alice Heng Geok</p>
+<br>Mdm Rohani Bte Saim</p>
 </td>
 </tr>
 </tbody>
