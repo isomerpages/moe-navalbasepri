@@ -9,6 +9,9 @@ variant: tiptap
 <p><strong><a href="https://go.gov.sg/nbps-waitlist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbps-waitlist</a></strong>
 </p>
 <h3>INFOCOMM TECHNOLOGY</h3>
+<p><a href="../how-to-login-to-sls/" rel="noopener nofollow" target="_blank">How to login to SLS </a>
+</p>
+<p></p>
 <h5>ONLINE ACTIVITIES FOR LOWER PRIMARY STUDENTS TO LEARN TOUCH TYPING SKILLS</h5>
 <ol>
 <li>
@@ -35,7 +38,8 @@ PDF&nbsp;<a href="/files/3B%202019%20Connect%20T1%20Parents%20Tipsheet.pdf" rel=
 <h5>REFERENCES</h5>
 <ul>
 <li>
-<p>NBPS Parents Gateway User Guide, download the PDF&nbsp;<a href="/files/NBPS%20Parents%20Gateway%20Userguide.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>NBPS Parents Gateway User Guide, download the PDF&nbsp;<a href="/how-to-login-to-sls/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 </li>
 <li>
 <p>SLS Guide for Parents, download the PDF&nbsp;<a href="/files/SLS%20guide%20for%20parents.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
