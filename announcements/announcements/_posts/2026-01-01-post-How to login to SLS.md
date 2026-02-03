@@ -36,6 +36,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS3.jpg">
 </div>
 <p></p>
+<h4><em>If you forget your password or account is locked, please fill this form.</em></h4>
+<p><a href="https://go.gov.sg/nbps-pw-reset" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbps-pw-reset</a>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
