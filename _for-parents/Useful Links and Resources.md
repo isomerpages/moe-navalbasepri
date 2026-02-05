@@ -9,8 +9,8 @@ variant: tiptap
 <p><strong><a href="https://go.gov.sg/nbps-waitlist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbps-waitlist</a></strong>
 </p>
 <h3>INFOCOMM TECHNOLOGY</h3>
-<p><a href="/how-to-login-to-sls/" rel="noopener nofollow" target="_blank">How to login to SLS</a>
-</p>
+<h4><a href="/how-to-login-to-sls/" rel="noopener nofollow" target="_blank">How to login to SLS</a></h4>
+<h4><a href="https://go.gov.sg/nbps-pw-reset" rel="noopener nofollow" target="_blank">To reset student's ICT account</a></h4>
 <p></p>
 <h5>ONLINE ACTIVITIES FOR LOWER PRIMARY STUDENTS TO LEARN TOUCH TYPING SKILLS</h5>
 <ol>
