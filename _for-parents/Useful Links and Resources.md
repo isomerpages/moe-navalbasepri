@@ -9,9 +9,8 @@ variant: tiptap
 <p><strong><a href="https://go.gov.sg/nbps-waitlist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbps-waitlist</a></strong>
 </p>
 <h3>INFOCOMM TECHNOLOGY</h3>
-<p><a href="/how-to-login-to-sls/" rel="noopener nofollow" target="_blank">How to login to SLS</a>
-</p>
-<p></p>
+<h4><a href="/how-to-login-to-sls/" rel="noopener nofollow" target="_blank">How to login to SLS</a></h4>
+<h4><a href="https://go.gov.sg/nbps-pw-reset" rel="noopener nofollow" target="_blank">To reset student's ICT account</a></h4>
 <h5>ONLINE ACTIVITIES FOR LOWER PRIMARY STUDENTS TO LEARN TOUCH TYPING SKILLS</h5>
 <ol>
 <li>
@@ -30,19 +29,14 @@ variant: tiptap
 <p>Cyber Wellness for your Child, download the PDF&nbsp;<a href="/files/Parent%20Kit%20-%20Cyber%20Wellness%20for%20your%20Child.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
-<p>Helping Your Children with Appropriate Online Expression, download the
-PDF&nbsp;<a href="/files/3B%202019%20Connect%20T1%20Parents%20Tipsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
+<p></p>
 </li>
 </ul>
 <h5>REFERENCES</h5>
 <ul>
 <li>
-<p>NBPS Parents Gateway User Guide, download the PDF&nbsp;<a href="/how-to-login-to-sls/" rel="noopener nofollow" target="_blank">here.</a>
+<p>NBPS Parents Gateway User Guide, download the PDF&nbsp;<a href="/files/NBPS Parents Gateway Userguide.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
-</li>
-<li>
-<p>SLS Guide for Parents, download the PDF&nbsp;<a href="/files/SLS%20guide%20for%20parents.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 </ul>
 <h3>Parents Gateway</h3>
