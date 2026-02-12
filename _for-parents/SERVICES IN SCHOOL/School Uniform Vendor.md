@@ -9,6 +9,12 @@ third_nav_title: SERVICES IN SCHOOL
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Uniform/jeep%20sing%20fashion%20logo.PNG">
 </div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Uniform/JSF_CYN_closure_2026.png">
+</div>
+<p></p>
 <p><strong><u>Jeep Sing Fashion</u></strong>
 <br>Blk 4012, Ang Mo Kio Ave 10, #01-09 Techplace 1 Singapore 569628
 <br>Contact no: 64563198
