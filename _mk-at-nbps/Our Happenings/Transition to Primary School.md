@@ -19,15 +19,13 @@ third_nav_title: Our Happenings
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_150514.png">
 </div>
-<p><a href="/files/MK@NB/MKNB___Ready_Child.pdf" rel="noopener nofollow" target="_blank">Ready Child</a>
-</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_150002.png">
 </div>
-<p><a href="/files/MK@NB/MKNB___Ready_Family_and_Ready_School.pdf" rel="noopener nofollow" target="_blank">Ready Family and School</a>
-</p>
+<p></p>
 </th>
 </tr>
 </tbody>
