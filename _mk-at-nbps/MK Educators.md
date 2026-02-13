@@ -21,7 +21,7 @@ variant: tiptap
 <p>Centre Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Melina Loh</p>
+<p>Mrs Melina Chen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:melina_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">melina_loh@schools.gov.sg</a>
@@ -43,13 +43,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Teachers</h4>
+<h4>MK@Naval Base Team</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/EL_Team_2025.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/MTL_Team_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Grey_Black_Simple_Fashion_Instagram_Post.png">
 </div>
 <p></p>
