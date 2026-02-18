@@ -5,4 +5,4 @@ description: ""
 variant: markdown
 third_nav_title: Our Happenings
 ---
-![](/images/MK@NBPS/Slide1.jpg)![](/images/MK@NBPS/Slide2.jpg)![](/images/MK@NBPS/Slide3.jpg)![](/images/MK@NBPS/Slide4.jpg)
+![Calendar of Events for Term 1](/images/Term_1.png)
