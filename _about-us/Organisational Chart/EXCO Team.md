@@ -47,7 +47,8 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rajinder Singh Gill rajinder_singh_piara_singh@schools.gov.sg</p>
+<p>Mr Rajinder Singh Gill
+<br>rajinder_singh_piara_singh@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
