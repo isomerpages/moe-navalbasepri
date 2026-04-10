@@ -24,10 +24,10 @@ variant: tiptap
 </div>
 <p></p>
 <p>Login with your Email address and password.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLSB2.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_04_10_091953.png">
+</div>
 <p></p>
 <h4>After successfully login:-</h4>
 <p></p>
