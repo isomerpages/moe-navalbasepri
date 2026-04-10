@@ -102,11 +102,11 @@ third_nav_title: Our Happenings
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---starting-your-primary-1-journey.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_134052.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/parentkit"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_134052.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_140859.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/-/media/files/special-education/preparing-your-child-for-a-new-school---a-resource-kit-for-parents-of-children-with-additional-needs.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_140924.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/api/media/dccacc77-4902-411a-b406-b277325531d7/Preparing-your-child-for-a-new-school---A-resource-kit-for-parents-of-children-with-additional-needs.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@NBPS/Screenshot_2025_01_18_140924.png"></a>
 </td>
 </tr>
 </tbody>
