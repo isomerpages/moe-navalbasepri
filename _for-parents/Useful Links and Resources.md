@@ -52,8 +52,7 @@ ID and Password will not be stored in the app.</p>
 holistic development of their children.</p>
 <p>Below are some useful links and articles for your reading.</p>
 <p>
-<br>[LSP Slides 2024](/files/Useful%20Links%20&amp;%20Resources/2024/LSP_Parent_Briefing_Slides_2024.pdf)</p>
-<p><a href="/files/ManagingTransition.pdf" rel="noopener noreferrer nofollow" target="_blank">Managing Transition</a>&nbsp;and&nbsp;
+<br><a href="/files/ManagingTransition.pdf" rel="noopener noreferrer nofollow" target="_blank">Managing Transition</a>&nbsp;and&nbsp;
 <a href="/files/Sleep.pdf" rel="noopener noreferrer nofollow" target="_blank">Sleep</a>
 <br><a href="/files/Less%20Sugar%20Drinks.pdf" rel="noopener noreferrer nofollow" target="_blank">Less Sugar Drinks</a> 
 <br><a href="/files/GuiltFreeTreats.pdf" rel="noopener noreferrer nofollow" target="_blank">Guilt Free Treats</a>
