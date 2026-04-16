@@ -266,7 +266,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Rathana Ravendra
-<br><a href="mailto:rathana_revendra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rathana_revendra@schools.gov.sg</a>
+<br><a href="mailto:rathana_ravendra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rathana_ravendra@schools.gov.sg</a>
 </p>
 </td>
 </tr>
