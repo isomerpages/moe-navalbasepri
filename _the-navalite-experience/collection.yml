@@ -1,5 +1,5 @@
 collections:
-  the-navalite-programme:
+  the-navalite-experience:
     output: true
     order:
       - Environmental Education.md
