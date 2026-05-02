@@ -1,7 +1,11 @@
 collections:
-  the-navalite-programme:
+  the-navalite-experience:
     output: true
     order:
+      - Flagship Programme/InnoChangeMaker (ICM) Programme.md
+      - Flagship Programme/Learning for Life Programme (LLP).md
+      - Flagship Programme/Applied Learning Programme (ALP).md
+      - Flagship Programme/.keep
       - Environmental Education.md
       - Subjects/.keep
       - Subjects/English.md
@@ -13,8 +17,6 @@ collections:
       - Character Development/Character & Citizenship Education.md
       - Character Development/Programme for Active Learning (PAL).md
       - Character Development/Student Leadership.md
-      - Applied Learning Programme (ALP).md
-      - Learning for Life Programme (LLP).md
       - CCA/.keep
       - CCA/Overview.md
       - CCA/Boys' Brigade.md
