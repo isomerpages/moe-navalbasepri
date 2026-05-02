@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: School Calendar
           description: Dates and Events
-          url: ""
+          url: /school-calendar/
         - title: Events
           description: Our CCE Journey
           url: /our-cce-journey-2025/
         - title: Contact Us
           description: Connect with us
-          url: /nbps-social-media/
+          url: /contact-us
   - resources:
       title: Naval Base Primary School
       subtitle: Welcome to
