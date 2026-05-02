@@ -9,14 +9,14 @@ sections:
   - hero:
       background: /images/Homepage/NBPS_WEB_landingpage_01.png
       key_highlights:
-        - title: Our Values
-          description: Vision Mission Values
-          url: /about-us/Vision-Mission-Values/
-        - title: Spotlight
+        - title: School Calendar
+          description: Dates and Events
+          url: ""
+        - title: Events
           description: Our CCE Journey
           url: /our-cce-journey-2025/
-        - title: Check us out
-          description: on Social Media!
+        - title: Contact Us
+          description: Connect with us
           url: /nbps-social-media/
   - resources:
       title: Naval Base Primary School
