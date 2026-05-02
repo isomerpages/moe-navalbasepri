@@ -41,7 +41,7 @@ translating ideas into meaningful outcomes that benefit the community.</p>
 4), preparing students as Innovative Thinkers, Caring Contributors and
 Collaborative Team Players.</p>
 <p></p>
-<h3>P3 and P4 Anchor and Green Captains  InnoChangeMaker (ICM) Values-In-Action (VIA) Programme</h3>
+<h3>P3 and P4 Anchor and Green Captains InnoChangeMaker (ICM) Values-In-Action (VIA) Programme</h3>
 <p>Our collaboration with Lion Befrienders stemmed from our desire to provide
 students with authentic, meaningful learning experiences beyond the classroom.
 As part of our Stewards of Environmental Action (SEA) efforts, we wanted
