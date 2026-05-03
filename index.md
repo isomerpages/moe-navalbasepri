@@ -23,9 +23,10 @@ sections:
       subtitle: Welcome to
   - infopic:
       title: SOCIAL MEDIA
-      subtitle: Check out our
+      subtitle: check out our
       id: infopic
       button: Click here
       url: /nbps-social-media/
       alt: social media
+      image: /images/Homepage/nbps.jpg
 ---
