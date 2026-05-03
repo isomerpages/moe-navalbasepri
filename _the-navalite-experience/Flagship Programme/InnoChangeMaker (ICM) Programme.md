@@ -7,7 +7,6 @@ third_nav_title: Flagship Programme
 ---
 <h1>InnoChangeMaker (ICM) Programme</h1>
 <p></p>
-<h3>P3 and P4 Inno Fest</h3>
 <p>The InnoChangeMaker (ICM) Programme for Middle Primary students, introduced
 alongside the removal of Mid-Year Examinations, advances 21st Century Competencies
 through Design Thinking principles anchored in Ideation-Prototyping-Showcasing
@@ -19,7 +18,6 @@ cycles.</p>
 Eco-Stewardship, Applied Learning Programme, and Values-In-Action components.
 Community partnerships with professionals provide authentic mentorship
 and real-world insights, cultivating communication skills and civic literacy.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/NavaliteProgramme/WhatsApp_Image_2026_05_02_at_3_54_51_PM__2_.jpg">
 </div>
@@ -27,7 +25,6 @@ and real-world insights, cultivating communication skills and civic literacy.</p
 the environment as a stimulus for thinking, iPads support research and
 ideation, green screens enable multimedia presentations, and interactive
 walls facilitate collaborative digital creation.</p>
-<p></p>
 <p>The MakerSpace incorporates technology-enhanced prototyping tools, whilst
 the Media Studio develops students' digital literacy through content creation
 for publicity materials. This technology-rich environment guides students
@@ -58,12 +55,15 @@ meaningfully engage with, learn from, and care for the elderly.</p>
 <p>The outreach was led by our Primary 3 and 4 Anchor Captains (Prefects)
 and Green Captains, who played a key role in planning and facilitating
 the activities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NavaliteProgramme/WhatsApp_Image_2026_05_02_at_4_11_14_PM__3_.jpg">
+</div>
 <p>The programme was grounded in our Design Thinking approach. Students first
 visited Lion Befrienders to empathise with the elderly, where they interacted,
 observed, and conducted simple interviews to better understand the seniors’
 interests, needs, and daily experiences.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NavaliteProgramme/WhatsApp_Image_2026_05_02_at_4_11_14_PM__3_.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NavaliteProgramme/WhatsApp_Image_2026_05_02_at_4_11_13_PM__1_.jpg">
 </div>
 <p>Based on these insights, students returned to school to ideate and design
 activities that would be both meaningful and enjoyable. They eventually
