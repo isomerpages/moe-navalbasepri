@@ -21,4 +21,11 @@ sections:
   - resources:
       title: Naval Base Primary School
       subtitle: Welcome to
+  - infopic:
+      title: SOCIAL MEDIA
+      subtitle: Check out our
+      id: infopic
+      button: Click here
+      url: /nbps-social-media/
+      alt: social media
 ---
