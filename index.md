@@ -13,7 +13,7 @@ sections:
           description: Dates and Events
           url: /school-calendar/
         - title: Events
-          description: Our CCE Journey
+          description: ""
           url: /our-cce-journey-2025/
         - title: Contact Us
           description: Connect with us
