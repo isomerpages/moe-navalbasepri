@@ -18,9 +18,6 @@ sections:
         - title: Contact Us
           description: Connect with us
           url: /contact-us
-  - resources:
-      title: Naval Base Primary School
-      subtitle: Welcome to
   - infopic:
       title: SOCIAL MEDIA
       subtitle: check out our
