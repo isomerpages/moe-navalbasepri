@@ -2,4 +2,4 @@ collections:
   flagship-programme:
     output: true
     order:
-      - InnoChangeMaker (ICM) Programme.md
+      - InnoChangeMaker (ICM).md
