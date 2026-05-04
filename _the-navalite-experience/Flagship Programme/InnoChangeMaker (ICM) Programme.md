@@ -41,7 +41,7 @@ Collaborative Team Players.</p>
 <h3>P3 and P4 Anchor and Green Captains InnoChangeMaker (ICM) Values-In-Action (VIA) Programme</h3>
 <p>Our collaboration with Lion Befrienders stemmed from our desire to provide
 students with authentic, meaningful learning experiences beyond the classroom.
-As part of our Stewards of Environmental Action (SEA) efforts, we wanted
+As part of our Stewards of Environmental Action (S.E.A) efforts, we wanted
 students to not only learn about sustainability, but also apply it in ways
 that create real impact within the community.</p>
 <div class="isomer-image-wrapper">
