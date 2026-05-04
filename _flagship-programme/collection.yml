@@ -1,4 +1,5 @@
 collections:
   flagship-programme:
     output: true
-    order: []
+    order:
+      - InnoChangeMaker (ICM).md
