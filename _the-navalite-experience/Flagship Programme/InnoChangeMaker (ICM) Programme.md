@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Flagship Programme
 ---
 <h1>InnoChangeMaker (ICM) Programme</h1>
-<p></p>
 <p>The InnoChangeMaker (ICM) Programme for Middle Primary students, introduced
 alongside the removal of Mid-Year Examinations, advances 21st Century Competencies
 through Design Thinking principles anchored in Ideation-Prototyping-Showcasing
@@ -19,6 +18,7 @@ cycles.</p>
 Eco-Stewardship, Applied Learning Programme, and Values-In-Action components.
 Community partnerships with professionals provide authentic mentorship
 and real-world insights, cultivating communication skills and civic literacy.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NavaliteProgramme/WhatsApp_Image_2026_05_02_at_3_54_49_PM.jpg">
 </div>
@@ -31,6 +31,10 @@ the Media Studio develops students' digital literacy through content creation
 for publicity materials. This technology-rich environment guides students
 through comprehensive project development, from ideation to showcasing,
 translating ideas into meaningful outcomes that benefit the community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NavaliteProgramme/NDP1.jpg">
+</div>
 <p>Learning culminates in Innofest (Primary 3 and Primary 4), preparing students
 as Innovative Thinkers, Caring Contributors and Collaborative Team Players.</p>
 <h3>P3 and P4 Anchor and Green Captains InnoChangeMaker (ICM) Values-In-Action (VIA) Programme</h3>
