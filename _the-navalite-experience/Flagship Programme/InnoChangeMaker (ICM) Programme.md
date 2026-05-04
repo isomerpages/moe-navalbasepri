@@ -31,13 +31,13 @@ the Media Studio develops students' digital literacy through content creation
 for publicity materials. This technology-rich environment guides students
 through comprehensive project development, from ideation to showcasing,
 translating ideas into meaningful outcomes that benefit the community.</p>
-<p></p>
+<h3>P3 and P4 InnoFest</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NavaliteProgramme/NDP1.jpg">
 </div>
 <p>Learning culminates in Innofest (Primary 3 and Primary 4), preparing students
 as Innovative Thinkers, Caring Contributors and Collaborative Team Players.</p>
-<h3>P3 and P4 Anchor and Green Captains InnoChangeMaker (ICM) Values-In-Action (VIA) Programme</h3>
+<h4>P3 and P4 Anchor and Green Captains InnoChangeMaker (ICM) Values-In-Action (VIA) Programme</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NavaliteProgramme/WhatsApp_Image_2026_05_02_at_4_11_10_PM.jpg">
 </div>
