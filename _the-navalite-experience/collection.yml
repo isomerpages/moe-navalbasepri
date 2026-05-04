@@ -2,7 +2,6 @@ collections:
   the-navalite-experience:
     output: true
     order:
-      - Flagship Programme/Learning for Life Programme (LLP).md
       - Flagship Programme/Applied Learning Programme (ALP).md
       - Flagship Programme/.keep
       - Stewards of Environmental Action (S E A).md
