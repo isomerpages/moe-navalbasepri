@@ -4,7 +4,7 @@ permalink: /innochangemaker-icm-programme/
 variant: tiptap
 description: ""
 ---
-<h1>InnoChangeMaker (ICM) Programme</h1>
+<h1>InnoChangeMaker (ICM)</h1>
 <p>The InnoChangeMaker (ICM) Programme for Middle Primary students, introduced
 alongside the removal of Mid-Year Examinations, advances 21st Century Competencies
 through Design Thinking principles anchored in Ideation-Prototyping-Showcasing
