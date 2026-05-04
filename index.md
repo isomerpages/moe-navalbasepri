@@ -25,5 +25,5 @@ sections:
       button: Click here
       url: /nbps-social-media/
       alt: social media
-      image: /images/Homepage/nbps.jpg
+      image: /images/Homepage/nbps_sm_banner.jpg
 ---
