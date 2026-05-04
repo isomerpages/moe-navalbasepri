@@ -2,10 +2,8 @@ collections:
   the-navalite-experience:
     output: true
     order:
-      - Flagship Programme/InnoChangeMaker (ICM) Programme.md
-      - Flagship Programme/Learning for Life Programme (LLP).md
-      - Flagship Programme/Applied Learning Programme (ALP).md
-      - Flagship Programme/.keep
+      - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md
       - Stewards of Environmental Action (S E A).md
       - Subjects/.keep
       - Subjects/English.md

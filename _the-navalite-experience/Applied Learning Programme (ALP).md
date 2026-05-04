@@ -3,7 +3,6 @@ title: Applied Learning Programme (ALP)
 permalink: /the-navalite-programme/ALP/
 description: ""
 variant: tiptap
-third_nav_title: Flagship Programme
 ---
 <h2>APPLIED LEARNING PROGRAMME (ALP)</h2>
 <p>The Applied Learning Programme (ALP) connects classroom learning with

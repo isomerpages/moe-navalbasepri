@@ -1,0 +1,5 @@
+collections:
+  flagship-programme:
+    output: true
+    order:
+      - InnoChangeMaker (ICM).md

@@ -1,11 +1,10 @@
 ---
-title: InnoChangeMaker (ICM) Programme
-permalink: /innochangemaker-icm-programme/
+title: InnoChangeMaker (ICM)
+permalink: /innochangemaker-icm/
 variant: tiptap
 description: ""
-third_nav_title: Flagship Programme
 ---
-<h1>InnoChangeMaker (ICM) Programme</h1>
+<h1>InnoChangeMaker (ICM)</h1>
 <p>The InnoChangeMaker (ICM) Programme for Middle Primary students, introduced
 alongside the removal of Mid-Year Examinations, advances 21st Century Competencies
 through Design Thinking principles anchored in Ideation-Prototyping-Showcasing
