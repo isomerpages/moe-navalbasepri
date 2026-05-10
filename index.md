@@ -18,6 +18,7 @@ sections:
         - title: Contact Us
           description: Connect with us
           url: /contact-us
+      variant: image
   - infopic:
       title: SOCIAL MEDIA
       subtitle: check out our
