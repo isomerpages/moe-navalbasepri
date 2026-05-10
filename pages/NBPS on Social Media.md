@@ -15,31 +15,42 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/NBPS1730/"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Social Media/Facebook_Logo_Primary.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.instagram.com/navalbasepri/"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Social Media/Instagram_Glyph_Gradient.png"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h3><strong>Scan to access</strong></h3>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.youtube.com/@NBPS-ICT"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Social Media/yt_logo_fullcolor_almostblack_digital.png"></a>
-<p></p>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/NBPS1730/"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Social Media/Facebook_Logo_Primary.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Media/nbps_fb_qr.jpg">
+</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://t.me/+jrv8GZRyMNcxMTVl"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Social Media/Logo.png"></a>
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.instagram.com/navalbasepri/"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Social Media/Instagram_Glyph_Gradient.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Media/nbps_ig_qr.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://t.me/+jrv8GZRyMNcxMTVl"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Social Media/Logo.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Media/nbps_tele_qr.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.youtube.com/@NBPS-ICT"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Social Media/yt_logo_fullcolor_almostblack_digital.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
