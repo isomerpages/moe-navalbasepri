@@ -41,7 +41,17 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.youtube.com/@NBPS-ICT"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Social Media/yt_logo_fullcolor_almostblack_digital.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social Media/nbps_yt_qr.png">
+</div>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://t.me/+jrv8GZRyMNcxMTVl"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Social Media/Logo.png"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -49,9 +59,14 @@ description: ""
 </div>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.youtube.com/@NBPS-ICT"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Social Media/yt_logo_fullcolor_almostblack_digital.png"></a>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
