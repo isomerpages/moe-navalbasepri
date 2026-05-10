@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/NBPS_WEB_landingpage_01.png
+      background: /images/Homepage/landing_page_2.jpg
       key_highlights:
         - title: School Calendar
           description: Dates and Events
