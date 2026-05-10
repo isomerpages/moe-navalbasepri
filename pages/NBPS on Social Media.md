@@ -4,23 +4,14 @@ permalink: /nbps-social-media/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
-<p></p>
+<h1>Follow us on Social Media</h1>
+<h3>Scan the QR code to stay updated!</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<h3><strong>Scan to access</strong></h3>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/NBPS1730/"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Social Media/Facebook_Logo_Primary.png"></a>
