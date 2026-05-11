@@ -28,7 +28,7 @@ sections:
         way in sustainability.
       button: Read the highlights
       url: /events/nbps-gogreen2026/
-      image: /images/EVENTS/nbps_green_1.jpg
+      image: /images/EVENTS/nbps_green_2.jpg
       alt: Image alt text
   - infopic:
       title: Social Media
