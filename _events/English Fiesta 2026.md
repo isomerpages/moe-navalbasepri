@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>Celebrate the Joy of Language at English Fiesta!</strong></h3>
 <p>It has been a vibrant week at NBPS as we kicked off our <strong>English Fiesta</strong>,
-a celebration of creativity and language! Our campus transformed into a
+a celebration of creativity and language! Our school transformed into a
 living storybook, with teachers and students alike bringing literature
 to life.</p>
 <div class="isomer-image-wrapper">
