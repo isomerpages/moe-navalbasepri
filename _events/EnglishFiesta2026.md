@@ -9,10 +9,14 @@ description: ""
 a celebration of creativity and language! Our campus transformed into a
 living storybook, with teachers and students alike bringing literature
 to life.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/EVENTS/el_fiesta.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/EVENTS/el_fiesta3.jpg">
 </div>
+<p></p>
 <p>The week’s highlights included:</p>
 <ul>
 <li>
@@ -28,5 +32,5 @@ and confident Show and Tell sessions from our P1s.</p>
 language games.</p>
 </li>
 </ul>
-<p>A huge thank you to our teachers for dressing up as their favorite storybook
-characters and inspiring our students to find the fun in every page!</p>
+<p>It was truly a week of celebrating wonderful book characters and inspiring
+our students to find the fun in every page!</p>
