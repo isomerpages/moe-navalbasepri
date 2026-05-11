@@ -46,4 +46,5 @@ sections:
       button: find out more
       url: L https://navalbasepri.moe.edu.sg/students-achievements/
       alt: Image alt text
+      image: /images/ang_chuan_seng.png
 ---
