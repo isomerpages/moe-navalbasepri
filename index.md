@@ -44,7 +44,7 @@ sections:
       id: infopic
       description: We are proud of our Alumni!
       button: find out more
-      url: L https://navalbasepri.moe.edu.sg/students-achievements/
+      url: /students-achievements/
       alt: Image alt text
       image: /images/ang_chuan_seng.png
 ---
