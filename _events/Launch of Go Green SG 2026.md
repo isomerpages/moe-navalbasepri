@@ -1,8 +1,8 @@
 ---
 title: Launch of Go Green SG 2026
-permalink: /events/
+permalink: /events/nbps-gogreen2026/
 variant: tiptap
-description: ""
+description: NBPS Go Green 2026
 ---
 <h3><strong>Launch of Go Green SG 2026</strong></h3>
 <div class="isomer-image-wrapper">
@@ -11,6 +11,11 @@ description: ""
 <p><em>Source: The Straits Times</em>
 </p>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EVENTS/shin_min_go_green.jpg">
+</div>
+<p><em>Source: Shin Min Daily News</em>
+</p>
 <p><strong>Click on these links to read more about the event:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -20,6 +25,10 @@ description: ""
 </li>
 <li>
 <p><a href="https://www.8world.com/singapore/go-green-launch-3145511" rel="noopener noreferrer nofollow" target="_blank">Lianhe Zaobao: 颜金勇：气候变化将影响企业营运与发展</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.beritaharian.sg/singapura/dpm-gan-pelan-jangka-panjang-bantu-negara-tangani-kejutan-luaran-bina-ketahanan-iklim" rel="noopener noreferrer nofollow" target="_blank">Berita Harian: DPM Gan: Pelan jangka panjang bantu negara tangani kejutan luaran, bina ketahanan iklim</a>
 </p>
 </li>
 <li>
