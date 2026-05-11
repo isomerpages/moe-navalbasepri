@@ -5,14 +5,16 @@ variant: tiptap
 description: NBPS Go Green 2026
 ---
 <h3><strong>Launch of Go Green SG 2026</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/EVENTS/dpm_gan_visit.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/dpm_gan_visit.jpg">
 </div>
 <p><em>Source: The Straits Times</em>
 </p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EVENTS/shin_min_go_green.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/nbps_green_3.jpg">
 </div>
 <p><em>Source: Shin Min Daily News</em>
 </p>
