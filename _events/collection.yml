@@ -1,0 +1,5 @@
+collections:
+  events:
+    output: true
+    order:
+      - Launch of Go Green SG 2026.md
