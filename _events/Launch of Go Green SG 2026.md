@@ -28,8 +28,9 @@ description: ""
 </li>
 </ul>
 <p>Naval Base Primary School was honored to host Deputy Prime Minister Gan
-Kim Yong, Minister Grace Fu and Senior Parliamentary Secretary Goh Hanyan
-for the official launch of <strong>Go Green SG 2026</strong> on 11 May 2026.</p>
+Kim Yong, Minister for Sustainability and the Environment Grace Fu and
+Senior Parliamentary Secretary Goh Hanyan for the official launch of <strong>Go Green SG 2026</strong> on
+11 May 2026.</p>
 <p>A key highlight was the unveiling of our refreshed Wellness Garden, now
 equipped with a solar-powered hydroponics system. Here, our students grow
 produce for local community fridges, merging food resilience with social
