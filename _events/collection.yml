@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - EnglishFiesta2026.md
       - View All.md
       - Launch of Go Green SG 2026.md
