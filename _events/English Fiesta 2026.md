@@ -10,18 +10,26 @@ a celebration of creativity and language! Our campus transformed into a
 living storybook, with teachers and students alike bringing literature
 to life.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/EVENTS/el_fiesta.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/el_fiesta3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/EVENTS/el_fiesta3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/WhatsApp_Image_2026_05_11_at_5_40_49_PM.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/el_fiesta2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/WhatsApp_Image_2026_05_11_at_5_36_46_PM.jpg">
+</div>
 <p>The week’s highlights included:</p>
 <ul>
 <li>
 <p><strong>Readers’ Theatre:</strong> A hilarious "fractured fairytale" performance
-of <em>Hansel &amp; Gretel</em> by our teachers and P3 students.</p>
+of <em>Hansel &amp; Gretel</em> by our teachers and P3 students during the
+student showcase.</p>
 </li>
 <li>
 <p><strong>Student Showcases:</strong> Captivating storytelling by our P2s
