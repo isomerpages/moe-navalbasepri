@@ -40,7 +40,7 @@ sections:
       image: /images/Homepage/nbps_sm_banner.jpg
   - infopic:
       title: Students' Achievements
-      subtitle: Add an image and text
+      subtitle: Our STORIES
       id: infopic
       description: We are proud of our Alumni!
       button: find out more
