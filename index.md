@@ -20,6 +20,17 @@ sections:
           url: /contact-us
       variant: image
   - infopic:
+      title: Go Green SG Launch 2026
+      subtitle: Events
+      id: infopic
+      description: NBPS proudly hosted Deputy Prime Minister Gan Kim Yong for the Go
+        Green SG 2026 launch! Click to see how our Navalites are leading the way
+        in sustainability.
+      button: Read the highlights
+      url: /events
+      image: /images/EVENTS/nbps_green_1.jpg
+      alt: Image alt text
+  - infopic:
       title: SOCIAL MEDIA
       subtitle: check out our
       id: infopic
