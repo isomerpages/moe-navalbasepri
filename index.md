@@ -38,4 +38,13 @@ sections:
       url: /nbps-social-media/
       alt: social media
       image: /images/Homepage/nbps_sm_banner.jpg
+  - infopic:
+      title: Students' Achievements
+      subtitle: Our STORIES
+      id: infopic
+      description: We are proud of our Alumni!
+      button: find out more
+      url: L https://navalbasepri.moe.edu.sg/students-achievements/
+      alt: Image alt text
+      image: /images/ang_chuan_seng.png
 ---
