@@ -27,11 +27,11 @@ sections:
         Green SG 2026 launch! Click to see how our Navalites are leading the way
         in sustainability.
       button: Read the highlights
-      url: /events
+      url: /events/nbps-gogreen2026/
       image: /images/EVENTS/nbps_green_1.jpg
       alt: Image alt text
   - infopic:
-      title: SOCIAL MEDIA
+      title: Social Media
       subtitle: check out our
       id: infopic
       button: Click here
