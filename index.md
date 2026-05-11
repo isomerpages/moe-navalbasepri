@@ -14,7 +14,7 @@ sections:
           url: /school-calendar/
         - title: Events
           description: ""
-          url: /our-cce-journey-2025/
+          url: /events
         - title: Contact Us
           description: Connect with us
           url: /contact-us
