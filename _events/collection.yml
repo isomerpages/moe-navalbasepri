@@ -2,5 +2,5 @@ collections:
   events:
     output: true
     order:
-      - Events.md
+      - View All.md
       - Launch of Go Green SG 2026.md
