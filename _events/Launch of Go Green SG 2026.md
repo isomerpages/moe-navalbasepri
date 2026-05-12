@@ -16,8 +16,7 @@ description: NBPS Go Green 2026
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/nbps_green_3.jpg">
 </div>
-<p><em>Source: Shin Min Daily News</em>
-</p>
+<p></p>
 <p><strong>Click on these links to read more about the event:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -31,6 +30,14 @@ description: NBPS Go Green 2026
 </li>
 <li>
 <p><a href="https://www.beritaharian.sg/singapura/dpm-gan-pelan-jangka-panjang-bantu-negara-tangani-kejutan-luaran-bina-ketahanan-iklim" rel="noopener noreferrer nofollow" target="_blank">Berita Harian: DPM Gan: Pelan jangka panjang bantu negara tangani kejutan luaran, bina ketahanan iklim</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tamilmurasu.com.sg/singapore/naval-base-primary-school-role-model-climate-resilience" rel="noopener nofollow" target="_blank">Tamil Murasu: Naval Base Primary stands out as model of climate resilience</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.asiaone.com/singapore/go-green-sg-2026-climate-resilience-national-adaptation-gan-kim-yong" rel="noopener noreferrer nofollow" target="_blank">AsiaOne: 'Climate resilience not optional' amidst climate change and energy shocks: DPM Gan, Singapore News</a>
 </p>
 </li>
 <li>
