@@ -34,6 +34,14 @@ description: NBPS Go Green 2026
 </p>
 </li>
 <li>
+<p><a href="https://www.tamilmurasu.com.sg/singapore/naval-base-primary-school-role-model-climate-resilience" rel="noopener nofollow" target="_blank">Tamil Murasu: Naval Base Primary stands out as model of climate resilience</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.asiaone.com/singapore/go-green-sg-2026-climate-resilience-national-adaptation-gan-kim-yong" rel="noopener noreferrer nofollow" target="_blank">AsiaOne: 'Climate resilience not optional' amidst climate change and energy shocks: DPM Gan, Singapore News</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.8world.com/singapore/go-green-launch-3145511" rel="noopener noreferrer nofollow" target="_blank">8world: 绿动新加坡正式启动 政府制定长期计划应对气候变化</a>
 </p>
 </li>
