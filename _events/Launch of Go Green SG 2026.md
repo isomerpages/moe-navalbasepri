@@ -16,8 +16,7 @@ description: NBPS Go Green 2026
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/nbps_green_3.jpg">
 </div>
-<p><em>Source: Shin Min Daily News</em>
-</p>
+<p></p>
 <p><strong>Click on these links to read more about the event:</strong>
 </p>
 <ul data-tight="true" class="tight">
