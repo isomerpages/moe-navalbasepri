@@ -28,7 +28,7 @@ sections:
         way in sustainability.
       button: Read the highlights
       url: /events/nbps-gogreen2026/
-      image: /images/Events/Straits_times_green_1.png
+      image: /images/Events/landing_pr_gif.gif
       alt: Image alt text
   - infopic:
       title: Social Media

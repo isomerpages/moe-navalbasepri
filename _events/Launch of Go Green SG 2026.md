@@ -14,7 +14,7 @@ description: NBPS Go Green 2026
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/nbps_green_3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/nbps_green_4.jpg">
 </div>
 <p></p>
 <p><strong>Click on these links to read more about the event:</strong>
