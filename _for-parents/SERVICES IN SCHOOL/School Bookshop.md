@@ -15,6 +15,9 @@ third_nav_title: SERVICES IN SCHOOL
 <br>For Parents: 2.00pm to 3.30pm
 <br>
 </p>
+<p><strong><em>[NOTICE] The school bookshop will close at 2:00 PM on 26 May 2026 for its annual stock take briefing.</em></strong>
+</p>
+<p></p>
 <h5><strong><u>Booklist for Year 2026</u></strong></h5>
 <table style="minWidth: 150px">
 <colgroup>
