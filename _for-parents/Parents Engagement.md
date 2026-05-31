@@ -31,6 +31,6 @@ description: ""
 </p>
 <p><a href="/files/For Parents/Parents Engagement/P6_Parent_Engagement_Session_20_Jan_2026_compressed.pdf" rel="noopener nofollow" target="_blank">P6 Parents' Engagement Session - (20 Jan 2026)</a>
 </p>
-<p><a href="/files/2026_P6_DSA_PSLE_27_May_website_final.pdf" rel="noopener nofollow" target="_blank">P6 DSA &amp; PSLE Engagement Talk - (29 Mayfile 2026)</a>
+<p><a href="/files/2026_P6_DSA_PSLE_27_May_website_final.pdf" rel="noopener nofollow" target="_blank">P6 DSA &amp; PSLE Engagement Talk - (29 May 2026)</a>
 </p>
 <p></p>
