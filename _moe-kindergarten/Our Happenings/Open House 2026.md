@@ -6,6 +6,12 @@ description: ""
 image: /images/Open_House_poster_2026.png
 third_nav_title: Our Happenings
 ---
+<h4>Waiting List for Application</h4>
+<p>Thank You for your interest in our kindergarten!</p>
+<p>Please fill in this waiting list application form.</p>
+<p><a href="https://go.gov.sg/mknbwaitlist" rel="noopener nofollow" target="_blank">https://go.gov.sg/mknbwaitlist</a>
+</p>
+<p></p>
 <h4>Register for MK@Naval Base Open House 2026!</h4>
 <p>You may scan the QR code or <a href="https://mknb-openhouse26.app.entry.gov.sg/form/24af85c7-d98d-498d-93e6-f0dd13ab2d18" rel="noopener nofollow" target="_blank">click here</a> to
 register your interest. We look forward to welcoming you and your child!
