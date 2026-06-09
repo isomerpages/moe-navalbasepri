@@ -4,9 +4,8 @@ permalink: /parents/psle-2025-information/
 description: ""
 variant: tiptap
 ---
-<h2>PSLE 2025 INFORMATION</h2>
-<h4><a href="/files/For Parents/Admin_Brief_2025_PSLE_Slides_for_parents.pdf" rel="noopener nofollow" target="_blank">Admin Briefing 2025 on PSLE Result Release Day (25-11-2025)</a></h4>
-<p></p>
+<h2>PSLE INFORMATION</h2>
+<h4></h4>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -20,8 +19,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>From: 11.30am on Tuesday, 25 November 2025<br>To: 4.30pm on Monday, 1 December 2025</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
