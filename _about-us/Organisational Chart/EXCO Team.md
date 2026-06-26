@@ -305,9 +305,7 @@ variant: tiptap
 <p>LH MT (CL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lua Liwen
-<br><a href="mailto:lua_li_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lua_li_wen@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
