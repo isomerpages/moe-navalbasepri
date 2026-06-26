@@ -710,13 +710,13 @@ third_nav_title: Organisational Chart
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lua Li Wen</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lua_li_wen@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
