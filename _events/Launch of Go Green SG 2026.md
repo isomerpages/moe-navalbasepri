@@ -12,11 +12,6 @@ description: NBPS Go Green 2026
 <p><em>Source: The Straits Times</em>
 </p>
 <hr>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/nbps_green_4.jpg">
-</div>
-<p></p>
 <p><strong>Click on these links to read more about the event:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -45,14 +40,33 @@ description: NBPS Go Green 2026
 </p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/GGSG_2026_opening_at_NBPS_with_logo.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/20260511_DBPS_GGSG_Launch_Alvin_12.jpg">
+</div>
+<p><em>Credits: Ministry of Sustainability and the Environment</em>
+</p>
 <p>Naval Base Primary School was honored to host Deputy Prime Minister Gan
 Kim Yong, Minister for Sustainability and the Environment Grace Fu and
 Senior Parliamentary Secretary Goh Hanyan for the official launch of <strong>Go Green SG 2026</strong> on
 11 May 2026.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/20260511_DBPS_GGSG_Launch_Alvin_6.jpg">
+</div>
+<p><em>Credits: Ministry of Sustainability and the Environment</em>
+</p>
 <p>A key highlight was the unveiling of our refreshed Wellness Garden, now
 equipped with a solar-powered hydroponics system. Here, our students grow
 produce for local community fridges, merging food resilience with social
 responsibility.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/20260511_DBPS_GGSG_Launch_Alvin_4.jpg">
+</div>
+<p><em>Credits: Ministry of Sustainability and the Environment</em>
+</p>
 <p>As we enter the Year of Climate Adaptation, Navalites remain at the forefront
 of sustainability - from textile upcycling to e-waste management. We are
 proud to lead the way in building a greener, more resilient Singapore!</p>
