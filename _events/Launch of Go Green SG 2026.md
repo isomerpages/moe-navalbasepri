@@ -47,7 +47,7 @@ description: NBPS Go Green 2026
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/20260511_DBPS_GGSG_Launch_Alvin_12.jpg">
 </div>
-<p><em>Credits: Ministry of Sustainability and the Environment</em>
+<p><em>Source: Ministry of Sustainability and the Environment</em>
 </p>
 <p>Naval Base Primary School was honored to host Deputy Prime Minister Gan
 Kim Yong, Minister for Sustainability and the Environment Grace Fu and
@@ -65,7 +65,7 @@ responsibility.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Events/20260511_DBPS_GGSG_Launch_Alvin_4.jpg">
 </div>
-<p><em>Credits: Ministry of Sustainability and the Environment</em>
+<p><em>Source: Ministry of Sustainability and the Environment</em>
 </p>
 <p>As we enter the Year of Climate Adaptation, Navalites remain at the forefront
 of sustainability - from textile upcycling to e-waste management. We are
@@ -73,9 +73,10 @@ proud to lead the way in building a greener, more resilient Singapore!</p>
 <p></p>
 <h4>Little Red Dot Spotlight</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/LRD_Green.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/nbps_lrd.png">
 </div>
-<p></p>
+<p><em>Source: Little Red Dot, May 13, 2026</em>
+</p>
 <h4>Watch the highlights in the reel below!</h4>
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px;         max-width:324px; min-width:195px; padding:0; width:60%;" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/reel/DYRQ-87BkMD/?utm_source=ig_embed&amp;utm_campaign=loading" class="instagram-media">
