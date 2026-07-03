@@ -57,6 +57,11 @@ responsibility.</p>
 of sustainability - from textile upcycling to e-waste management. We are
 proud to lead the way in building a greener, more resilient Singapore!</p>
 <p></p>
+<h4>Little Red Dot Spotlight</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/LRD_Green.jpg">
+</div>
+<p></p>
 <h4>Watch the highlights in the reel below!</h4>
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px;         max-width:324px; min-width:195px; padding:0; width:60%;" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/reel/DYRQ-87BkMD/?utm_source=ig_embed&amp;utm_campaign=loading" class="instagram-media">
