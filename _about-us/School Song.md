@@ -11,7 +11,7 @@ variant: tiptap
 <br>On Board our Naval Base Primary</p>
 <p>Sail On, Sail On
 <br>We'll ride the wildest storm
-<br>Our spirits, brave and strong
+<br>With our spirits, brave and strong
 <br>Soon the gale will be gone</p>
 <p>Wave after wave, we will go
 <br>Till we hear the shouts of ‘Land Ahoy'
